@@ -15,7 +15,7 @@ A model trained only on the Titanic can't say whether "women and children
 first" is a general rule or a one-off historical artifact. To find out, this
 project pools passenger-level data from **two** maritime disasters — the
 RMS Titanic (1912) and the RMS Lusitania (1915) — and tests whether
-variables like `sex` and `passenger class` behave the same way in both.
+variables like `sex` and `pclass` behave the same way in both.
 
 ## Why two disasters, and why these two
 
@@ -51,11 +51,50 @@ and tests that finding from the raw passenger-level data.
 
 ```
 .
-├── MIH_ML.ipynb                 # Main python notebook
-├── titanic.csv                  # Raw Titanic dataset (passengers only)
+├── Titanic-Dataset.csv          # Raw Titanic dataset (passengers only)
 ├── LusitaniaManifest.csv        # Raw Lusitania manifest (passengers + crew)
+├── MIH_ML.ipynb                 # Interactive notebook for demonstation
 └── README.md
 ```
+
+## Dataset contents
+
+### Titanic (`Titanic-Dataset.csv`) — 891 rows, 12 raw columns
+
+| Column | Type | Missing | Description |
+|---|---|---|---|
+| `PassengerId` | int | 0 | Row identifier, not predictive — dropped before modeling |
+| `Survived` | int (0/1) | 0 | **Target variable** |
+| `Pclass` | int (1/2/3) | 0 | Ticket class — proxy for socio-economic status |
+| `Name` | text | 0 | Full name, formatted `Surname, Title. Firstname`; title can be extracted as a feature |
+| `Sex` | text | 0 | `male` / `female` |
+| `Age` | float | 177 (20%) | Missing disproportionately in 3rd class (28%) vs. 2nd class (6%) — not random, handled with group-based imputation |
+| `SibSp` | int | 0 | Number of siblings/spouses aboard |
+| `Parch` | int | 0 | Number of parents/children aboard |
+| `Ticket` | text | 0 | Ticket number — often shared across multiple passengers (e.g. families), so `Fare` is per-ticket, not strictly per-person |
+| `Fare` | float | 0 | Ticket price; includes legitimate `0` values (crew/line passes) and shared-ticket high values |
+| `Cabin` | text | 687 (77%) | Cabin number — dropped, too sparse and mostly a unique identifier (147 unique values across only 204 known rows) |
+| `Embarked` | text (S/C/Q) | 2 | Port of boarding: Southampton, Cherbourg, or Queenstown |
+
+### Lusitania (`LusitaniaManifest.csv`) — 1,961 rows, 15 raw columns
+
+| Column | Type | Missing | Description |
+|---|---|---|---|
+| `Family name` | text | 0 | Surname — not predictive, dropped |
+| `Title` | text | 0 | Honorific (Mr./Mrs./etc.) — not used, low priority |
+| `Personal name` | text | 3 | First name(s) — not predictive, dropped |
+| `Fate` | text (Saved/Lost) | 0 | **Target variable**, recoded to `survived` (1/0) to match Titanic |
+| `Age` | float | 662 (34%) | Heavier missingness than Titanic — `Adult/Minor` used as a zero-missing fallback |
+| `Department/Class` | text | 0 | Mixed field: passenger classes (`Saloon`, `Second`, `Third`) *and* crew departments (`Band`, `Deck`, `Engineering`, `Victualling`); recoded to `pclass` (1/2/3) after filtering to passengers only |
+| `Passenger/Crew` | text | 0 | Used to filter the dataset down to passengers only, matching Titanic's passenger-only scope (1,265 passengers vs. 693 crew + 3 stowaways) |
+| `Citizenship` | text | 2 | No Titanic equivalent — dropped |
+| `Position` | text | 1,270 (65%) | Crew job title only — dropped, too sparse and not comparable to any Titanic field |
+| `Status` | text | 1,170 (60%) | Unclear meaning, high missingness — dropped |
+| `City` | text | 682 (35%) | Residence city, no Titanic equivalent — dropped |
+| `Lifeboat` | text | 1,867 (95%) | Only populated for some survivors — kept aside as a validation check on `Fate`, not used as a model feature |
+| `Rescue Vessel` | text | 1,810 (92%) | Same issue as `Lifeboat` — dropped |
+| `Adult/Minor` | text | 0 | Zero-missing age category, used as a fallback where `Age` is missing |
+| `Sex` | text | 0 | `Male` / `Female`, lowercased to match Titanic's `sex` formatting |
 
 ## Key variables
 
@@ -68,12 +107,24 @@ and tests that finding from the raw passenger-level data.
 | `disaster` | Titanic or Lusitania | Which disaster the row belongs to |
 | `time_to_sink_min` | Minutes from incident to sinking (160 vs. 18) | Moderator: does evacuation speed change which norms hold? |
 
+## Findings so far (exploratory)
+
+| | Titanic | Lusitania |
+|---|---|---|
+| Female survival rate | 74.0% | 37.3% |
+| Male survival rate | 18.9% | 38.0% |
+| 1st class survival rate | 62.6% | 39.2% |
+| 3rd class survival rate | 24.2% | 35.9% |
+
+On the Titanic, sex and class strongly predict survival. On the Lusitania,
+both effects nearly disappear. This is the pattern the pooled interaction
+model is being built to test formally.
 
 ## Status
 
 - [x] Load, clean, and filter Titanic dataset
-- [ ] Load, clean, and filter Lusitania dataset (passengers isolated from crew)
-- [ ] Pool both datasets into a shared schema
+- [x] Load, clean, and filter Lusitania dataset (passengers isolated from crew)
+- [x] Pool both datasets into a shared schema
 - [ ] Impute missing age within the pooled dataset
 - [ ] Fit logistic regression with `sex_female × time_to_sink_min` interaction term
 - [ ] Cross-check with Random Forest + SHAP
