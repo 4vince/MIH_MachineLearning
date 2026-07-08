@@ -107,25 +107,13 @@ and tests that finding from the raw passenger-level data.
 | `disaster` | Titanic or Lusitania | Which disaster the row belongs to |
 | `time_to_sink_min` | Minutes from incident to sinking (160 vs. 18) | Moderator: does evacuation speed change which norms hold? |
 
-## Findings so far (exploratory)
-
-| | Titanic | Lusitania |
-|---|---|---|
-| Female survival rate | 74.0% | 37.3% |
-| Male survival rate | 18.9% | 38.0% |
-| 1st class survival rate | 62.6% | 39.2% |
-| 3rd class survival rate | 24.2% | 35.9% |
-
-On the Titanic, sex and class strongly predict survival. On the Lusitania,
-both effects nearly disappear. This is the pattern the pooled interaction
-model is being built to test formally.
 
 ## Status
 
 - [x] Load, clean, and filter Titanic dataset
 - [x] Load, clean, and filter Lusitania dataset (passengers isolated from crew)
-- [x] Pool both datasets into a shared schema
-- [ ] Impute missing age within the pooled dataset
+- [ ] Pool both datasets into a shared schema
+- [x] Impute missing age within the pooled dataset
 - [ ] Fit logistic regression with `sex_female × time_to_sink_min` interaction term
 - [ ] Cross-check with Random Forest + SHAP
 - [ ] Write up findings: which patterns are structural vs. context-bound
