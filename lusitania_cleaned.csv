@@ -1,0 +1,1954 @@
+Family name,Title,Personal name,Fate,Age,Department/Class,Passenger/Crew,Citizenship,Adult/Minor,Sex,age_was_imputed
+CAMERON,Mr.,Charles W.,lost,38.0,Band,Crew,British,Adult,male,False
+CARR-JONES,Mr.,E.,lost,37.0,Band,Crew,British,Adult,male,False
+DRAKEFORD,Mr.,Edward,saved,30.0,Band,Crew,British,Adult,male,False
+HAWKINS,Mr.,Handel,saved,25.0,Band,Crew,British,Adult,male,False
+HEMINGWAY,Mr.,John William,saved,27.0,Band,Crew,British,Adult,male,False
+ANDERSON,Mr.,James Clarke,lost,48.0,Deck,Crew,British,Adult,male,False
+ANDERSON,Mr.,John,lost,32.0,Deck,Crew,Norwegian,Adult,male,False
+BATTLE,Mr.,James,saved,32.0,Deck,Crew,British,Adult,male,False
+BESTIC,Mr.,Albert Arthur,saved,24.0,Deck,Crew,British,Adult,male,False
+BOWDEN,Mr.,Joseph ,saved,19.0,Deck,Crew,British,Adult,male,False
+BROWN,Mr.,John Manson George,lost,57.0,Deck,Crew,British,Adult,male,False
+CANNON,Mr.,Robert Henry,lost,50.0,Deck,Crew,British,Adult,male,False
+CLINTON,Mr.,George,saved,32.0,Deck,Crew,British,Adult,male,False
+CLYDE,Mr.,Neil,saved,32.0,Deck,Crew,British,Adult,male,False
+CRANK,Mr.,John,lost,32.0,Deck,Crew,British,Adult,male,False
+CUNNINGHAM,Mr.,Edward,saved,32.0,Deck,Crew,British,Adult,male,False
+DAVIES,Mr.,John,saved,32.0,Deck,Crew,British,Adult,male,False
+EGAN,Mr.,William,saved,32.0,Deck,Crew,British,Adult,male,False
+ELLIOT,Mr.,Arthur Graham,lost,32.0,Deck,Crew,British,Adult,male,False
+ELLIOT,Mr.,Fred,saved,32.0,Deck,Crew,British,Adult,male,False
+EVANS,Mr.,Thomas William,lost,32.0,Deck,Crew,British,Adult,male,False
+FAYLE,Mr.,Edward,saved,32.0,Deck,Crew,British,Adult,male,False
+FLEMMING,Mr.,Herbert,lost,32.0,Deck,Crew,British,Adult,male,False
+GARRY,Dr.,Joseph,lost,25.0,Deck,Crew,British,Adult,male,False
+GUNN,Mr.,C.,saved,32.0,Deck,Crew,British,Adult,male,False
+HARMAN,Mr.,John,saved,56.0,Deck,Crew,British,Adult,male,False
+HEFFORD,Mr.,Percy,lost,32.0,Deck,Crew,British,Adult,male,False
+HEIGHWAY,Mr.,Edward John,saved,41.0,Deck,Crew,British,Adult,male,False
+HENNESEY,Mr.,Frank,saved,32.0,Deck,Crew,British,Adult,male,False
+HERMAN,Mr.,Albert,lost,32.0,Deck,Crew,British,Adult,male,False
+HEYES,Mr.,J.,saved,32.0,Deck,Crew,British,Adult,male,False
+HUGHES,Mr.,John Edward,lost,32.0,Deck,Crew,British,Adult,male,False
+HUME,Mr.,James,saved,19.0,Deck,Crew,British,Adult,male,False
+JOHNSTON,Mr.,Hugh Robert,saved,32.0,Deck,Crew,British,Adult,male,False
+JONES,Mr.,Arthur Rowland,saved,33.0,Deck,Crew,British,Adult,male,False
+JONES,Mr.,William,lost,32.0,Deck,Crew,British,Adult,male,False
+KNIGHT,Mr.,C. T.,saved,32.0,Deck,Crew,British,Adult,male,False
+LEDENE,Mr.,Thomas,lost,50.0,Deck,Crew,British,Adult,male,False
+LEWIS,Mr.,John Idwal,saved,29.0,Deck,Crew,British,Adult,male,False
+LOCKETT,Mr.,H.,saved,32.0,Deck,Crew,British,Adult,male,False
+MALONE,Mr.,F.,lost,32.0,Deck,Crew,British,Adult,male,False
+McDERMOTT,Dr.,James Farrell,lost,38.0,Deck,Crew,British,Adult,male,False
+McGLADE,Mr.,George,lost,32.0,Deck,Crew,British,Adult,male,False
+McLEOD,Mr.,Victor,lost,32.0,Deck,Crew,British,Adult,male,False
+McNALLY,Mr.,Peter,lost,32.0,Deck,Crew,British,Adult,male,False
+MOORE,Mr.,Daniel,saved,32.0,Deck,Crew,British,Adult,male,False
+MORTON,Mr.,Leslie Noel (brother of John),saved,18.0,Deck,Crew,British,Adult,male,False
+MORTON,Mr.,John Clifford (brother of Leslie),saved,20.0,Deck,Crew,British,Adult,male,False
+O'MAHONEY,Mr.,Thomas,saved,21.0,Deck,Crew,British,Adult,male,False
+O'NEILL,Mr.,F. H.,saved,32.0,Deck,Crew,British,Adult,male,False
+OWENS,Mr.,Owen,lost,32.0,Deck,Crew,British,Adult,male,False
+PARRY,Mr.,Joseph,saved,26.0,Deck,Crew,British,Adult,male,False
+PIPER,Mr.,John P.,lost,32.0,Deck,Crew,British,Adult,male,False
+QUINN,Mr.,"Thomas John (father of Thomas Quinn, bo'sun's boy)",saved,32.0,Deck,Crew,British,Adult,male,False
+QUINN,Master,"Thomas (son of Thomas Quinn, AB seaman)",lost,17.0,Deck,Crew,British,Minor,male,False
+QUIRK,Mr.,William Eduard,lost,33.0,Deck,Crew,British,Adult,male,False
+REID,Mr.,James,lost,32.0,Deck,Crew,British,Adult,male,False
+ROBB,Mr.,Joseph,lost,27.0,Deck,Crew,British,Adult,male,False
+ROBERTS,Mr.,Charles A.,saved,25.0,Deck,Crew,British,Adult,male,False
+ROBERTSON,Mr.,Neil,saved,32.0,Deck,Crew,British,Adult,male,False
+ROBINS,Mr.,T. (Edward Kyle),lost,32.0,Deck,Crew,British,Adult,male,False
+ROPER,Mr.,John,saved,32.0,Deck,Crew,British,Adult,male,False
+SEAGRAVES,Mr.,Patrick,lost,32.0,Deck,Crew,British,Adult,male,False
+SIKKING,Mr.,James,saved,24.0,Deck,Crew,British,Adult,male,False
+SIKKING,Mr.,Florence,saved,32.0,Deck,Crew,British,Adult,male,False
+SMITH,Mr.,Peter,lost,32.0,Deck,Crew,British,Adult,male,False
+STEVENS,Mr.,John,lost,32.0,Deck,Crew,British,Adult,male,False
+THOMPSON,Mr.,John,lost,32.0,Deck,Crew,British,Adult,male,False
+THOMPSON,Mr.,Leo Henry,saved,32.0,Deck,Crew,British,Adult,male,False
+TODD,Mr.,James,saved,32.0,Deck,Crew,British,Adult,male,False
+TURNER,Captain,William Thomas,saved,58.0,Deck,Crew,British,Adult,male,False
+WILLIAMS,Mr.,William,saved,32.0,Deck,Crew,British,Adult,male,False
+YETTS,Mr.,William R.,lost,32.0,Deck,Crew,British,Adult,male,False
+ANDERSON,Mr.,William Affleck,lost,32.0,Engineering,Crew,British,Adult,male,False
+ASHE,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+BARRETT,Mr.,Daniel,lost,18.0,Engineering,Crew,British,Adult,male,False
+BARRY,Mr.,W.,lost,26.0,Engineering,Crew,British,Adult,male,False
+BATT,Mr.,George,saved,32.0,Engineering,Crew,British,Adult,male,False
+BEATTIE,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+BEGGS,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+BOWEN,Mr.,Henry,lost,32.0,Engineering,Crew,British,Adult,male,False
+BRADLEY,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+BREEN,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+BRENNAN,Mr.,Patrick,lost,47.0,Engineering,Crew,British,Adult,male,False
+BRENNAN,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+BRENNAN,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+BRIDGE,Mr.,William,saved,32.0,Engineering,Crew,British,Adult,male,False
+BROWN,Mr.,Patrick,lost,24.0,Engineering,Crew,British,Adult,male,False
+BROWN,Mr., John,saved,32.0,Engineering,Crew,British,Adult,male,False
+BROWN,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+BRYCE,Mr.,Archie,lost,54.0,Engineering,Crew,British,Adult,male,False
+BURKE,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+BURNS,Mr.,John James,lost,32.0,Engineering,Crew,British,Adult,male,False
+BURNS,Mr.,Joseph,saved,32.0,Engineering,Crew,British,Adult,male,False
+BURNS,Mr.,Peter,lost,32.0,Engineering,Crew,British,Adult,male,False
+BUTLER,Mr.,Joseph,lost,32.0,Engineering,Crew,British,Adult,male,False
+CAIN,Mr.,Thomas,lost,54.0,Engineering,Crew,British,Adult,male,False
+CAMPBELL,Mr.,Patrick,lost,35.0,Engineering,Crew,British,Adult,male,False
+CAMPBELL,Mr.,Charles,lost,32.0,Engineering,Crew,British,Adult,male,False
+CARRIBINE,Mr.,Bernard,saved,43.0,Engineering,Crew,British,Adult,male,False
+CARROLL,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+CASEY,Mr.,Patrick,lost,48.0,Engineering,Crew,British,Adult,male,False
+CASEY,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+CASEY,Mr.,Joseph,saved,32.0,Engineering,Crew,British,Adult,male,False
+CASSIDY,Mr.,Bernard,lost,59.0,Engineering,Crew,British,Adult,male,False
+CHADWICK,Mr.,Jacob,saved,32.0,Engineering,Crew,British,Adult,male,False
+CHESTER,Mr.,Michael,lost,32.0,Engineering,Crew,British,Adult,male,False
+COADY,Mr., James,lost,53.0,Engineering,Crew,British,Adult,male,False
+COCKBURN,Mr.,Andrew,saved,44.0,Engineering,Crew,British,Adult,male,False
+COLE,Mr.,William Henry,lost,32.0,Engineering,Crew,British,Adult,male,False
+COLLINS,Mr.,Patrick,lost,35.0,Engineering,Crew,British,Adult,male,False
+COLLINS,Mr.,James Lord,lost,32.0,Engineering,Crew,British,Adult,male,False
+COLWELL,Mr.,William J.,saved,32.0,Engineering,Crew,British,Adult,male,False
+CONLON,Mr.,Bernard,saved,32.0,Engineering,Crew,British,Adult,male,False
+CONNELLY,Mr.,Owen,lost,51.0,Engineering,Crew,British,Adult,male,False
+COONEY,Mr.,"Michael, Jr.",lost,20.0,Engineering,Crew,British,Adult,male,False
+COONEY,Mr.,"Michael, Sr.",lost,40.0,Engineering,Crew,British,Adult,male,False
+CORBOY,Mr.,Michael,lost,49.0,Engineering,Crew,British,Adult,male,False
+COSTELLO,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+COYNE (Coyle),Mr.,Patrick,lost,24.0,Engineering,Crew,British,Adult,male,False
+CROSS,Mr.,Andrew,saved,32.0,Engineering,Crew,British,Adult,male,False
+CRUMBY,Mr.,Stephen,saved,32.0,Engineering,Crew,British,Adult,male,False
+CULSHAW,Mr.,William,saved,32.0,Engineering,Crew,British,Adult,male,False
+CURRAN,Mr.,Patrick,lost,44.0,Engineering,Crew,British,Adult,male,False
+CUSHION,Mr.,Michael,saved,32.0,Engineering,Crew,British,Adult,male,False
+DALEY,Mr.,Daniel,lost,42.0,Engineering,Crew,British,Adult,male,False
+DALYRMPLE,Mr.,James,saved,32.0,Engineering,Crew,British,Adult,male,False
+DAVIES,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+DAVIES,Mr.,Mr. J.,saved,32.0,Engineering,Crew,British,Adult,male,False
+DAVIS,Mr.,Frederick,saved,32.0,Engineering,Crew,British,Adult,male,False
+DELVIN,Mr.,Henry,lost,32.0,Engineering,Crew,British,Adult,male,False
+DONNELLY,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+DONNELLY,Mr.,Peter,saved,32.0,Engineering,Crew,British,Adult,male,False
+DONOGHUE,Mr.,Peter,lost,32.0,Engineering,Crew,British,Adult,male,False
+DONOVAN,Mr.,William,saved,32.0,Engineering,Crew,British,Adult,male,False
+DOUGHERTY (Pitchford),Mr.,William,lost,32.0,Engineering,Crew,British,Adult,male,False
+DOWNEY,Mr.,Edward,saved,32.0,Engineering,Crew,British,Adult,male,False
+DOYLE,Mr.,Peter,lost,32.0,Engineering,Crew,British,Adult,male,False
+DOYLE,Mr.,John,lost,35.0,Engineering,Crew,British,Adult,male,False
+DOYLE,Mr.,Joseph,saved,32.0,Engineering,Crew,British,Adult,male,False
+DUCKWORTH,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+DUGGAN,Mr.,John,lost,31.0,Engineering,Crew,British,Adult,male,False
+DUNCAN,Mr.,Peter Robinson,lost,31.0,Engineering,Crew,British,Adult,male,False
+DUNCAN,Mr.,Robert Henry,saved,34.0,Engineering,Crew,British,Adult,male,False
+DUNCAN,Mr.,Alexander,saved,32.0,Engineering,Crew,British,Adult,male,False
+DUNN,Mr.,Albert Charles,saved,30.0,Engineering,Crew,British,Adult,male,False
+DUNN,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+DWYER,Mr.,James,saved,20.0,Engineering,Crew,British,Adult,male,False
+DWYER,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+DYER,Mr.,John ,lost,32.0,Engineering,Crew,British,Adult,male,False
+EDWARDS,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+ELLIOTT,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+ENGLISH,Mr.,Michael,saved,32.0,Engineering,Crew,British,Adult,male,False
+ENNIS,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+EVANS,Mr.,David,saved,32.0,Engineering,Crew,British,Adult,male,False
+EVANS,Mr.,Robert,saved,32.0,Engineering,Crew,British,Adult,male,False
+FAIRELOUGH,Mr.,Robert,saved,32.0,Engineering,Crew,British,Adult,male,False
+FAIRHURST,Mr.,Wilfred George,lost,32.0,Engineering,Crew,British,Adult,male,False
+FARRELL,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+FEARON,Mr.,Peter,lost,30.0,Engineering,Crew,British,Adult,male,False
+FENTON,Mr.,Colin Stanley Moorhouse,lost,32.0,Engineering,Crew,British,Adult,male,False
+FERNANDEZ,Mr.,Eduardo,saved,32.0,Engineering,Crew,British,Adult,male,False
+FIELDS,Mr.,William,lost,32.0,Engineering,Crew,British,Adult,male,False
+FINNEGAN,Mr.,Edward,lost,22.0,Engineering,Crew,British,Adult,male,False
+FitzGERALD,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+FORD,Mr.,John,lost,45.0,Engineering,Crew,British,Adult,male,False
+FORREST,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+FRENCH,Mr.,Edward Stanley,lost,32.0,Engineering,Crew,British,Adult,male,False
+GALLAGHER,Mr.,George,lost,32.0,Engineering,Crew,British,Adult,male,False
+GARDNER,Mr.,Alfred,lost,32.0,Engineering,Crew,British,Adult,male,False
+GAUL,Mr.,Richard,lost,32.0,Engineering,Crew,British,Adult,male,False
+GAVAN,Mr.,Peter,lost,30.0,Engineering,Crew,British,Adult,male,False
+GOODMAN,Mr.,B.,saved,32.0,Engineering,Crew,British,Adult,male,False
+GOULD,Mr.,Richard,lost,34.0,Engineering,Crew,British,Adult,male,False
+GRANT,Mr.,Michael,lost,36.0,Engineering,Crew,British,Adult,male,False
+GREGORY,Mr.,John Henry,lost,32.0,Engineering,Crew,British,Adult,male,False
+GRIFFITHS,Mr., William Henry,lost,32.0,Engineering,Crew,British,Adult,male,False
+GRIFFITHS,Mr.,Samuel Herman,lost,32.0,Engineering,Crew,British,Adult,male,False
+GRUNDY,Mr.,Mr. George,saved,32.0,Engineering,Crew,British,Adult,male,False
+GUNTHER,Mr.,Charles,saved,32.0,Engineering,Crew,British,Adult,male,False
+HAMEL,Mr.,George James,lost,32.0,Engineering,Crew,British,Adult,male,False
+HANLON,Mr.,Patrick,lost,32.0,Engineering,Crew,British,Adult,male,False
+HARRIS,Mr.,Edward James,lost,32.0,Engineering,Crew,British,Adult,male,False
+HAYES,Mr.,John Henry Lamie,lost,30.0,Engineering,Crew,British,Adult,male,False
+HESTON,Mr.,Patrick,lost,32.0,Engineering,Crew,British,Adult,male,False
+HETHERINGTON,Mr.,Walter Lewis,lost,32.0,Engineering,Crew,British,Adult,male,False
+HILLHOUSE,Mr.,Hugh,lost,32.0,Engineering,Crew,British,Adult,male,False
+HODDER,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+HOEY,Mr.,James,lost,25.0,Engineering,Crew,British,Adult,male,False
+HOPKINS,Mr.,Patrick,lost,25.0,Engineering,Crew,British,Adult,male,False
+HORDEN,Mr.,Joseph Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+HORNCASTLE,Mr.,William Alfred,lost,32.0,Engineering,Crew,British,Adult,male,False
+HORRIGAN,Mr.,Michael,lost,32.0,Engineering,Crew,British,Adult,male,False
+HUGHES,Mr.,Owen,lost,32.0,Engineering,Crew,British,Adult,male,False
+HUGHES,Mr.,William,saved,32.0,Engineering,Crew,British,Adult,male,False
+HUME,Mr.,Archie,lost,32.0,Engineering,Crew,British,Adult,male,False
+HUSSEY,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+HUTCHINSON,Mr.,George,saved,32.0,Engineering,Crew,British,Adult,male,False
+JENKINS,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+JONES,Mr.,Richard Ellis,lost,31.0,Engineering,Crew,British,Adult,male,False
+JONES,Mr.,William Ewart Gladstone,saved,29.0,Engineering,Crew,British,Adult,male,False
+JONES,Mr.,Hugh,lost,32.0,Engineering,Crew,British,Adult,male,False
+JONES,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+JONES,Mr.,Michael,saved,32.0,Engineering,Crew,British,Adult,male,False
+KEARNEY,Mr.,Patrick,lost,25.0,Engineering,Crew,British,Adult,male,False
+KEARNEY,Mr.,Thomas,lost,25.0,Engineering,Crew,British,Adult,male,False
+KEATING,Mr.,Philip,lost,31.0,Engineering,Crew,British,Adult,male,False
+KEEGAN,Mr.,John Ernest,lost,32.0,Engineering,Crew,British,Adult,male,False
+KEHOE,Mr.,Denis,lost,32.0,Engineering,Crew,British,Adult,male,False
+KELLY,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+KELLY,Mr.,Sidney Crawford,lost,32.0,Engineering,Crew,British,Adult,male,False
+KELLY,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+KENNEDY,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+KENNEDY,Mr.,John James,lost,32.0,Engineering,Crew,British,Adult,male,False
+KENNY,Mr.,Joseph,lost,32.0,Engineering,Crew,British,Adult,male,False
+KEOGH     ,Mr.,P.                        ,saved,32.0,Engineering,Crew,British,Adult,male,False
+KING,Mr.,Michael,lost,32.0,Engineering,Crew,British,Adult,male,False
+LAFFEY,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+LARKIN,Mr.,James J.,lost,32.0,Engineering,Crew,British,Adult,male,False
+LATHAM,Mr.,George,lost,32.0,Engineering,Crew,British,Adult,male,False
+LAWRENCE,Mr.,William,saved,32.0,Engineering,Crew,British,Adult,male,False
+LAWSON,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+LAWTON,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+LEA,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+LEATHERS,Mr.,Samuel,lost,32.0,Engineering,Crew,British,Adult,male,False
+LEE,Mr.,Daniel,lost,50.0,Engineering,Crew,British,Adult,male,False
+LEE,Mr.,William,lost,32.0,Engineering,Crew,British,Adult,male,False
+LEECH,Mr.,T.,saved,32.0,Engineering,Crew,British,Adult,male,False
+LEMON,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+LEWIS,Mr.,F.,lost,32.0,Engineering,Crew,British,Adult,male,False
+LEWIS,Mr.,Joseph,saved,32.0,Engineering,Crew,British,Adult,male,False
+LINTON,Mr.,Isaac,lost,48.0,Engineering,Crew,British,Adult,male,False
+LITTLE,Mr.,George,saved,32.0,Engineering,Crew,British,Adult,male,False
+LOCKHART,Mr.,Peter,lost,32.0,Engineering,Crew,British,Adult,male,False
+LOUGHRAN,Mr.,Patrick,lost,19.0,Engineering,Crew,British,Adult,male,False
+LYONS,Mr.,Archibald,lost,32.0,Engineering,Crew,British,Adult,male,False
+MADDEN,Mr.,John,lost,43.0,Engineering,Crew,British,Adult,male,False
+MADDEN,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+MALFIAT,Mr.,Shef,saved,32.0,Engineering,Crew,Belgian,Adult,male,False
+MALLIN,Mr.,William,lost,32.0,Engineering,Crew,British,Adult,male,False
+MANAN,Mr., Andrew,lost,32.0,Engineering,Crew,British,Adult,male,False
+MANNING,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+MANNING,Mr.,Peter,saved,32.0,Engineering,Crew,British,Adult,male,False
+MARKEY,Mr.,Patrick,lost,30.0,Engineering,Crew,British,Adult,male,False
+MARRION,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+MARTIN,Mr.,Albert,saved,32.0,Engineering,Crew,British,Adult,male,False
+McADAM,Mr.,Michael,lost,32.0,Engineering,Crew,British,Adult,male,False
+McALEAVEY,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+McALEER,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+McATEER,Mr.,Francis,lost,32.0,Engineering,Crew,British,Adult,male,False
+McBRIDE,Mr.,Peter,lost,52.0,Engineering,Crew,British,Adult,male,False
+McCABE,Mr.,Andrew,lost,32.0,Engineering,Crew,British,Adult,male,False
+McCABE,Mr.,John Alexander,lost,32.0,Engineering,Crew,British,Adult,male,False
+McCABE,Mr.,Richard,lost,32.0,Engineering,Crew,British,Adult,male,False
+McCANN,Mr.,Thomas Michael,lost,22.0,Engineering,Crew,British,Adult,male,False
+McCANN,Mr.,Owen,lost,30.0,Engineering,Crew,British,Adult,male,False
+McCARTHY,Mr.,Patrick,saved,32.0,Engineering,Crew,British,Adult,male,False
+McCARTHY,Mr.,Bartholomew,lost,32.0,Engineering,Crew,British,Adult,male,False
+McCLEAN,Mr.,Robert,lost,32.0,Engineering,Crew,British,Adult,male,False
+McCORMICK,Mr.,James,lost,44.0,Engineering,Crew,British,Adult,male,False
+McCUTCHEON,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+McDERMOTT,Mr.,Eugene,saved,32.0,Engineering,Crew,British,Adult,male,False
+McDERMOTT,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+McDONALD,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+McDONALD,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+McEVOY,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+McGEOUGH,Mr.,Michael,lost,30.0,Engineering,Crew,British,Adult,male,False
+McGINTY,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+McGOWAN,Mr.,Joseph,saved,32.0,Engineering,Crew,British,Adult,male,False
+McGUGAN,Mr.,Donald,saved,32.0,Engineering,Crew,British,Adult,male,False
+McGUGAN,Mr.,Walter,lost,32.0,Engineering,Crew,British,Adult,male,False
+McGUINESS,Mr.,Bernard,saved,32.0,Engineering,Crew,British,Adult,male,False
+McKENNA,Mr.,Bernard,lost,29.0,Engineering,Crew,British,Adult,male,False
+McKENNA,Mr.,Frank,saved,32.0,Engineering,Crew,British,Adult,male,False
+McKENNA,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+McKENNA,Mr.,Patrick,saved,32.0,Engineering,Crew,British,Adult,male,False
+McKINDREY,Mr.,Andrew,saved,32.0,Engineering,Crew,British,Adult,male,False
+McLOUGHLIN,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+McMAHON,Mr.,Patrick,lost,37.0,Engineering,Crew,British,Adult,male,False
+McMAHON,Mr.,P.,saved,32.0,Engineering,Crew,British,Adult,male,False
+McNULTY,Mr.,Peter,lost,30.0,Engineering,Crew,British,Adult,male,False
+McPARLAND,Mr.,Terence,lost,26.0,Engineering,Crew,British,Adult,male,False
+McSTAY,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+MELIA,Mr.,Patrick,lost,50.0,Engineering,Crew,British,Adult,male,False
+MITCHELL,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+MOLDEN,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+MORAN,Mr.,Patrick,saved,32.0,Engineering,Crew,British,Adult,male,False
+MORAN,Mr., James,saved,32.0,Engineering,Crew,British,Adult,male,False
+MORRICE,Mr.,David,lost,32.0,Engineering,Crew,British,Adult,male,False
+MORRIS,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+MURPHY,Mr.,Dennis,saved,23.0,Engineering,Crew,British,Adult,male,False
+MURPHY,Mr.,Matthew,lost,58.0,Engineering,Crew,British,Adult,male,False
+MURPHY,Mr.,James,saved,32.0,Engineering,Crew,British,Adult,male,False
+MYLASKA,Mr.,C.,lost,32.0,Engineering,Crew,British,Adult,male,False
+MYLES,Mr.,Peter,lost,17.0,Engineering,Crew,British,Minor,male,False
+NEEDHAM,Mr.,Patrick,saved,47.0,Engineering,Crew,British,Adult,male,False
+NEEDHAM,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+NEWBY,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+NORMAN,Mr.,Arthur William,saved,32.0,Engineering,Crew,British,Adult,male,False
+NORTON,Mr.,Bernard Patrick,lost,44.0,Engineering,Crew,British,Adult,male,False
+O’BRIEN,Mr.,Patrick,lost,32.0,Engineering,Crew,British,Adult,male,False
+O’CONNELL,Mr.,John,saved,19.0,Engineering,Crew,British,Adult,male,False
+O’HARE,Mr.,Owen,lost,42.0,Engineering,Crew,British,Adult,male,False
+O’NEILL,Mr.,Michael,lost,44.0,Engineering,Crew,British,Adult,male,False
+O’NEILL,Mr.,Bernard,lost,32.0,Engineering,Crew,British,Adult,male,False
+O’NEILL,Mr.,James,saved,32.0,Engineering,Crew,British,Adult,male,False
+O’NEILL,Mr.,Paul,saved,32.0,Engineering,Crew,British,Adult,male,False
+ORANGE,Mr.,John,lost,24.0,Engineering,Crew,British,Adult,male,False
+ORMROD,Mr.,Thomas,lost,40.0,Engineering,Crew,British,Adult,male,False
+ORMROD,Mr.,James,lost,41.0,Engineering,Crew,British,Adult,male,False
+OSBORNE,Mr.,J.,lost,32.0,Engineering,Crew,British,Adult,male,False
+OSTERBURG,Mr.,August,saved,32.0,Engineering,Crew,Russian,Adult,male,False
+OWENS,Mr.,Richard,lost,32.0,Engineering,Crew,British,Adult,male,False
+PALMER,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+PATON,Mr.,J. F. ,lost,32.0,Engineering,Crew,Brazilian,Adult,male,False
+PAYNE,Mr.,Michael,lost,32.0,Engineering,Crew,British,Adult,male,False
+PIMBLETT,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+PLUMMER,Mr.,Leslie,saved,32.0,Engineering,Crew,British,Adult,male,False
+POWELL,Mr.,Edward,saved,32.0,Engineering,Crew,British,Adult,male,False
+POWER,Mr.,Daniel,saved,32.0,Engineering,Crew,British,Adult,male,False
+QUARRIE,Mr.,Walter Scott,lost,32.0,Engineering,Crew,British,Adult,male,False
+QUINN,Mr.,George,lost,32.0,Engineering,Crew,British,Adult,male,False
+RAFFERTY,Mr.,Joseph,lost,23.0,Engineering,Crew,British,Adult,male,False
+RAFFERTY,Mr.,Patrick,saved,32.0,Engineering,Crew,British,Adult,male,False
+RALPH,Mr.,M.,saved,32.0,Engineering,Crew,British,Adult,male,False
+RATCLIFF,Mr.,Peter,lost,32.0,Engineering,Crew,British,Adult,male,False
+REYNOLDS,Mr.,Patrick,saved,32.0,Engineering,Crew,British,Adult,male,False
+RICE,Mr.,Michael,lost,60.0,Engineering,Crew,British,Adult,male,False
+RICE,Mr.,Stephen,saved,32.0,Engineering,Crew,British,Adult,male,False
+RIGBY,Mr.,G.,lost,24.0,Engineering,Crew,British,Adult,male,False
+ROACH(E),Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+ROBINSON,Mr.,William,saved,32.0,Engineering,Crew,British,Adult,male,False
+ROGAN,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+ROSS,Mr.,E. W.,saved,32.0,Engineering,Crew,British,Adult,male,False
+ROSSITER,Mr.,Laurence,saved,32.0,Engineering,Crew,British,Adult,male,False
+ROWAN,Mr.,Fred,saved,44.0,Engineering,Crew,British,Adult,male,False
+ROWE,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+RUDDAN,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+RYAN (Rice),Mr.,Edward,lost,32.0,Engineering,Crew,British,Adult,male,False
+SAVAGE,Mr.,Frank,lost,32.0,Engineering,Crew,British,Adult,male,False
+SCANNELL,Mr.,Charles,saved,25.0,Engineering,Crew,British,Adult,male,False
+SCOTT,Mr.,C.,lost,32.0,Engineering,Crew,British,Adult,male,False
+SHARKEY,Mr.,John    ,saved,32.0,Engineering,Crew,British,Adult,male,False
+SHEPHERD,Mr.,Ralph Alfred,lost,32.0,Engineering,Crew,British,Adult,male,False
+SHERIDAN,Mr.,Geoffrey,lost,50.0,Engineering,Crew,British,Adult,male,False
+SHERIDAN,Mr.,Patrick,lost,56.0,Engineering,Crew,British,Adult,male,False
+SINNOT,Mr.,William,saved,32.0,Engineering,Crew,British,Adult,male,False
+SLAVIN,Mr.,Owen,saved,32.0,Engineering,Crew,British,Adult,male,False
+SMITH,Mr.,William Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+SOUTHWOLD,Mr.,Henry,lost,32.0,Engineering,Crew,British,Adult,male,False
+STAFFORD,Mr.,Thomas,saved,32.0,Engineering,Crew,British,Adult,male,False
+STANLEY,Mr.,H.,saved,32.0,Engineering,Crew,British,Adult,male,False
+STANLEY (Shanley?),Mr.,J.,saved,32.0,Engineering,Crew,British,Adult,male,False
+SWEENEY,Mr.,Jeremiah,lost,32.0,Engineering,Crew,British,Adult,male,False
+TAYLOR,Mr.,Chris,saved,32.0,Engineering,Crew,British,Adult,male,False
+TAYLOR,Mr.,Thomas,lost,32.0,Engineering,Crew,British,Adult,male,False
+TEAR,Mr.,Joseph Edward,lost,32.0,Engineering,Crew,British,Adult,male,False
+THOMPSON,Mr.,John,lost,32.0,Engineering,Crew,British,Adult,male,False
+THOMPSON,Mr.,John E.,saved,32.0,Engineering,Crew,British,Adult,male,False
+THOMPSON,Mr.,Michael,lost,32.0,Engineering,Crew,British,Adult,male,False
+TIERNEY,Mr.,Michael,saved,32.0,Engineering,Crew,British,Adult,male,False
+TONER (Tower),Mr.,"Francis ""Frank""",saved,32.0,Engineering,Crew,British,Adult,male,False
+TOOLE,Mr.,James,lost,38.0,Engineering,Crew,British,Adult,male,False
+TRAINOR,Mr.,A. (Thomas Pilcher),lost,32.0,Engineering,Crew,British,Adult,male,False
+TRAYNOR,Mr.,Philip Henry,lost,28.0,Engineering,Crew,British,Adult,male,False
+TURNER,Mr.,Joseph,lost,32.0,Engineering,Crew,British,Adult,male,False
+VOSE,Mr.,George,lost,32.0,Engineering,Crew,British,Adult,male,False
+WALSH,Mr.,R.,saved,32.0,Engineering,Crew,British,Adult,male,False
+WARD,Mr.,Michael,lost,28.0,Engineering,Crew,British,Adult,male,False
+WARD,Mr.,John,saved,32.0,Engineering,Crew,British,Adult,male,False
+WAREING,Mr.,Richard,lost,52.0,Engineering,Crew,British,Adult,male,False
+WEBB,Mr.,James,lost,32.0,Engineering,Crew,British,Adult,male,False
+WELSH,Mr.,Christopher,lost,28.0,Engineering,Crew,British,Adult,male,False
+WELSH,Mr.,Martin,lost,36.0,Engineering,Crew,British,Adult,male,False
+WHEELHOUSE,Mr.,Alfred Faulkner,lost,32.0,Engineering,Crew,British,Adult,male,False
+WHELAN,Mr.,John James,lost,32.0,Engineering,Crew,British,Adult,male,False
+WHITMORE,Mr.,George,saved,32.0,Engineering,Crew,British,Adult,male,False
+WIENCKE,Mr.,Paul Frederick (Friedriche),lost,38.0,Engineering,Crew,German,Adult,male,False
+WIENCKE,Master,Paul,lost,16.0,Engineering,Crew,British,Minor,male,False
+WILLIAMS,Mr.,Sydney,lost,32.0,Engineering,Crew,British,Adult,male,False
+WOOD,Mr.,John H.,lost,32.0,Engineering,Crew,British,Adult,male,False
+WOODS,Mr.,Joseph,saved,32.0,Engineering,Crew,British,Adult,male,False
+WYLIE,Mr.,Richard G.,saved,31.0,Engineering,Crew,British,Adult,male,False
+WYNN,Mr.,Peter,lost,32.0,Engineering,Crew,British,Adult,male,False
+ADAMS,Mr.,William McMillan,saved,19.0,Saloon,Passenger,USA,Adult,male,False
+ADAMS,Mr.,Arthur Henry,lost,46.0,Saloon,Passenger,USA,Adult,male,False
+ADAMS,Mr.,Henry,lost,58.0,Saloon,Passenger,British,Adult,male,False
+ADAMS,Mrs.,Henry (Annie Elizabeth Macnutt),saved,46.0,Saloon,Passenger,British,Adult,female,False
+ALLAN,Lady,Hugh Montagu (Marguerite Ethel MacKenzie),saved,42.0,Saloon,Passenger,British,Adult,female,False
+ALLAN,Miss,Gwendolyn Evelyn,lost,15.0,Saloon,Passenger,British,Minor,female,False
+ALLAN,Miss,Anna Marjory,lost,16.0,Saloon,Passenger,British,Minor,female,False
+ALLEN,Miss,Dorothy Ditman (nurse to the Cromptons),lost,26.0,Saloon,Passenger,USA,Adult,female,False
+ALLES,Mr.,Nicholas Naftel,saved,50.0,Saloon,Passenger,USA,Adult,male,False
+AYALA,Mr.,Julian de,saved,45.0,Saloon,Passenger,Cuban,Adult,male,False
+BAKER,Mr.,James,saved,50.0,Saloon,Passenger,British,Adult,male,False
+BAKER,Miss,"Amelia ""Millie"" Anne",lost,27.0,Saloon,Passenger,USA,Adult,female,False
+BALDWIN,Mr.,Harry Bradley,lost,48.0,Saloon,Passenger,USA,Adult,male,False
+BALDWIN,Mrs.,Harry Bradley (Mary Margaret MacCauley),lost,38.0,Saloon,Passenger,USA,Adult,female,False
+BARNES,Mr.,Allen Byron,saved,43.0,Saloon,Passenger,British,Adult,male,False
+BARTLETT,Mr.,George Walter Bowers,saved,42.0,Saloon,Passenger,British,Adult,male,False
+BARTLETT,Mrs.,George W. B. (Irma Florine Rothschild),saved,31.0,Saloon,Passenger,British,Adult,female,False
+BATES,Mr.,"Lindon Wallace, Jr.",lost,32.0,Saloon,Passenger,USA,Adult,male,False
+BATTERSBY,Mr.,James Johnson,saved,40.0,Saloon,Passenger,British,Adult,male,False
+BERNARD,Mr.,Oliver Percy,saved,34.0,Saloon,Passenger,British,Adult,male,False
+BERNARD,Mr.,"Clinton ""Will"" Percival",saved,27.0,Saloon,Passenger,USA,Adult,male,False
+BILICKE,Mr.,Albert Clay,lost,54.0,Saloon,Passenger,USA,Adult,male,False
+BILICKE,Mrs.,Albert Clay (Gladys Huff),saved,50.0,Saloon,Passenger,USA,Adult,female,False
+BISTIS,Mr.,Leonidas M.,lost,33.0,Saloon,Passenger,Greek,Adult,male,False
+BLACK,Mr.,James Joseph,lost,39.0,Saloon,Passenger,British,Adult,male,False
+BLOOMFIELD,Mr.,Thomas,lost,50.0,Saloon,Passenger,USA,Adult,male,False
+BOHAN,Mr.,James,saved,38.0,Saloon,Passenger,British,Adult,male,False
+BOULTON,Mr.,Denis Duncan Harold Owen,saved,23.0,Saloon,Passenger,British,Adult,male,False
+BOUTEILLER,Mrs.,Paul (Elise Schauring) (maid to the Loneys),lost,47.0,Saloon,Passenger,French,Adult,female,False
+BOWRING,Mr.,Charles Warren,saved,44.0,Saloon,Passenger,British,Adult,male,False
+BRAITHWAITE,Miss,Dorothy Douglas,lost,24.0,Saloon,Passenger,British,Adult,female,False
+BRANDELL,Miss,Josephine Mary,saved,23.0,Saloon,Passenger,USA,Adult,female,False
+BRODRICK,Mr.,Carlton Thayer,lost,28.0,Saloon,Passenger,USA,Adult,male,False
+BRODRICK-CLOETE,Mr.,William,lost,63.0,Saloon,Passenger,British,Adult,male,False
+BROOKS,Mr.,"James ""Jay"" Ham",saved,41.0,Saloon,Passenger,USA,Adult,male,False
+BROWN,Mr.,William Henry Helm,lost,34.0,Saloon,Passenger,British,Adult,male,False
+BROWN,Mrs.,"F. C. (Mary ""May"" Cummins)",lost,55.0,Saloon,Passenger,USA,Adult,female,False
+BRUNO,Mr.,Henry Augustine,lost,45.0,Saloon,Passenger,British,Adult,male,False
+BRUNO,Mrs.,Henry Augustine (Annie Thompson),lost,45.0,Saloon,Passenger,British,Adult,female,False
+BURGESS,Mr.,Henry George,saved,37.0,Saloon,Passenger,British,Adult,male,False
+BURNSIDE,Miss,Iris Margaret,lost,20.0,Saloon,Passenger,British,Adult,female,False
+BURNSIDE,Mrs.,Thomas David Meldrum (Josephine Smyth Eaton),saved,49.0,Saloon,Passenger,British,Adult,female,False
+BUSWELL,Mr.,Peter,saved,26.0,Saloon,Passenger,British,Adult,male,False
+BYINGTON,Mr.,Albert Jackson,saved,40.0,Saloon,Passenger,USA,Adult,male,False
+BYRNE,Mr.,Michael G.,saved,47.0,Saloon,Passenger,USA,Adult,male,False
+CAIRNS,Mr.,Robert Wishart,saved,49.0,Saloon,Passenger,British,Adult,male,False
+CAMPBELL,Mr.,Alexander,lost,43.0,Saloon,Passenger,British,Adult,male,False
+CAMPBELL-JOHNSTON,Mr.,Conway Seymour Godfrey,lost,56.0,Saloon,Passenger,British,Adult,male,False
+CAMPBELL-JOHNSTON,Mrs.,Conway Seymour Godfrey (Ida Amelia McBride),lost,57.0,Saloon,Passenger,British,Adult,female,False
+CHABOT,Mr.,David Louis,lost,49.0,Saloon,Passenger,British,Adult,male,False
+CHAPMAN,Mrs.,William Henry (Ellen Elizabeth Nottingham),saved,59.0,Saloon,Passenger,British,Adult,female,False
+CHARLES,Mr.,Joseph Henry,saved,48.0,Saloon,Passenger,British,Adult,male,False
+CHARLES,Miss,Doris Maud,saved,21.0,Saloon,Passenger,British,Adult,female,False
+CLARKE,Reverend,Charles Cowley,saved,64.0,Saloon,Passenger,British,Adult,male,False
+CLARKE,Mr.,Alfred Russell,saved,55.0,Saloon,Passenger,British,Adult,male,False
+COLEBROOK,Mr.,Herbert Gladstone,saved,35.0,Saloon,Passenger,British,Adult,male,False
+CONNER,Miss,Dorothy,saved,25.0,Saloon,Passenger,USA,Adult,female,False
+COPPING,Mr.,George Robert,lost,53.0,Saloon,Passenger,British,Adult,male,False
+COPPING,Mrs.,George Robert (Emma Louisa Black),lost,53.0,Saloon,Passenger,British,Adult,female,False
+CRICHTON,Mrs.,William C. (Mabel Gardner),lost,42.0,Saloon,Passenger,USA,Adult,female,False
+CROMPTON,Mr.,Paul,lost,44.0,Saloon,Passenger,British,Adult,male,False
+CROMPTON,Master,Peter Romilly,lost,9.0,Saloon,Passenger,British,Infant,male,False
+CROMPTON,Master,John David,lost,6.0,Saloon,Passenger,British,Minor,male,False
+CROMPTON,Master,Paul Romilly,lost,9.0,Saloon,Passenger,British,Minor,male,False
+CROMPTON,Master,Stephen Hugh,lost,14.0,Saloon,Passenger,British,Minor,male,False
+CROMPTON,Mrs.,Paul (Gladys Mary Salis-Schawbe),lost,37.0,Saloon,Passenger,British,Adult,female,False
+CROMPTON,Miss,Catherine Mary,lost,10.0,Saloon,Passenger,British,Minor,female,False
+CROMPTON,Miss,Alberta,lost,12.0,Saloon,Passenger,British,Minor,female,False
+CROOKS,Mr.,Robert Williams,lost,39.0,Saloon,Passenger,British,Adult,male,False
+CROSS,Mr.,Ambrose Betham,saved,38.0,Saloon,Passenger,British,Adult,male,False
+DALY,Mr.,Harold Mayne,saved,35.0,Saloon,Passenger,British,Adult,male,False
+DAVIS,Miss,Emily (maid to the Allans),saved,31.0,Saloon,Passenger,British,Adult,female,False
+DEARBERGH,Mr.,Robert Edward,lost,48.0,Saloon,Passenger,British,Adult,male,False
+DENYER,Mr.,Ronald (valet to Mr. Vanderbilt),lost,30.0,Saloon,Passenger,USA,Adult,male,False
+DEPAGE,Mrs.,Antoine (Marie Picard),lost,43.0,Saloon,Passenger,Belgian,Adult,female,False
+DINGWALL,Mr.,Charles Arthur,lost,62.0,Saloon,Passenger,British,Adult,male,False
+DOUGALL,Miss,Catherine,lost,24.0,Saloon,Passenger,British,Adult,female,False
+DRAKE,Mr.,Bernard Audley Mervyn,lost,23.0,Saloon,Passenger,British,Adult,male,False
+DREDGE,Mr.,Joseph Allan,lost,43.0,Saloon,Passenger,British,Adult,male,False
+DREDGE,Mrs.,Joseph Allan (Evelyn),lost,39.0,Saloon,Passenger,British,Adult,female,False
+DUNSMUIR,Mr.,"James A., Jr.",lost,21.0,Saloon,Passenger,British,Adult,male,False
+EMOND,Mr.,Walter Alfred,lost,46.0,Saloon,Passenger,British,Adult,male,False
+FISHER,Dr.,Howard Lowrie,saved,49.0,Saloon,Passenger,USA,Adult,male,False
+FORMAN,Mr.,Justus Miles,lost,39.0,Saloon,Passenger,USA,Adult,male,False
+FOWLES,Mr.,Charles Frederick,lost,49.0,Saloon,Passenger,British,Adult,male,False
+FOWLES,Mrs.,Charles Frederick (Frances May Turner),lost,47.0,Saloon,Passenger,British,Adult,female,False
+FREEMAN,Mr.,"Richard Rich, Jr.",lost,28.0,Saloon,Passenger,USA,Adult,male,False
+FRIEDENSTEIN,Mr.,Joseph,lost,48.0,Saloon,Passenger,British,Adult,male,False
+FRIEND,Professor,Edwin William,lost,28.0,Saloon,Passenger,USA,Adult,male,False
+FROHMAN,Mr.,Charles,lost,58.0,Saloon,Passenger,USA,Adult,male,False
+GAUNTLETT,Mr.,Frederic John,saved,45.0,Saloon,Passenger,USA,Adult,male,False
+GIBSON,Mr.,Matthew Orr,lost,48.0,Saloon,Passenger,British,Adult,male,False
+GILPIN,Mr.,George Arthur,lost,47.0,Saloon,Passenger,British,Adult,male,False
+GORER,Mr.,Edgar Ezekiel,lost,43.0,Saloon,Passenger,British,Adult,male,False
+GRAB,Mr.,Oscar Frederick,saved,28.0,Saloon,Passenger,USA,Adult,male,False
+GRANT,Mr.,Montagu Tassell,lost,47.0,Saloon,Passenger,British,Adult,male,False
+GRANT,Mrs.,Montagu Tassell (Chastina Janet Moore),lost,43.0,Saloon,Passenger,British,Adult,female,False
+HAMMOND,Mr.,Ogden Haggerty,saved,46.0,Saloon,Passenger,USA,Adult,male,False
+HAMMOND,Mrs.,Ogden Haggerty (Mary Picton Stevens),lost,29.0,Saloon,Passenger,USA,Adult,female,False
+HAMMOND,Mr.,Frederick Sydney,lost,29.0,Saloon,Passenger,British,Adult,male,False
+HAMMOND,Mrs.,Frederick Sydney (Kathleen Saunders McParland),saved,29.0,Saloon,Passenger,British,Adult,female,False
+HARDWICK,Mr.,Charles Cheever,saved,49.0,Saloon,Passenger,USA,Adult,male,False
+HARPER,Mr.,John Henry,lost,55.0,Saloon,Passenger,British,Adult,male,False
+HARRIS,Mr.,Dwight Carlton,saved,31.0,Saloon,Passenger,USA,Adult,male,False
+HAWKINS,Mr.,Frederick William,lost,33.0,Saloon,Passenger,British,Adult,male,False
+HICKSON,Miss,Kathryn,lost,57.0,Saloon,Passenger,USA,Adult,female,False
+HILL,Mr.,Charles Tilden,saved,38.0,Saloon,Passenger,USA,Adult,male,False
+HODGES,Mr.,William Sterling,lost,33.0,Saloon,Passenger,USA,Adult,male,False
+HODGES,Master,Dean Winston,lost,5.0,Saloon,Passenger,USA,Minor,male,False
+HODGES,Master,"William Sterling, Jr.",lost,8.0,Saloon,Passenger,USA,Minor,male,False
+HODGES,Mrs.,William Sterling (Sarah Grisemer),lost,35.0,Saloon,Passenger,USA,Adult,female,False
+HOLT,Master,William Robert Grattan,saved,15.0,Saloon,Passenger,British,Minor,male,False
+HOME,Mr.,Thomas,saved,50.0,Saloon,Passenger,British,Adult,male,False
+HOPKINS,Mr.,Albert Lloyd,lost,44.0,Saloon,Passenger,USA,Adult,male,False
+HOUGHTON,Dr.,James Tilley,saved,29.0,Saloon,Passenger,USA,Adult,male,False
+HUBBARD,Mr.,Elbert Green,lost,58.0,Saloon,Passenger,USA,Adult,male,False
+HUBBARD,Mrs.,Elbert Green (Alice Moore),lost,53.0,Saloon,Passenger,USA,Adult,female,False
+HURLEY,Miss,Margaret (maid to the Learoyds),saved,25.0,Saloon,Passenger,British,Adult,female,False
+HUTCHINSON,Miss,Phyllis,lost,24.0,Saloon,Passenger,British,Adult,female,False
+JACOBAEUS,Mr.,Sigurd Anton,lost,55.0,Saloon,Passenger,Swedish,Adult,male,False
+JEFFERY,Mr.,Charles Thomas,saved,39.0,Saloon,Passenger,USA,Adult,male,False
+JENKINS,Mr.,Francis Bertram,saved,29.0,Saloon,Passenger,British,Adult,male,False
+JOLIVET,Miss,"Marguerite ""Rita"" Lucile",saved,25.0,Saloon,Passenger,French,Adult,female,False
+JONES,Miss,Margaret Druller,lost,44.0,Saloon,Passenger,British,Adult,female,False
+KEEBLE,Mr.,Wilfrid R.,saved,31.0,Saloon,Passenger,British,Adult,male,False
+KEEBLE,Mrs.,Wilfrid R. (Fannie Maud Goldsbrough),saved,32.0,Saloon,Passenger,British,Adult,female,False
+KELLETT,Mr.,Francis Cranston,lost,47.0,Saloon,Passenger,USA,Adult,male,False
+KEMPSON,Mr.,Maitland,saved,55.0,Saloon,Passenger,British,Adult,male,False
+KENAN,Dr.,Owen Hill,saved,42.0,Saloon,Passenger,USA,Adult,male,False
+KENNEDY,Mrs.,"Caroline ""Carrie"" (Caroline Hickson)",lost,53.0,Saloon,Passenger,USA,Adult,female,False
+KESER,Mr.,Harry J.,lost,41.0,Saloon,Passenger,USA,Adult,male,False
+KESER,Mrs.,Harry J. (Mary Bringhurst Floyd),lost,50.0,Saloon,Passenger,USA,Adult,female,False
+KESSLER,Mr.,George A.,saved,52.0,Saloon,Passenger,USA,Adult,male,False
+KING,Mr.,Thomas Boyce,lost,49.0,Saloon,Passenger,USA,Adult,male,False
+KLEIN,Mr.,Charles,lost,48.0,Saloon,Passenger,British,Adult,male,False
+KNIGHT,Mr.,Charles Harwood,lost,39.0,Saloon,Passenger,USA,Adult,male,False
+KNIGHT,Miss,Elaine Harwood,lost,42.0,Saloon,Passenger,USA,Adult,female,False
+KNOX,Mr.,Samuel McIlhenny,saved,57.0,Saloon,Passenger,USA,Adult,male,False
+LANE,Sir,Hugh Percy,lost,39.0,Saloon,Passenger,British,Adult,male,False
+LASSETTER,Lieutenant,Frederick Macquarie A. (Antill?),saved,22.0,Saloon,Passenger,British,Adult,male,False
+LASSETTER,Mrs.,Harry Beauchamp (Elisabeth Anne Antill),saved,43.0,Saloon,Passenger,British,Adult,female,False
+LAURIAT,Mr.,"Charles Emelius, Jr.",saved,40.0,Saloon,Passenger,USA,Adult,male,False
+LEAROYD,Mr.,Charles Alfred,lost,47.0,Saloon,Passenger,British,Adult,male,False
+LEAROYD,Mrs.,Charles Alfred (Mabel Kate Symonds),saved,41.0,Saloon,Passenger,British,Adult,female,False
+LEARY,Mr.,James Joseph,saved,35.0,Saloon,Passenger,USA,Adult,male,False
+LEHMANN,Mr.,Isaac,saved,36.0,Saloon,Passenger,USA,Adult,male,False
+LEIGH,Mr.,Evan Arthur,lost,65.0,Saloon,Passenger,British,Adult,male,False
+LETTS,Mr.,Gerald Arthur,lost,45.0,Saloon,Passenger,British,Adult,male,False
+LEVINSON,Mr.,"Joseph, Jr.",saved,36.0,Saloon,Passenger,British,Adult,male,False
+LEWIN,Mr.,Frederick Guy,lost,45.0,Saloon,Passenger,British,Adult,male,False
+LINES,Miss,Alice Maud (nurse to the Pearls),saved,18.0,Saloon,Passenger,British,Adult,female,False
+LOBB,Mrs.,Reginald Popham (Mary Beatrice Jackman),saved,31.0,Saloon,Passenger,British,Adult,female,False
+LOCKHART,Mr.,Reginald Raphael,saved,49.0,Saloon,Passenger,British,Adult,male,False
+LONEY,Miss,Virginia Bruce,saved,15.0,Saloon,Passenger,USA,Minor,female,False
+LONEY,Mr.,Allen Donnellan,lost,43.0,Saloon,Passenger,USA,Adult,male,False
+LONEY,Mrs.,Allen Donnellan (Catharine Wolfe Brown),lost,37.0,Saloon,Passenger,USA,Adult,female,False
+LORENSON,Miss,Greta (nurse to the Pearls),lost,23.0,Saloon,Passenger,Danish,Adult,female,False
+LUCK,Master,Kenneth Field,lost,8.0,Saloon,Passenger,USA,Minor,male,False
+LUCK,Master,Elbridge Courtlandt,lost,9.0,Saloon,Passenger,USA,Minor,male,False
+LUCK,Mrs.,Arthur Courtlandt (Charlotte Field),lost,34.0,Saloon,Passenger,USA,Adult,female,False
+MACDONA,Mrs.,Henry D. (Amelia Herbert),lost,59.0,Saloon,Passenger,USA,Adult,female,False
+MACKWORTH,Lady,Humphrey (Margaret Haig Thomas),saved,32.0,Saloon,Passenger,British,Adult,female,False
+MacLENNAN,Mr.,Frederick Ebenezer,lost,44.0,Saloon,Passenger,British,Adult,male,False
+MASON,Mr.,Stewart Southam,lost,30.0,Saloon,Passenger,British,Adult,male,False
+MASON,Mrs.,Stewart Southam (Leslie Hawthorne Lindsey),lost,28.0,Saloon,Passenger,USA,Adult,female,False
+MATHEWS,Mr.,Arthur Thomas,saved,38.0,Saloon,Passenger,British,Adult,male,False
+MATURIN,Father,Basil William,lost,68.0,Saloon,Passenger,British,Adult,male,False
+MAURICE,Mr.,George Solomon,lost,43.0,Saloon,Passenger,British,Adult,male,False
+McCONNEL,Mr.,John Wanklyn,saved,60.0,Saloon,Passenger,British,Adult,male,False
+McLEAN,Mr.,Walter,lost,38.0,Saloon,Passenger,British,Adult,male,False
+McMURRAY,Mr.,Leonard Leathes,saved,48.0,Saloon,Passenger,British,Adult,male,False
+McMURTRY,Mr.,Frederick Archibald,lost,45.0,Saloon,Passenger,British,Adult,male,False
+MEDBURY,Mr.,Maurice Benjamin,lost,50.0,Saloon,Passenger,USA,Adult,male,False
+MILLER,Captain,James Blaine,lost,32.0,Saloon,Passenger,USA,Adult,male,False
+MILLS,Mr.,Charles Veitch,lost,33.0,Saloon,Passenger,USA,Adult,male,False
+MILNE,Miss,Caroline (nurse to Master Stephens),lost,35.0,Saloon,Passenger,British,Adult,female,False
+MITCHELL,Mr.,James Duncan,lost,32.0,Saloon,Passenger,British,Adult,male,False
+MOODIE,Mr.,Ralph Troupe,lost,32.0,Saloon,Passenger,British,Adult,male,False
+MORELL,Mrs.,"Moses ""Max"" Samuel (Goldiana ""Georgina"" Ambler)",saved,76.0,Saloon,Passenger,British,Adult,female,False
+MORRISON,Mr.,Kenneth John,lost,48.0,Saloon,Passenger,British,Adult,male,False
+MOSELY,Mr.,George Gordon,saved,29.0,Saloon,Passenger,British,Adult,male,False
+MYERS,Mr.,Herman Abraham,lost,44.0,Saloon,Passenger,USA,Adult,male,False
+MYERS,Mr.,Joseph Laurence,saved,48.0,Saloon,Passenger,USA,Adult,male,False
+NAUMANN,Mr.,Frank Gustavus,lost,61.0,Saloon,Passenger,British,Adult,male,False
+NYBLOM,Mr.,Gustaf Adolf,lost,29.0,Saloon,Passenger,Swedish,Adult,male,False
+OBERLIN,Miss,Elise (maid to the Stephenses),lost,31.0,Saloon,Passenger,Swiss,Adult,female,False
+ORR-LEWIS,Mr.,Frederick,saved,49.0,Saloon,Passenger,British,Adult,male,False
+OSBORNE,Mrs.,Alexander B. (Alexandra Mary Bryson),saved,49.0,Saloon,Passenger,British,Adult,female,False
+OSBOURNE,Mrs.,T. O. (Ella),lost,31.0,Saloon,Passenger,British,Adult,female,False
+PADILLA,Mr.,Frederico G.,lost,34.0,Saloon,Passenger,Mexican,Adult,male,False
+PADLEY,Mrs.,Charles (Florence May Fry),saved,23.0,Saloon,Passenger,British,Adult,female,False
+PAGE,Mr.,John Harvey,lost,40.0,Saloon,Passenger,USA,Adult,male,False
+PAPPADOPOULO,Mr.,Michael N.,lost,43.0,Saloon,Passenger,Greek,Adult,male,False
+PAPPADOPOULO,Mrs.,Michael N. (Angela),saved,32.0,Saloon,Passenger,Greek,Adult,female,False
+PARTRIDGE,Mr.,Frank E.,saved,42.0,Saloon,Passenger,British,Adult,male,False
+PAYNTER,Mr.,Charles Edwin,lost,63.0,Saloon,Passenger,British,Adult,male,False
+PAYNTER,Miss,Irene Emily,saved,30.0,Saloon,Passenger,British,Adult,female,False
+PEARDON,Mr.,Franklin Arthur,lost,35.0,Saloon,Passenger,British,Adult,male,False
+PEARL,Master,Stuart Duncan Day,saved,5.0,Saloon,Passenger,USA,Minor,male,False
+PEARL,Miss,Audrey Warren,saved,3.0,Saloon,Passenger,USA,Infant,female,False
+PEARL,Surgeon-Major,"Frederic ""Frank"" Warren",saved,46.0,Saloon,Passenger,USA,Adult,male,False
+PEARL,Mrs.,Frederic Warren (Amy Lea Duncan),saved,34.0,Saloon,Passenger,USA,Adult,female,False
+PEARL,Miss,Susan Whitewright,lost,1.0,Saloon,Passenger,USA,Infant,female,False
+PEARL,Miss,Amy Whitewright Warren,lost,2.0,Saloon,Passenger,USA,Minor,female,False
+PEARSON,Dr.,Fred Stark,lost,53.0,Saloon,Passenger,USA,Adult,male,False
+PEARSON,Mrs.,Fred Stark (Mabel Ward),lost,52.0,Saloon,Passenger,USA,Adult,female,False
+PERKINS,Mr.,Edwin,lost,41.0,Saloon,Passenger,British,Adult,male,False
+PERRY,Mr.,Frederick John,saved,25.0,Saloon,Passenger,British,Adult,male,False
+PERRY,Mr.,Albert Norriss,lost,26.0,Saloon,Passenger,British,Adult,male,False
+PHILLIPS,Mr.,Wallace Banta,saved,29.0,Saloon,Passenger,USA,Adult,male,False
+PIERPOINT,Detective-Inspector,William John,saved,51.0,Saloon,Passenger,British,Adult,male,False
+PIRIE,Mr.,Robinson,saved,59.0,Saloon,Passenger,British,Adult,male,False
+PLAMONDON,Mr.,Charles Ambrose,lost,59.0,Saloon,Passenger,USA,Adult,male,False
+PLAMONDON,Mrs.,Charles Ambrose (Mary Letitia Mackin),lost,58.0,Saloon,Passenger,USA,Adult,female,False
+POLLARD,Mr.,Henry,lost,30.0,Saloon,Passenger,British,Adult,male,False
+POPE,Miss,Theodate (Effie Brooks Pope),saved,48.0,Saloon,Passenger,USA,Adult,female,False
+POSEN,Mr.,Eugene Henry,saved,41.0,Saloon,Passenger,British,Adult,male,False
+POWELL,Mr.,George A.,lost,55.0,Saloon,Passenger,British,Adult,male,False
+RANKIN,Mr.,Robert,saved,33.0,Saloon,Passenger,USA,Adult,male,False
+RATCLIFF,Mr.,Norman Albert,saved,36.0,Saloon,Passenger,British,Adult,male,False
+RHYS-EVANS,Mr.,Arnold Leslie (secretary to Mr. Thomas),saved,23.0,Saloon,Passenger,British,Adult,male,False
+ROBINSON,Mr.,Charles E. H.,lost,54.0,Saloon,Passenger,USA,Adult,male,False
+ROBINSON,Mrs.,Charles E. H. (Prudence Mary Rose),lost,59.0,Saloon,Passenger,USA,Adult,female,False
+ROBINSON,Miss,Miss Emily (maid to Miss Pope),lost,31.0,Saloon,Passenger,USA,Adult,female,False
+ROGERS,Mr.,Percy William,saved,46.0,Saloon,Passenger,British,Adult,male,False
+ROGERS,Mr.,Frank Albert,lost,34.0,Saloon,Passenger,British,Adult,male,False
+ROGERS,Mrs.,Frank Albert (Agnes Bloor Hill),lost,31.0,Saloon,Passenger,British,Adult,female,False
+RUMBLE,Mr.,Thomas Walter,lost,27.0,Saloon,Passenger,British,Adult,male,False
+RYERSON,Miss,Laura Mary,saved,23.0,Saloon,Passenger,British,Adult,female,False
+RYERSON,Mrs.,George Sterling (Mary Amelia Crowther),lost,56.0,Saloon,Passenger,British,Adult,female,False
+SCHWABACHER,Mr.,Leo M.,lost,43.0,Saloon,Passenger,USA,Adult,male,False
+SCHWARCZ,Mr.,Max M.,lost,51.0,Saloon,Passenger,USA,Adult,male,False
+SCHWARTE,Mr.,Friedrich Wilhelm August,saved,44.0,Saloon,Passenger,British,Adult,male,False
+SCOTT,Captain,Alick John,lost,29.0,Saloon,Passenger,British,Adult,male,False
+SECCOMBE,Mr.,Percy W.,lost,20.0,Saloon,Passenger,USA,Adult,male,False
+SECCOMBE,Miss,Elizabeth Ann,lost,38.0,Saloon,Passenger,British,Adult,female,False
+SHIELDS,Mr.,Victor E.,lost,45.0,Saloon,Passenger,USA,Adult,male,False
+SHIELDS,Mrs.,Victor E. (Retta Cohen),lost,44.0,Saloon,Passenger,USA,Adult,female,False
+SHYMER,Mrs.,Robert D. (Anne C. Justice Patterson),lost,36.0,Saloon,Passenger,USA,Adult,female,False
+SILVA,Mr.,Thomas James,lost,26.0,Saloon,Passenger,USA,Adult,male,False
+SLIDELL,Mr.,M. Thomas,saved,41.0,Saloon,Passenger,USA,Adult,male,False
+SLINGSBY,Mr.,George (valet to Mr. Orr-Lewis),saved,26.0,Saloon,Passenger,British,Adult,male,False
+SMITH,Mrs.,John W. (Jessie Taft),saved,39.0,Saloon,Passenger,USA,Adult,female,False
+SONNEBORN,Mr.,Henry Becker,lost,44.0,Saloon,Passenger,USA,Adult,male,False
+STACKHOUSE,Commander,Joseph Foster,lost,41.0,Saloon,Passenger,British,Adult,male,False
+STAINTON,Mr.,William (valet to Mr. Frohman),lost,36.0,Saloon,Passenger,USA,Adult,male,False
+STEPHENS,Master,John Harrison Chattan,lost,18.0,Saloon,Passenger,British,Infant,male,False
+STEPHENS,Mrs.,George Washington (Frances Ramsey McIntosh),lost,64.0,Saloon,Passenger,British,Adult,female,False
+STEWART,Mr.,Duncan,lost,52.0,Saloon,Passenger,British,Adult,male,False
+STONE,Mr.,Herbert Stuart,lost,43.0,Saloon,Passenger,USA,Adult,male,False
+STRAUSS,Mr.,Julius,lost,39.0,Saloon,Passenger,British,Adult,male,False
+STUART,Mr.,Alexander,lost,32.0,Saloon,Passenger,British,Adult,male,False
+STURDY,Mr.,Charles Frederick,saved,38.0,Saloon,Passenger,British,Adult,male,False
+TAYLOR,Mr.,Richard Lionel,saved,31.0,Saloon,Passenger,British,Adult,male,False
+TESSON,Mr.,Frank B.,lost,49.0,Saloon,Passenger,USA,Adult,male,False
+TESSON,Mrs.,Frank B. (Alice Lowe Atkins),lost,60.0,Saloon,Passenger,USA,Adult,female,False
+THOMAS,Mr.,David Alfred,saved,59.0,Saloon,Passenger,British,Adult,male,False
+THOMPSON,Mr.,Elbridge Blish,lost,32.0,Saloon,Passenger,USA,Adult,male,False
+THOMPSON,Mrs.,Elbridge Blish (Maude Robinson),saved,32.0,Saloon,Passenger,USA,Adult,female,False
+TIBERGHIEN,Mr.,Georges,lost,32.0,Saloon,Passenger,French,Adult,male,False
+TIMMIS,Mr.,Robert James,saved,51.0,Saloon,Passenger,British,Adult,male,False
+TOOTAL,Mr.,Frederick Edward Owen,saved,39.0,Saloon,Passenger,British,Adult,male,False
+TOWNLEY,Mr.,Ernest Ethelbert,saved,56.0,Saloon,Passenger,British,Adult,male,False
+TRUMBULL,Mr.,Isaac B.,lost,38.0,Saloon,Passenger,USA,Adult,male,False
+TURNER,Mr.,Scott,saved,34.0,Saloon,Passenger,USA,Adult,male,False
+TURTON,Mr.,George Henderson,saved,45.0,Saloon,Passenger,British,Adult,male,False
+Van STRAATEN,Mr.,Martin,lost,49.0,Saloon,Passenger,British,Adult,male,False
+VANDERBILT,Mr.,Alfred Gwynne,lost,37.0,Saloon,Passenger,USA,Adult,male,False
+VASSAR,Mr.,William Arthur Fisher,saved,44.0,Saloon,Passenger,British,Adult,male,False
+VERNON,Mr.,"VERNON, Mr. George Ley Pearce (Butler) (George La Page) ",lost,45.0,Saloon,Passenger,British,Adult,male,False
+WAITES,Miss,Martha Mattie Pinder (maid to the Burnsides),lost,36.0,Saloon,Passenger,British,Adult,female,False
+WAKEFIELD,Mrs.,Alfred (Alexander ?) Thomas (Mary Gertrude Smith),saved,31.0,Saloon,Passenger,British,Adult,female,False
+WALKER,Mr.,David (secretary to Dr. Pearson),lost,32.0,Saloon,Passenger,USA,Adult,male,False
+WALKER,Miss,Annie (maid to the Allans),saved,30.0,Saloon,Passenger,British,Adult,female,False
+WALLACE-WATSON,Mrs.,William (Florence Stancliffe),lost,49.0,Saloon,Passenger,British,Adult,female,False
+WATSON,Mrs.,Anthony (Katherine Elam),lost,52.0,Saloon,Passenger,USA,Adult,female,False
+WILLEY,Mrs.,Cameron (Catherine E. Dietrich),lost,57.0,Saloon,Passenger,USA,Adult,female,False
+WILLIAMS,Mr.,Thomas Henry,lost,32.0,Saloon,Passenger,British,Adult,male,False
+WILLIAMSON,Mr.,Charles Francis,lost,40.0,Saloon,Passenger,USA,Adult,male,False
+WINTER,Mr.,William Henry,lost,28.0,Saloon,Passenger,British,Adult,male,False
+WITHERBEE,Master,"Alfred Scott, Jr.",lost,3.0,Saloon,Passenger,USA,Minor,male,False
+WITHERBEE,Mrs.,Alfred Scott (Beatrice Wilhemena Theodora LaTouche),saved,24.0,Saloon,Passenger,USA,Adult,female,False
+WITHINGTON,Mr.,Lothrop,lost,56.0,Saloon,Passenger,USA,Adult,male,False
+WOOD,Mr.,"Arthur ""Al"" John",lost,37.0,Saloon,Passenger,British,Adult,male,False
+WRIGHT,Mr.,Robert Currie,saved,54.0,Saloon,Passenger,USA,Adult,male,False
+WRIGHT,Mr.,Walter,lost,32.0,Saloon,Passenger,British,Adult,male,False
+YOUNG,Mr.,James Mason,lost,60.0,Saloon,Passenger,British,Adult,male,False
+YOUNG,Mrs.,James Mason (Georgina Ann Vernon),lost,56.0,Saloon,Passenger,British,Adult,female,False
+YUNG,Mr.,Philippe Joseph,saved,33.0,Saloon,Passenger,Belgian,Adult,male,False
+ABAS,Mrs.,Philip Robert (Beatrice Sanderson),lost,26.0,Second,Passenger,British,Adult,female,False
+ABAS,Miss,Beatrice,lost,2.0,Second,Passenger,British,Minor,female,False
+ABAS,Miss,Isabel,lost,6.0,Second,Passenger,British,Minor,female,False
+ABERCROMBY,Mr.,Ralph Frank,lost,21.0,Second,Passenger,British,Adult,male,False
+ABRAMOWITZ,Mr.,Samuel,saved,36.0,Second,Passenger,Russian,Adult,male,False
+ACKROYD,Master,Frederick,lost,3.0,Second,Passenger,British,Minor,male,False
+ACKROYD,Mrs.,Hannah (Hannah Hardaker),lost,31.0,Second,Passenger,British,Adult,female,False
+ADAMS,Mr.,Allan H.,saved,42.0,Second,Passenger,British,Adult,male,False
+ADAMS,Mrs.,Albert E. (Gertrude Pollett),saved,25.0,Second,Passenger,British,Adult,female,False
+ADAMS,Miss,Joan M.,lost,2.0,Second,Passenger,British,Minor,female,False
+AISTON,Mr.,Mr. Joseph,saved,20.0,Second,Passenger,British,Adult,male,False
+AITKEN,Miss,"Crissy ""Chrissie"" Nicol Marshall Lizzie Stark",saved,16.0,Second,Passenger,British,Minor,female,False
+AITKEN,Mr.,"James Jarvie, Sr.",lost,31.0,Second,Passenger,British,Adult,male,False
+AITKEN,Mr.,James,lost,59.0,Second,Passenger,British,Adult,male,False
+AITKEN,Master,"James Jarvie, Jr.",lost,2.0,Second,Passenger,British,Minor,male,False
+ALLEN,Mr.,John,saved,32.0,Second,Passenger,British,Adult,male,False
+AMORY,Mrs.,Alfred Howard (Phoebe Sledge),saved,65.0,Second,Passenger,British,Adult,female,False
+ANDERSON,Mrs.,Rowland (Emily Mary Pybus),saved,26.0,Second,Passenger,British,Adult,female,False
+ANDERSON,Miss,Barbara Winifred,saved,2.0,Second,Passenger,British,Minor,female,False
+ANDERSON,Mrs.,George R. (Margaret Armstrong Scott),lost,30.0,Second,Passenger,British,Adult,female,False
+ARMITAGE,Mrs.,Martin? (Florence Gertrude Burke Martin),lost,27.0,Second,Passenger,British,Adult,female,False
+ARNOTT,Mr.,Robert,lost,32.0,Second,Passenger,British,Adult,male,False
+ARTER,Mr.,James Sydney,saved,33.0,Second,Passenger,British,Adult,male,False
+ARTHUR,Mr.,George Henry (Herbert?),lost,32.0,Second,Passenger,British,Adult,male,False
+BAILEY,Mr.,Walter George (William),lost,53.0,Second,Passenger,British,Adult,male,False
+BAILEY,Mrs.,Walter George (Jessie Annie Hanford),lost,45.0,Second,Passenger,British,Adult,female,False
+BAILEY,Miss,Ivy,lost,15.0,Second,Passenger,British,Minor,female,False
+BAKER,Miss,Eva,lost,31.0,Second,Passenger,British,Adult,female,False
+BANCROFT,Mr.,"William Blanchard, Jr.",lost,27.0,Second,Passenger,USA,Adult,male,False
+BARBER,Miss,Constance,lost,31.0,Second,Passenger,British,Adult,female,False
+BARBOUR,Miss,Bessie,saved,31.0,Second,Passenger,British,Adult,female,False
+BARCHARD,Mr.,Edmund E.,lost,39.0,Second,Passenger,British,Adult,male,False
+BARKER,Mrs.,Thomas (Martha Ann Bullock),saved,39.0,Second,Passenger,USA,Adult,female,False
+BARKER,Miss,Winifred,lost,9.0,Second,Passenger,USA,Minor,female,False
+BARR,Mr.,James (John),lost,32.0,Second,Passenger,British,Adult,male,False
+BARR,Mrs.,James (Catherine Symington Young),lost,40.0,Second,Passenger,British,Adult,female,False
+BARRETT,Miss,May,saved,25.0,Second,Passenger,British,Adult,female,False
+BARRY,Mr.,Edward,saved,38.0,Second,Passenger,British,Adult,male,False
+BARTLETT,Mr.,Edmund Thomas,saved,56.0,Second,Passenger,British,Adult,male,False
+BAXTER,Mr.,William,lost,32.0,Second,Passenger,British,Adult,male,False
+BAXTER,Master,William,lost,6.0,Second,Passenger,British,Minor,male,False
+BAXTER,Mrs.,William (Annie E. Ripley),saved,39.0,Second,Passenger,British,Adult,female,False
+BEATTIE,Mr.,Allan Martin,saved,18.0,Second,Passenger,British,Adult,male,False
+BEATTIE,Reverend,James Anderson,lost,53.0,Second,Passenger,British,Adult,male,False
+BEATTIE,Mrs.,James Anderson (Margaret White Dall),saved,55.0,Second,Passenger,British,Adult,female,False
+BEATTIE,Mrs.,John A. (Grace S.),lost,31.0,Second,Passenger,British,Adult,female,False
+BEAUMONT,Mr.,James,lost,32.0,Second,Passenger,British,Adult,male,False
+BILBROUGH,Mr.,George William,saved,36.0,Second,Passenger,British,Adult,male,False
+BINGHAM,Miss,Alice Winifred,lost,35.0,Second,Passenger,British,Adult,female,False
+BIRCHALL,Mr.,Henry,saved,32.0,Second,Passenger,British,Adult,male,False
+BIRD,Mrs.,Lyndon (Rose Holloway),lost,36.0,Second,Passenger,British,Adult,female,False
+BOOTH,Mr.,John,lost,35.0,Second,Passenger,British,Adult,male,False
+BOOTH,Master,Nigel Frederick,saved,8.0,Second,Passenger,British,Infant,male,False
+BOOTH,Mrs.,Charles Harry (Emily Eliza Hadfield) ,lost,30.0,Second,Passenger,British,Adult,female,False
+BOOTH-JONES,Mr.,Edward,lost,38.0,Second,Passenger,British,Adult,male,False
+BOOTH-JONES,Master,Percival,lost,4.0,Second,Passenger,British,Minor,male,False
+BOOTH-JONES,Mrs.,Edward (Millichamp Jones),lost,25.0,Second,Passenger,British,Adult,female,False
+BOOTH-JONES,Miss,Ailsa Georgina,lost,8.0,Second,Passenger,British,Minor,female,False
+BOURKE,Mrs.,Mabel Juliet (Mabel Juliet Kegaad),lost,31.0,Second,Passenger,British,Adult,female,False
+BOYD,Miss,Margaret L.,lost,31.0,Second,Passenger,British,Adult,female,False
+BRADDICK,Mr.,Sidral William,lost,32.0,Second,Passenger,British,Adult,male,False
+BRAMMER,Mrs.,Richard H. (Elizabeth Jane Bott),saved,32.0,Second,Passenger,British,Adult,female,False
+BRAMMER,Miss,Edith,saved,8.0,Second,Passenger,British,Minor,female,False
+BRETHERTON,Master,Paul,saved,3.0,Second,Passenger,USA,Minor,male,False
+BRETHERTON,Mrs.,Cyril Herbert Emanuel (Norah Annie Keating),saved,32.0,Second,Passenger,USA,Adult,female,False
+BRETHERTON,Miss,"Elizabeth ""Betty""",lost,15.0,Second,Passenger,USA,Infant,female,False
+BRILLY,Mr.,Louis,lost,43.0,Second,Passenger,Italian,Adult,male,False
+BROWN,Mr.,Daniel Taylor,saved,43.0,Second,Passenger,British,Adult,male,False
+BROWNLIE,Mr.,Thomas,lost,32.0,Second,Passenger,British,Adult,male,False
+BROWNLIE,Mrs.,Thomas (Margaret McKennon),saved,41.0,Second,Passenger,British,Adult,female,False
+BRYCE,Mr.,Hugh B.,saved,33.0,Second,Passenger,British,Adult,male,False
+BRYCE,Mrs.,Hugh B. (Annabelle Anderson),saved,33.0,Second,Passenger,British,Adult,female,False
+BUCHANAN,Miss,Mary,lost,30.0,Second,Passenger,British,Adult,female,False
+BULL,Mrs.,John Henry (Elizabeth Farrar),lost,62.0,Second,Passenger,British,Adult,female,False
+BULLEN,Mr.,Henry Garnet,lost,32.0,Second,Passenger,British,Adult,male,False
+BURDON,Master,Robert P.,saved,14.0,Second,Passenger,British,Infant,male,False
+BURDON,Mrs.,Andrew Thompson (Ellen Mary Rickwood),saved,24.0,Second,Passenger,British,Adult,female,False
+BURLEY,Mr.,Reuben,lost,39.0,Second,Passenger,British,Adult,male,False
+BURLEY,Master,Reginald,lost,32.0,Second,Passenger,British,Infant,male,False
+BURLEY,Mrs.,Reuben (Florence Bull),lost,38.0,Second,Passenger,British,Adult,female,False
+BURLEY,Miss,Doris Florence,lost,9.0,Second,Passenger,British,Minor,female,False
+BUSVINE,Mr.,William Robert,lost,34.0,Second,Passenger,British,Adult,male,False
+BUTLER,Mr.,Thomas O'Brien,lost,43.0,Second,Passenger,British,Adult,male,False
+BUTLER,Mrs.,W. (Margaret),lost,40.0,Second,Passenger,British,Adult,female,False
+BUTTERS,Miss,Margaret,lost,39.0,Second,Passenger,British,Adult,female,False
+CALLAN,Mr.,Patrick,lost,46.0,Second,Passenger,USA,Adult,male,False
+CALTERBACK,Miss,Alice Margaret (Kaltenbach?),lost,31.0,Second,Passenger,British,Adult,female,False
+CAMPBELL,Mr.,William,lost,31.0,Second,Passenger,British,Adult,male,False
+CAMPBELL,Mr.,Kennedy,lost,32.0,Second,Passenger,British,Adult,male,False
+CAMPBELL,Miss,Ada Mena,saved,31.0,Second,Passenger,British,Adult,female,False
+CAMPBELL,Mrs.,William (Amy E. Oliver),saved,33.0,Second,Passenger,British,Adult,female,False
+CAMPBELL,Miss,"Christina ""Tina"" Fraser",lost,31.0,Second,Passenger,British,Adult,female,False
+CANDLISH,Mr.,Arthur,lost,33.0,Second,Passenger,USA,Adult,male,False
+CANDLISH,Mrs.,Arthur (Ellen Gardner),saved,30.0,Second,Passenger,USA,Adult,female,False
+CARSON,Miss,Henrietta,lost,19.0,Second,Passenger,British,Adult,female,False
+CATHERWOOD,Mr.,John,lost,41.0,Second,Passenger,USA,Adult,male,False
+CATHERWOOD,Mrs.,John (Maria Carson),lost,40.0,Second,Passenger,USA,Adult,female,False
+CATTLEY,Mr.,Colin,lost,32.0,Second,Passenger,British,Adult,male,False
+CHALMERS,Mrs.,Adam (Blanche Gregory),lost,31.0,Second,Passenger,British,Adult,female,False
+CHAMBERS,Mr.,Guy Winstaney P.,saved,36.0,Second,Passenger,British,Adult,male,False
+CHAMBERS,Mrs.,Guy Winstaney P. (Ethel Paul),lost,30.0,Second,Passenger,British,Adult,female,False
+CHANTRY,Mr.,Harold,lost,22.0,Second,Passenger,British,Adult,male,False
+CHANTRY,Mrs.,Harold (Mina),lost,21.0,Second,Passenger,British,Adult,female,False
+CHANTRY,Miss,Elizabeth Ellen,lost,3.0,Second,Passenger,British,Infant,female,False
+CHARLES,Miss,Eleanor,lost,31.0,Second,Passenger,British,Adult,female,False
+CHATT,Miss,Anna,lost,31.0,Second,Passenger,British,Adult,female,False
+CHIRGWIN,Master,Richard,lost,32.0,Second,Passenger,British,Infant,male,False
+CHIRGWIN,Mrs.,Frederick (Maud Gertrude Cox),lost,31.0,Second,Passenger,British,Adult,female,False
+CLARKE,Mrs.,Francis William (Nore),lost,31.0,Second,Passenger,British,Adult,female,False
+CLAY,Miss,Elizabeth Alice,lost,44.0,Second,Passenger,British,Adult,female,False
+CLAYTON,Mr.,William,lost,32.0,Second,Passenger,British,Adult,male,False
+CLAYTON,Mrs.,William (?),lost,31.0,Second,Passenger,British,Adult,female,False
+COCKBURN,Mr.,Guy Rosebery,saved,31.0,Second,Passenger,British,Adult,male,False
+COLBERT,Mr.,William F.,lost,51.0,Second,Passenger,British,Adult,male,False
+COLBERT,Mrs.,William F. (Helena M. Sherlock),lost,45.0,Second,Passenger,British,Adult,female,False
+COLEMAN,Miss,Susan,saved,22.0,Second,Passenger,British,Adult,female,False
+COLLIS,Mr.,Edwin Martin,saved,38.0,Second,Passenger,USA,Adult,male,False
+CONDON,Mrs.,Terrence (Delia Josephine Doyle),lost,28.0,Second,Passenger,USA,Adult,female,False
+COSTELLO,Miss,Mary,lost,31.0,Second,Passenger,British,Adult,female,False
+COWPER,Mr.,Ernest Sedgwick,saved,32.0,Second,Passenger,British,Adult,male,False
+COX,Master,Desmond Francis,saved,17.0,Second,Passenger,British,Infant,male,False
+COX,Mrs.,Samuel J. (Margaret Elizabeth Robinson),saved,27.0,Second,Passenger,British,Adult,female,False
+CRITCHISON,Mr.,Stanley Lascelles,saved,31.0,Second,Passenger,British,Adult,male,False
+CRITCHISON,Master,Bernard,lost,13.0,Second,Passenger,British,Infant,male,False
+CRITCHISON,Mrs.,Stanley Lascelles (Lilian Hayes),lost,31.0,Second,Passenger,British,Adult,female,False
+CROSBY,Miss,Ellen,lost,36.0,Second,Passenger,British,Adult,female,False
+CROSBY,Miss,Annie,lost,31.0,Second,Passenger,British,Adult,female,False
+CROSSLEY,Mr.,Cyrus,saved,37.0,Second,Passenger,British,Adult,male,False
+CROSSLEY,Mrs.,Cyrus (Sylvia Ellen Milsom),saved,34.0,Second,Passenger,British,Adult,female,False
+DALE,Mr.,William,lost,31.0,Second,Passenger,British,Adult,male,False
+DALRYMPLE,Mr.,David,saved,32.0,Second,Passenger,British,Adult,male,False
+DAVIES,Mr.,George F.,lost,43.0,Second,Passenger,British,Adult,male,False
+DAVIS,Mrs.,Anna (Anna John),lost,52.0,Second,Passenger,USA,Adult,female,False
+De BROISSIERRE,Mr.,Etienne T.,lost,32.0,Second,Passenger,Belgian,Adult,male,False
+DEWHURST,Mr.,William,lost,32.0,Second,Passenger,British,Adult,male,False
+DINGLEY,Mrs.,Edward (Katherine S. Glenn),lost,40.0,Second,Passenger,British,Adult,female,False
+DIXON,Mr.,Arthur,lost,32.0,Second,Passenger,British,Adult,male,False
+DIXON,Master,Stanley,lost,6.0,Second,Passenger,British,Minor,male,False
+DIXON,Mrs.,Arthur (Bertha),saved,31.0,Second,Passenger,British,Adult,female,False
+DOCHERTY,Master,"Thomas William, Jr.",saved,2.0,Second,Passenger,USA,Infant,male,False
+DOCHERTY,Mrs.,"William (Mabel ""Millie"" Irving)",saved,29.0,Second,Passenger,USA,Adult,female,False
+DODD,Miss,Dorothy,saved,31.0,Second,Passenger,British,Adult,female,False
+DOLPHIN,Miss,Avis Gertrude,saved,12.0,Second,Passenger,British,Minor,female,False
+DONAHUE,Miss,Sarah,lost,35.0,Second,Passenger,British,Adult,female,False
+DONALD,Mr.,Archibald Douglas,saved,26.0,Second,Passenger,British,Adult,male,False
+DUGUID,Mr.,George Davie,saved,32.0,Second,Passenger,British,Adult,male,False
+DUNCAN,Mrs.,Robert (Ellen Reid),saved,31.0,Second,Passenger,British,Adult,female,False
+DYER,Mr.,Robert,saved,47.0,Second,Passenger,USA,Adult,male,False
+EGANA,Mr.,Vincente,saved,19.0,Second,Passenger,Spanish,Adult,male,False
+EHRHARDT,Mr.,Herbert W.,saved,21.0,Second,Passenger,British,Adult,male,False
+ELLIOT,Mr.,Arthur W.,lost,30.0,Second,Passenger,British,Adult,male,False
+ELLIOT,Mrs.,Arthur W. (Annie Louise),saved,25.0,Second,Passenger,British,Adult,female,False
+ELLIS,Mr.,Herbert,lost,45.0,Second,Passenger,British,Adult,male,False
+ELLIS,Mr.,John,saved,32.0,Second,Passenger,British,Adult,male,False
+ELLIS,Miss,Hilda,lost,31.0,Second,Passenger,British,Adult,female,False
+EWART,Mr.,Robert James,saved,36.0,Second,Passenger,USA,Adult,male,False
+EXLEY,Miss,Ida,lost,19.0,Second,Passenger,British,Adult,female,False
+FENTIMAN,Miss,Nellie,lost,33.0,Second,Passenger,British,Adult,female,False
+FERGUSON,Mr.,John,lost,49.0,Second,Passenger,USA,Adult,male,False
+FERRIER,Mr.,Alexander Hubert Buxton,lost,33.0,Second,Passenger,British,Adult,male,False
+FERRIER,Mrs.,Alexander Hubert Buxton (Mary Beata Elizabeth Hayter Stevens),saved,21.0,Second,Passenger,British,Adult,female,False
+FERRIER,Miss,Sheila,lost,13.0,Second,Passenger,British,Infant,female,False
+FINCH,Mrs.,William (Eva Eliza),lost,29.0,Second,Passenger,British,Adult,female,False
+FISH,Mrs.,"Joseph ""John E."" (Sarah Mary Rogers, sister of Elizabeth Rogers)",saved,31.0,Second,Passenger,British,Adult,female,False
+FISH,Miss,Marion Enid,saved,8.0,Second,Passenger,British,Minor,female,False
+FISH,Miss,Sadie Eileen,saved,10.0,Second,Passenger,British,Minor,female,False
+FISH,Miss,Joan,lost,5.0,Second,Passenger,British,Infant,female,False
+FOLEY,Mr.,Arthur Richard,lost,51.0,Second,Passenger,USA,Adult,male,False
+FOSS,Dr.,Carl Elmer ,saved,27.0,Second,Passenger,USA,Adult,male,False
+FOX,Mr.,Francis Edwin,lost,30.0,Second,Passenger,British,Adult,male,False
+FOX,Mrs.,Francis Edwin (Emily Gaisford),lost,28.0,Second,Passenger,British,Adult,female,False
+FREEMAN,Mrs.,John (Rachel Grant),saved,30.0,Second,Passenger,British,Adult,female,False
+FREEMAN,Mr.,John,saved,37.0,Second,Passenger,British,Adult,male,False
+FRENCH,Miss,Grace Hope,saved,24.0,Second,Passenger,British,Adult,female,False
+FRIEDMAN,Mr.,Samuel,lost,28.0,Second,Passenger,USA,Adult,male,False
+FROST,Mr.,Harry Robinson,saved,42.0,Second,Passenger,USA,Adult,male,False
+FULTON,Mr.,John Napier,lost,59.0,Second,Passenger,USA,Adult,male,False
+FYFE,Mrs.,James (Jeanie Graham),saved,65.0,Second,Passenger,USA,Adult,female,False
+GADSEN,Mr.,Arthur,saved,39.0,Second,Passenger,British,Adult,male,False
+GALLIGAN,Miss,Margaret,saved,22.0,Second,Passenger,British,Adult,female,False
+GARDNER,Mr.,James Andrew,lost,32.0,Second,Passenger,British,Adult,male,False
+GARDNER,Master,"William Gerard ""Willie""",saved,11.0,Second,Passenger,British,Minor,male,False
+GARDNER,Master,Eric,saved,16.0,Second,Passenger,British,Minor,male,False
+GARDNER,Mrs.,James Andrew (Annie Gray),lost,31.0,Second,Passenger,British,Adult,female,False
+GARRY,Mr.,Christopher,lost,51.0,Second,Passenger,USA,Adult,male,False
+GAUTHIER,Mr.,Carlos,lost,32.0,Second,Passenger,Argentine,Adult,male,False
+GILHOOLY,Miss,Catherine,saved,31.0,Second,Passenger,British,Adult,female,False
+GILL,Mrs.,James (Catherine Harris),lost,38.0,Second,Passenger,British,Adult,female,False
+GILSENAN,Mr.,Hugh,lost,60.0,Second,Passenger,USA,Adult,male,False
+GLANCY,Mr.,Joseph,saved,43.0,Second,Passenger,British,Adult,male,False
+GOODMAN,Mr.,Arthur,lost,32.0,Second,Passenger,British,Adult,male,False
+GRANDIDGE,Mrs.,Arthur (Nancie B. May),lost,26.0,Second,Passenger,British,Adult,female,False
+GRANDIDGE,Miss,Eva Mary,lost,3.0,Second,Passenger,British,Minor,female,False
+GRAY,Mr.,James Paul,saved,59.0,Second,Passenger,British,Adult,male,False
+GRAY,Mr.,Robert Duncan,saved,35.0,Second,Passenger,British,Adult,male,False
+GRAY,Master,Stuart James,lost,4.0,Second,Passenger,USA,Minor,male,False
+GRAY,Mrs.,William Hiram (Terence Florence Healey),lost,24.0,Second,Passenger,USA,Adult,female,False
+GREENWOOD,Master,Ronald Sutcliffe,lost,11.0,Second,Passenger,USA,Minor,male,False
+GRIFFITHS,Mr.,Christopher William,saved,32.0,Second,Passenger,British,Adult,male,False
+GRIMSHAW,Mr.,Arthur,lost,18.0,Second,Passenger,British,Adult,male,False
+GROVES,Mr.,Sydney Frederick,lost,28.0,Second,Passenger,British,Adult,male,False
+GROVES,Master,Frederick,lost,1.0,Second,Passenger,British,Infant,male,False
+GROVES,Mrs.,Sydney Frederick (Clara Lee),lost,27.0,Second,Passenger,British,Adult,female,False
+GWYER,Reverend,Herbert Linford,saved,32.0,Second,Passenger,British,Adult,male,False
+GWYER,Mrs.,Herbert Linford (Margaret Inglis Adams Cairns),saved,26.0,Second,Passenger,British,Adult,female,False
+HAIGH,Mr.,James Harold,lost,38.0,Second,Passenger,British,Adult,male,False
+HALDANE,Mr.,James Cargill,saved,36.0,Second,Passenger,British,Adult,male,False
+HAMILTON,Mrs.,John (Isabella Murrhead),lost,31.0,Second,Passenger,British,Adult,female,False
+HAMPSHIRE,Miss,Elizabeth Eleanor,saved,36.0,Second,Passenger,British,Adult,female,False
+HANES,Mr.,Duncan Arthur Walpole,saved,32.0,Second,Passenger,British,Adult,male,False
+HANSON,Mr.,Samuel,lost,51.0,Second,Passenger,British,Adult,male,False
+HANSON,Mrs.,Samuel (Mary Harrison),lost,59.0,Second,Passenger,British,Adult,female,False
+HARDY,Miss,Elsie,saved,25.0,Second,Passenger,British,Adult,female,False
+HARE,Miss,Bessie,lost,27.0,Second,Passenger,British,Adult,female,False
+HARRIS,Mr.,Reuben,lost,63.0,Second,Passenger,British,Adult,male,False
+HARRIS,Mrs.,Reuben (Emma),lost,61.0,Second,Passenger,British,Adult,female,False
+HARRISON,Mr.,James,lost,48.0,Second,Passenger,British,Adult,male,False
+HARRISON,Mr.,Herbert Kesteven,lost,37.0,Second,Passenger,British,Adult,male,False
+HASTINGS,Mrs.,David (Margaret Anderson Gardiner),lost,40.0,Second,Passenger,British,Adult,female,False
+HENDERSON,Master,"Harris ""Huntley""",saved,10.0,Second,Passenger,British,Minor,male,False
+HENDERSON,Mrs.,"Harris ""Huntley"" Russell (Violet Alice Yeatman)",saved,32.0,Second,Passenger,British,Adult,female,False
+HENDRICKSON,Mr.,Knud I.,lost,32.0,Second,Passenger,British,Adult,male,False
+HENN,Mr.,Ernest George,lost,35.0,Second,Passenger,British,Adult,male,False
+HENN,Mrs.,Ernest George (Edith Mabel Fisher),lost,27.0,Second,Passenger,British,Adult,female,False
+HENSHAW,Mrs.,George (Mabel Iris Baker),saved,27.0,Second,Passenger,British,Adult,female,False
+HENSHAW,Miss,Mary (Constance?),lost,5.0,Second,Passenger,British,Infant,female,False
+HERBERT,Mrs.,E. V. (Florence),lost,26.0,Second,Passenger,British,Adult,female,False
+HERTZ,Mr.,Douglas Grant,saved,32.0,Second,Passenger,British,Adult,male,False
+HIGGINBOTTOM,Miss,"Mary ""Polly""",lost,31.0,Second,Passenger,British,Adult,female,False
+HILL,Mrs.,"Richard (Emma ""Emmie"" Jane Haynes)",saved,31.0,Second,Passenger,British,Adult,female,False
+HILL,Mr.,William Spencer,saved,29.0,Second,Passenger,British,Adult,male,False
+HOGG,Mrs.,Ellen,saved,28.0,Second,Passenger,British,Adult,female,False
+HOLBOURN,Professor,"John ""Ian"" Bernard Stoughton",saved,43.0,Second,Passenger,British,Adult,male,False
+HOLLAND,Mrs.,H. Hedley L. (Nina),saved,34.0,Second,Passenger,USA,Adult,female,False
+HOMEWOOD,Mr.,William Thomas,lost,30.0,Second,Passenger,British,Adult,male,False
+HOPKINS,Mr.,David Thomas,lost,25.0,Second,Passenger,British,Adult,male,False
+HOPKINS,Miss,Alice Eliza,lost,33.0,Second,Passenger,British,Adult,female,False
+HOPKINS,Miss,Kate Mary,lost,35.0,Second,Passenger,British,Adult,female,False
+HORSBURGH,Miss,Martha,lost,21.0,Second,Passenger,British,Adult,female,False
+HORTON,Mrs.,Edwin (Elizabeth),lost,51.0,Second,Passenger,British,Adult,female,False
+HOSKINS,Mr.,Arthur,saved,32.0,Second,Passenger,British,Adult,male,False
+HOUNSELL,Mr.,Edgar Cyril,saved,28.0,Second,Passenger,British,Adult,male,False
+HUBBARD,Mr.,Frederick Cole Amos,lost,24.0,Second,Passenger,British,Adult,male,False
+HULL,Mrs.,George (Winifred Keeling),saved,33.0,Second,Passenger,British,Adult,female,False
+HUME,Mrs.,Samuel Elliott (Mary Agnes Elliott),lost,27.0,Second,Passenger,USA,Adult,female,False
+HUMPHREYS,Mr.,Henry St. Giles,lost,32.0,Second,Passenger,British,Adult,male,False
+HUNT,Miss,Isabella Gertrude,lost,37.0,Second,Passenger,British,Adult,female,False
+HUNTER,Mr.,George Hardie,lost,36.0,Second,Passenger,British,Adult,male,False
+HUNTER,Mrs.,George Hardie (Maggie MacGregor),lost,39.0,Second,Passenger,British,Adult,female,False
+HUSTON,Miss,Nellie,lost,31.0,Second,Passenger,British,Adult,female,False
+INCH,Mr.,William Ernest,saved,27.0,Second,Passenger,British,Adult,male,False
+JACKSON,Mr.,Isaac,saved,32.0,Second,Passenger,British,Adult,male,False
+JACKSON,Mr.,Percy Thornton,lost,32.0,Second,Passenger,British,Adult,male,False
+JONES,Mr.,"William ""Parry"" Gwynn(e)",saved,24.0,Second,Passenger,British,Adult,male,False
+JONES,Mr.,Patrick Llewellynn,lost,28.0,Second,Passenger,British,Adult,male,False
+JONES,Mr.,Fred,lost,32.0,Second,Passenger,British,Adult,male,False
+JONES,Mr.,"Isaac ""Ike"" Talbot",lost,32.0,Second,Passenger,British,Adult,male,False
+JONES,Master,William Edward,lost,15.0,Second,Passenger,British,Infant,male,False
+JONES,Miss, Gwendolyn,lost,29.0,Second,Passenger,British,Adult,female,False
+JONES,Mrs.,Alfred (Ellen),lost,31.0,Second,Passenger,British,Adult,female,False
+JUDSON,Mr.,Frederick Sheldon,saved,25.0,Second,Passenger,USA,Adult,male,False
+KAY,Master,Robert Belsher,saved,7.0,Second,Passenger,British,Minor,male,False
+KAY,Mrs.,James (Marguerita Belsher),lost,31.0,Second,Passenger,British,Adult,female,False
+KAYE,Miss,Kathleen (Hannah Ermine Kathleen Kirschbaum),saved,16.0,Second,Passenger,British,Minor,female,False
+KEELY,Miss,Annie,lost,31.0,Second,Passenger,British,Adult,female,False
+KELLY,Mr.,James Robert,lost,42.0,Second,Passenger,British,Adult,male,False
+KELLY,Miss,Margaret S.,lost,34.0,Second,Passenger,USA,Adult,female,False
+KENNEY,Mrs.,Peter (Margaret),lost,32.0,Second,Passenger,British,Adult,female,False
+KENNEY,Miss,Mary Bridget,lost,2.0,Second,Passenger,British,Minor,female,False
+KINCH,Mrs.,William (Eunice Mustoe),lost,45.0,Second,Passenger,British,Adult,female,False
+KING,Mrs.,Sidney (Martha Frances),lost,59.0,Second,Passenger,British,Adult,female,False
+KUEBELLICK,Mr.,Samuel Max,lost,31.0,Second,Passenger,British,Adult,male,False
+LADD,Mr.,Owen,lost,33.0,Second,Passenger,British,Adult,male,False
+LAKIN,Miss,Martha Maria,lost,40.0,Second,Passenger,British,Adult,female,False
+LAMBIE,Mrs.,Daniel (Mary Docherty),lost,27.0,Second,Passenger,British,Adult,female,False
+LAMBIE,Miss,Mary,lost,2.0,Second,Passenger,British,Minor,female,False
+LAMBIE,Miss,Elizabeth,lost,8.0,Second,Passenger,British,Minor,female,False
+LANCASTER,Mr.,Francis William,lost,50.0,Second,Passenger,British,Adult,male,False
+LANCASTER,Miss,Annie,lost,31.0,Second,Passenger,British,Adult,female,False
+LANCASTER,Miss,Dorothy,lost,31.0,Second,Passenger,British,Adult,female,False
+LANDER,Mr.,Edward Harris,saved,32.0,Second,Passenger,British,Adult,male,False
+LANE,Mr.,George Benjamin,saved,26.0,Second,Passenger,British,Adult,male,False
+LAWRENCE,Miss,Ella Woods,lost,50.0,Second,Passenger,British,Adult,female,False
+LAWRENSON,Mr.,Edward,lost,32.0,Second,Passenger,British,Adult,male,False
+LAWRENSON,Mrs.,Edward (Elizabeth),lost,31.0,Second,Passenger,British,Adult,female,False
+LEE,Miss,Bridget,saved,51.0,Second,Passenger,British,Adult,female,False
+LEIPOLD,Miss,Catherine Estella M.,saved,27.0,Second,Passenger,British,Adult,female,False
+LEVERICH,Miss,Rosina Philip,lost,28.0,Second,Passenger,USA,Adult,female,False
+LEVERICH,Mrs.,William Edward (Rosina Thomas Philips),lost,60.0,Second,Passenger,USA,Adult,female,False
+LEWIS,Mr.,"Isaac ""John""",saved,31.0,Second,Passenger,British,Adult,male,False
+LEWIS,Mrs.,"Isaac ""John"" (Jane Marshall)",saved,31.0,Second,Passenger,British,Adult,female,False
+LEWIS,Miss,Edith,saved,5.0,Second,Passenger,British,Minor,female,False
+LINES,Mrs.,Stanley Llandolf Burnett (Ethel Moore Lamping),saved,34.0,Second,Passenger,British,Adult,female,False
+LINES,Mr.,Stanley Llandolf Burnett,saved,30.0,Second,Passenger,British,Adult,male,False
+LINTOTT,Mr.,Roy Iver,lost,21.0,Second,Passenger,British,Adult,male,False
+LITTLE,Mrs.,J. (Margaret),lost,24.0,Second,Passenger,British,Adult,female,False
+LITTLE,Miss,Alice Laura,lost,14.0,Second,Passenger,British,Infant,female,False
+LOHDEN,Mrs.,H. Arnold (Sarah Rose Mary Arnold),saved,38.0,Second,Passenger,British,Adult,female,False
+LOHDEN,Miss,Rose Elsie,saved,11.0,Second,Passenger,British,Minor,female,False
+LONGDIN,Mr.,Arthur,lost,39.0,Second,Passenger,British,Adult,male,False
+LONGDIN,Mrs.,Arthur (Matilda Hartley),lost,30.0,Second,Passenger,British,Adult,female,False
+LOVETT,Miss,Mary,lost,31.0,Second,Passenger,British,Adult,female,False
+LOYND,Reverend,David,lost,51.0,Second,Passenger,British,Adult,male,False
+LOYND,Mrs.,David (Alice Grimshaw),lost,49.0,Second,Passenger,British,Adult,female,False
+LUCAS,Mr.,Francis John,saved,22.0,Second,Passenger,British,Adult,male,False
+LUND,Mr.,Charles Henry,lost,29.0,Second,Passenger,USA,Adult,male,False
+LUND,Mrs.,Charles Henry (Sarah Jane Mounsey),saved,29.0,Second,Passenger,USA,Adult,female,False
+MacFARQUHAR,Mrs.,John (Jane Ann Grant),saved,52.0,Second,Passenger,USA,Adult,female,False
+MacFARQUHAR,Miss,Grace Marie,saved,16.0,Second,Passenger,USA,Minor,female,False
+MacGREGOR,Mr.,Arthur L.,lost,31.0,Second,Passenger,British,Adult,male,False
+MacGREGOR,Mrs.,Betsy,lost,63.0,Second,Passenger,British,Adult,female,False
+MacHARDY,Mrs.,Peter Kenneth (Annie R.),lost,38.0,Second,Passenger,USA,Adult,female,False
+MACKAY,Mr.,Hamish,lost,33.0,Second,Passenger,British,Adult,male,False
+MacKENZIE,Mrs.,Robert (Mary A.),lost,31.0,Second,Passenger,USA,Adult,female,False
+MACKY,Mr.,Joseph Cochrane,lost,60.0,Second,Passenger,British,Adult,male,False
+MACKY,Mrs.,Joseph Cochrane (Mary Birrell),lost,56.0,Second,Passenger,British,Adult,female,False
+MACLAY,Miss,Bessie,lost,31.0,Second,Passenger,British,Adult,female,False
+MAINMAN,Mr.,Alfred S.,lost,19.0,Second,Passenger,British,Adult,male,False
+MAINMAN,Mr.,John V.,lost,21.0,Second,Passenger,British,Adult,male,False
+MAINMAN,Mr.,Alfred Reid,lost,55.0,Second,Passenger,British,Adult,male,False
+MAINMAN,Master,Edwin Richard,saved,7.0,Second,Passenger,British,Minor,male,False
+MAINMAN,Mrs.,"Alfred Reid (Elizabeth Sarah ""Annie"" Dowsett)",lost,31.0,Second,Passenger,British,Adult,female,False
+MAINMAN,Miss,Elizabeth,saved,7.0,Second,Passenger,British,Minor,female,False
+MAINMAN,Miss,"Mary ""Molly"" Frances",saved,16.0,Second,Passenger,British,Minor,female,False
+MANBY,Miss,Ada,saved,36.0,Second,Passenger,British,Adult,female,False
+MANNION,Mr.,Martin,saved,32.0,Second,Passenger,British,Adult,male,False
+MARICHAL,Professor,Joseph Phillibert René,saved,38.0,Second,Passenger,French,Adult,male,False
+MARICHAL,Master,Maurice,saved,32.0,Second,Passenger,French,Infant,male,False
+MARICHAL,Mrs.,Joseph Phillibert René (Yvonne Jessie Emerson),saved,39.0,Second,Passenger,French,Adult,female,False
+MARICHAL,Miss,Phyllis Renée,saved,2.0,Second,Passenger,French,Minor,female,False
+MARICHAL,Miss,"Yvonne ""Eve""",saved,6.0,Second,Passenger,French,Minor,female,False
+MARTIN,Mr.,Charles D.,lost,31.0,Second,Passenger,British,Adult,male,False
+MARTIN,Miss,Ruby,saved,26.0,Second,Passenger,British,Adult,female,False
+MARTIN-DAVEY,Mr.,Arthur,lost,18.0,Second,Passenger,British,Adult,male,False
+MARTIN-DAVEY,Mr.,William (Elizabeth Cumbe Heard),lost,53.0,Second,Passenger,British,Adult,male,False
+MARTIN-DAVEY,Mr.,William,lost,32.0,Second,Passenger,British,Adult,male,False
+MATTHEWS,Lieutenant,Robert,lost,34.0,Second,Passenger,British,Adult,male,False
+MATTHEWS,Mrs.,Robert (Annie),lost,31.0,Second,Passenger,British,Adult,female,False
+MATTHEWSON,Master,Joseph,lost,8.0,Second,Passenger,British,Infant,male,False
+MATTHEWSON,Mrs.,Maud E. S.,lost,31.0,Second,Passenger,British,Adult,female,False
+MAYCOCK,Miss,Mary,saved,23.0,Second,Passenger,British,Adult,female,False
+McCLINTOCK,Miss,Margaret,saved,31.0,Second,Passenger,British,Adult,female,False
+McCLURE,Miss,Margaret,lost,31.0,Second,Passenger,British,Adult,female,False
+McCOLM,Mrs.,James A. (Christina Harrow S. Rae),saved,38.0,Second,Passenger,British,Adult,female,False
+McCORKINDALE,Master,Duncan,lost,7.0,Second,Passenger,British,Minor,male,False
+McCORKINDALE,Mrs.,Daniel (Elizabeth Ritchie),lost,33.0,Second,Passenger,British,Adult,female,False
+McCORKINDALE,Miss,Mary,lost,31.0,Second,Passenger,British,Infant,female,False
+McDONNELL,Miss,"Kate ""Kitty""",saved,25.0,Second,Passenger,British,Adult,female,False
+McEVOY,Mr.,Henry,lost,32.0,Second,Passenger,British,Adult,male,False
+McFAYDEN,Mr.,Hugh,saved,24.0,Second,Passenger,British,Adult,male,False
+McGINLEY,Mr.,Patrick Vincent,saved,32.0,Second,Passenger,British,Adult,male,False
+McGOVERN,Miss,"Mary G. ""Mazie""",lost,21.0,Second,Passenger,USA,Adult,female,False
+McILROY,Mr.,Archibald,lost,32.0,Second,Passenger,British,Adult,male,False
+McKECHAN,Master,Campbell Ballantyne,saved,10.0,Second,Passenger,British,Infant,male,False
+McKECHAN,Master,James,lost,6.0,Second,Passenger,British,Minor,male,False
+McKECHAN,Mrs.,Robert (Elizabeth Ballantyne),saved,32.0,Second,Passenger,British,Adult,female,False
+McKINNON,Mrs.,Robert (Jeanie Gilmour Beith),lost,27.0,Second,Passenger,British,Adult,female,False
+McLELLAN,Miss,Sarah,saved,36.0,Second,Passenger,British,Adult,female,False
+McPARTLIN,Mr.,Myles,lost,32.0,Second,Passenger,USA,Adult,male,False
+MECREDY,Dr.,"Ralph Jack Richard, Jr.",saved,26.0,Second,Passenger,British,Adult,male,False
+MENZIES,Miss,Isabella,lost,57.0,Second,Passenger,British,Adult,female,False
+MERIHEINA,Mr.,William Uno,saved,26.0,Second,Passenger,Russian,Adult,male,False
+MICHAEL,Mr.,Dewi,saved,38.0,Second,Passenger,British,Adult,male,False
+MIDDLEMAST,Mrs.,Edward (Isabella L. Woodget),saved,32.0,Second,Passenger,British,Adult,female,False
+MIDDLETON,Miss,Alice,saved,25.0,Second,Passenger,British,Adult,female,False
+MILFORD,Mr.,Frederick John,saved,36.0,Second,Passenger,USA,Adult,male,False
+MILLAR,Mrs.,Aubrey M. (Margaret Todd),lost,42.0,Second,Passenger,British,Adult,female,False
+MITCHELHILL,Mr.,William (Mitchell Hill),lost,44.0,Second,Passenger,British,Adult,male,False
+MITCHELL,Mr.,Arthur Jackson ,saved,45.0,Second,Passenger,USA,Adult,male,False
+MITCHELL,Mr.,Walter Dawson,lost,27.0,Second,Passenger,British,Adult,male,False
+MITCHELL,Master,"Walter Dawson, Jr.",lost,10.0,Second,Passenger,USA,Infant,male,False
+MITCHELL,Mrs.,"Walter Dawson (Jeanette ""Nettie"" Elizabeth Moore)",saved,27.0,Second,Passenger,British,Adult,female,False
+MOFFATT,Mr.,William,lost,32.0,Second,Passenger,British,Adult,male,False
+MOLLOY,Miss,Margaret,lost,31.0,Second,Passenger,British,Adult,female,False
+MOODY,Miss,Martha (Meta),saved,38.0,Second,Passenger,British,Adult,female,False
+MOODY,Mrs.,Martha (Martha Hemphill),lost,70.0,Second,Passenger,British,Adult,female,False
+MOORE,Mr.,John,saved,24.0,Second,Passenger,British,Adult,male,False
+MOORE,Dr.,Daniel Virgil,saved,36.0,Second,Passenger,USA,Adult,male,False
+MOORE,Mr.,Edwin,lost,62.0,Second,Passenger,British,Adult,male,False
+MOORE,Mr.,Ernest,lost,32.0,Second,Passenger,British,Adult,male,False
+MORRIS,Reverend,Hugh Carlton Syddall,saved,32.0,Second,Passenger,British,Adult,male,False
+MOUNSEY,Mr.,William Edgar,lost,58.0,Second,Passenger,USA,Adult,male,False
+MUIR,Mr.,Matthew,saved,62.0,Second,Passenger,British,Adult,male,False
+MURDOCH,Miss,Jessie,saved,34.0,Second,Passenger,British,Adult,female,False
+MURRAY,Mrs.,Christopher (Rose Ellen McGinley),saved,30.0,Second,Passenger,USA,Adult,female,False
+MUSTOE-KINCH,Mr.,William,lost,19.0,Second,Passenger,British,Adult,male,False
+MYERS,Master,William Ellason G.,saved,16.0,Second,Passenger,British,Minor,male,False
+NAISH,Mrs.,Theodore (Belle Saunders),saved,49.0,Second,Passenger,USA,Adult,female,False
+NAISH,Mr.,Theodore,lost,59.0,Second,Passenger,USA,Adult,male,False
+NEATBY,Miss,Winifred (Freda),saved,29.0,Second,Passenger,British,Adult,female,False
+NEEDHAM,Mr.,Henry E.,saved,32.0,Second,Passenger,British,Adult,male,False
+NEGUS,Mr.,Edward,saved,27.0,Second,Passenger,British,Adult,male,False
+NEILSON,Mr.,Charles H.,lost,18.0,Second,Passenger,British,Adult,male,False
+NEILSON,Mr.,Henry,lost,41.0,Second,Passenger,British,Adult,male,False
+NEILSON,Mrs.,Henry (Frances),lost,40.0,Second,Passenger,British,Adult,female,False
+NEIMARK,Mr.,Abraham,lost,32.0,Second,Passenger,Russian,Adult,male,False
+NEVILLE,Mr.,Albert Charles,lost,40.0,Second,Passenger,British,Adult,male,False
+NEVILLE,Master,Charles,lost,11.0,Second,Passenger,British,Minor,male,False
+NEVILLE,Mrs.,Albert Charles (Mabel Frances),saved,35.0,Second,Passenger,British,Adult,female,False
+NEVILLE,Miss,Muriel,lost,4.0,Second,Passenger,British,Minor,female,False
+NEVILLE,Miss,Evelyn,lost,14.0,Second,Passenger,British,Minor,female,False
+NICHOL,Miss,Mary F.,lost,22.0,Second,Passenger,British,Adult,female,False
+NICHOLL,Mr.,George,lost,32.0,Second,Passenger,British,Adult,male,False
+NICHOLSON,Mr.,Charles Duncan,lost,27.0,Second,Passenger,British,Adult,male,False
+NORMAN,Mr.,Robert,lost,39.0,Second,Passenger,British,Adult,male,False
+NORTH,Miss,Olive,saved,25.0,Second,Passenger,British,Adult,female,False
+O'DONNELL,Mr.,Patrick,saved,35.0,Second,Passenger,USA,Adult,male,False
+OWENS,Mrs.,Hubert Isaacs (Cecelia Mildred Smith) (sister of Alfred Smith),saved,33.0,Second,Passenger,British,Adult,female,False
+OWENS,Master,Reginald (son of Cecelia Owens),lost,8.0,Second,Passenger,British,Minor,male,False
+OWENS,Master,Ronald (son of Cecelia Owens),lost,10.0,Second,Passenger,British,Minor,male,False
+PAGE,Mr.,Andrew,saved,30.0,Second,Passenger,British,Adult,male,False
+PALMER,Mr.,Albert,lost,32.0,Second,Passenger,British,Adult,male,False
+PALMER,Mr.,Frank Arthur,lost,32.0,Second,Passenger,British,Adult,male,False
+PALMER,Master,Albert,lost,6.0,Second,Passenger,British,Infant,male,False
+PALMER,Master,Edgar,lost,6.0,Second,Passenger,British,Minor,male,False
+PALMER,Mrs.,Albert (Annie Oakes),lost,33.0,Second,Passenger,British,Adult,female,False
+PALMER,Miss,Kathleen,lost,41.0,Second,Passenger,British,Adult,female,False
+PALMER,Miss,Olive,lost,4.0,Second,Passenger,British,Minor,female,False
+PARSONS,Mr.,Archibald Ernest,lost,30.0,Second,Passenger,British,Adult,male,False
+PARTLETT,Mrs.,Frank (Amy),lost,35.0,Second,Passenger,British,Adult,female,False
+PARTLETT,Miss,Enid,lost,13.0,Second,Passenger,British,Minor,female,False
+PAVEY,Miss,Lorna Mary,saved,28.0,Second,Passenger,British,Adult,female,False
+PAYNE,Mr.,Martin Sylvester,saved,19.0,Second,Passenger,British,Adult,male,False
+PEACOCK,Master,"Thomas Edward, Jr.",saved,17.0,Second,Passenger,British,Minor,male,False
+PEACOCK,Mrs.,Elizabeth L. (Elizabeth L. Todd),saved,48.0,Second,Passenger,British,Adult,female,False
+PELLS,Mr.,Cyril Elmore,saved,24.0,Second,Passenger,British,Adult,male,False
+PELLS,Master,John,lost,32.0,Second,Passenger,British,Infant,male,False
+PELLS,Mrs.,Cyril Elmore (Mary Anita Reeve),saved,32.0,Second,Passenger,British,Adult,female,False
+PHAIR,Reverend,Ernest Edward Maxwell,lost,44.0,Second,Passenger,British,Adult,male,False
+PIRIE,Master,Arthur,lost,4.0,Second,Passenger,British,Minor,male,False
+PIRIE,Mrs.,Arthur (Annie),lost,35.0,Second,Passenger,British,Adult,female,False
+PIRIE,Miss,Margaret,lost,10.0,Second,Passenger,British,Minor,female,False
+PIRRIE,Miss,Henrietta,lost,31.0,Second,Passenger,British,Adult,female,False
+PLANK,Mrs.,David (Harriet Slinger),saved,61.0,Second,Passenger,British,Adult,female,False
+POOLE,Mrs.,Thomas William (Gertrude Kate Elizabeth Veale),lost,45.0,Second,Passenger,British,Adult,female,False
+POTTER,Mr.,Walter,lost,32.0,Second,Passenger,British,Adult,male,False
+PRESCOTT,Mrs.,George (Bertha Martin),lost,30.0,Second,Passenger,British,Adult,female,False
+PRESS,Miss,Mary Jane,lost,34.0,Second,Passenger,British,Adult,female,False
+PRESTON-SMITH,Mr.,John,saved,28.0,Second,Passenger,British,Adult,male,False
+PRICHARD,Mr.,Richard Preston,lost,29.0,Second,Passenger,British,Adult,male,False
+PROUDFOOT,Mr.,Samuel Lamond,lost,32.0,Second,Passenger,British,Adult,male,False
+PURSE,Mr.,Reginald,lost,32.0,Second,Passenger,British,Adult,male,False
+PURSE,Mrs.,Reginald (Gertrude Alice),lost,31.0,Second,Passenger,British,Adult,female,False
+PYE,Mrs.,William Samuel (Charlotte Lillian),saved,28.0,Second,Passenger,British,Adult,female,False
+PYE,Miss,Marjorie,lost,18.0,Second,Passenger,British,Infant,female,False
+READDIE,Mr.,James Robert,saved,29.0,Second,Passenger,British,Adult,male,False
+REID,Mr.,Peter,lost,32.0,Second,Passenger,British,Adult,male,False
+RICHARDS,Mr.,Thomas Henry,saved,40.0,Second,Passenger,USA,Adult,male,False
+RICHARDS,Master,Cecil Harry,saved,4.0,Second,Passenger,USA,Minor,male,False
+RICHARDS,Master,Thomas Percy,saved,7.0,Second,Passenger,British,Minor,male,False
+RICHARDS,Mrs.,"Thomas Henry (Phillippa ""Phyllis"" Conner)",saved,38.0,Second,Passenger,British,Adult,female,False
+RICHARDS,Miss,Dora Millicent,lost,18.0,Second,Passenger,USA,Infant,female,False
+RICHARDSON,Mrs.,James (Annie),saved,39.0,Second,Passenger,British,Adult,female,False
+RITCHIE,Mr.,William Joss,lost,32.0,Second,Passenger,British,Adult,male,False
+ROBERTSON,Mr.,Andrew,lost,32.0,Second,Passenger,British,Adult,male,False
+ROBINSON,Mr.,Thomas H.,lost,32.0,Second,Passenger,British,Adult,male,False
+ROBINSON,Mrs.,Thomas H. (Edith),saved,31.0,Second,Passenger,British,Adult,female,False
+ROBSON,Mr.,Kenneth Hamilton Stewart,lost,29.0,Second,Passenger,British,Adult,male,False
+ROBSON,Miss,Annie,lost,30.0,Second,Passenger,British,Adult,female,False
+ROGERS,Miss,Elizabeth (sister of Sarah Fish),saved,31.0,Second,Passenger,British,Adult,female,False
+ROGERS,Mr.,Richard James,lost,41.0,Second,Passenger,British,Adult,male,False
+ROLFE,Mr.,George Sommerville,lost,31.0,Second,Passenger,British,Adult,male,False
+ROONEY,Miss,Mary,lost,31.0,Second,Passenger,British,Adult,female,False
+ROSE,Mr.,Fred J.,saved,32.0,Second,Passenger,British,Adult,male,False
+ROWELL,Mr.,Thomas Reuben,lost,32.0,Second,Passenger,British,Adult,male,False
+RYAN,Miss,Mary,lost,31.0,Second,Passenger,British,Adult,female,False
+SALT,Mr.,Henry Jordan,lost,37.0,Second,Passenger,USA,Adult,male,False
+SAMOULESCU,Mr.,David (Dave Samuels),lost,36.0,Second,Passenger,USA,Adult,male,False
+SANDELLS,Mr.,Thomas,saved,50.0,Second,Passenger,British,Adult,male,False
+SCOTT,Mr.,George,saved,27.0,Second,Passenger,British,Adult,male,False
+SCRIMGEOUR,Mr.,William,saved,32.0,Second,Passenger,British,Adult,male,False
+SECCHI,Mrs.,Herbert (Edith Helen West),saved,35.0,Second,Passenger,British,Adult,female,False
+SEMOURS,Mr.,Charles T.,lost,32.0,Second,Passenger,British,Adult,male,False
+SEMPLE,Master,John,lost,32.0,Second,Passenger,British,Infant,male,False
+SEMPLE,Mrs.,Andrew (Agnes Gilmour),lost,29.0,Second,Passenger,British,Adult,female,False
+SHAW,Miss,Emily,lost,32.0,Second,Passenger,British,Adult,female,False
+SHINEMAN,Mr.,James W.,lost,29.0,Second,Passenger,USA,Adult,male,False
+SHINEMAN,Mrs.,James W. (Margaret McKenzie),lost,31.0,Second,Passenger,USA,Adult,female,False
+SIMPSON,Reverend,Henry Wood,saved,37.0,Second,Passenger,British,Adult,male,False
+SLATER,Mr.,Frank William,lost,32.0,Second,Passenger,British,Adult,male,False
+SLATTERY,Mr.,Patrick John,saved,27.0,Second,Passenger,USA,Adult,male,False
+SMART,Mr.,George Mercer,lost,32.0,Second,Passenger,British,Adult,male,False
+SMITH,Miss,Helen,saved,6.0,Second,Passenger,British,Minor,female,False
+SMITH,Mr.,George Arthur,lost,32.0,Second,Passenger,British,Adult,male,False
+SMITH,Mr.,Albert R.,lost,35.0,Second,Passenger,British,Adult,male,False
+SMITH,Mr.,Alfred F.,lost,32.0,Second,Passenger,British,Adult,male,False
+SMITH,Mr.,David J.,lost,32.0,Second,Passenger,British,Adult,male,False
+SMITH,Mr.,Harry,lost,32.0,Second,Passenger,British,Adult,male,False
+SMITH,Master,Hubert,lost,6.0,Second,Passenger,British,Infant,male,False
+SMITH,Mrs.,Albert R. (Gladys E.),lost,31.0,Second,Passenger,British,Adult,female,False
+SMITH,Mrs.,Alfred F. (Elizabeth A. Jones),lost,31.0,Second,Passenger,British,Adult,female,False
+SMITH,Miss,Sarah,lost,31.0,Second,Passenger,British,Adult,female,False
+SMITH,Miss,Dorothy,lost,31.0,Second,Passenger,British,Infant,female,False
+SORENSON,Mr.,Soren,saved,33.0,Second,Passenger,British,Adult,male,False
+SPILLMAN,Mr.,John Bowen,lost,33.0,Second,Passenger,British,Adult,male,False
+SPILLMAN,Mrs.,John Bowen (Eliza),lost,31.0,Second,Passenger,British,Adult,female,False
+STANLEY,Mr.,Henry William,lost,32.0,Second,Passenger,British,Adult,male,False
+STEVENS,Mr.,Charles Henry,lost,57.0,Second,Passenger,USA,Adult,male,False
+STEVENSON,Mrs.,William (Janet M. Wallace),lost,31.0,Second,Passenger,British,Adult,female,False
+STEVENSON,Miss,Elizabeth P.,lost,31.0,Second,Passenger,British,Infant,female,False
+STEWART,Master,John Knox,saved,5.0,Second,Passenger,British,Infant,male,False
+STEWART,Mrs.,James (Christina Knox?),saved,30.0,Second,Passenger,British,Adult,female,False
+STOKES,Mr.,"George Edward ""Ted""",lost,32.0,Second,Passenger,British,Adult,male,False
+STOKES,Master,William,lost,2.0,Second,Passenger,British,Minor,male,False
+STOKES,Mrs.,George Edward (Mabel Elliott),lost,31.0,Second,Passenger,British,Adult,female,False
+STONES,Mr.,Norman,saved,28.0,Second,Passenger,British,Adult,male,False
+STONES,Mrs.,Norman (Hilda Mary Joy),lost,29.0,Second,Passenger,British,Adult,female,False
+STORCH,Mr.,Walter Reinhold,saved,29.0,Second,Passenger,British,Adult,male,False
+STROUD,Mr.,Edwin Percy Wallace,saved,38.0,Second,Passenger,British,Adult,male,False
+STROUD,Mrs.,Edwin Percy Wallace (Constance Eda Simpson),saved,31.0,Second,Passenger,British,Adult,female,False
+STROUD,Miss,Helen,lost,3.0,Second,Passenger,British,Minor,female,False
+SULLIVAN,Mr.,George,lost,32.0,Second,Passenger,British,Adult,male,False
+SULLIVAN,Mrs.,George (Emily),lost,31.0,Second,Passenger,British,Adult,female,False
+SULLIVAN (O'Sullivan),Mr.,Florence,saved,26.0,Second,Passenger,British,Adult,male,False
+SULLIVAN (O'Sullivan),Mrs.,Florence (Julia O'Neill),saved,25.0,Second,Passenger,British,Adult,female,False
+SUMNER,Mr.,Thomas,saved,32.0,Second,Passenger,British,Adult,male,False
+SURMAN,Mrs.,Henry George (Mabel Annie Bird),lost,31.0,Second,Passenger,British,Adult,female,False
+SUTHERST,Mr.,Thomas,lost,32.0,Second,Passenger,British,Adult,male,False
+SWEENEY,Mr.,John Martin,saved,32.0,Second,Passenger,USA,Adult,male,False
+SWEET,Mr.,Frank Harold,saved,22.0,Second,Passenger,British,Adult,male,False
+TAFT,Mr.,Sidney,saved,31.0,Second,Passenger,British,Adult,male,False
+TARRY,Mr.,Edward,saved,27.0,Second,Passenger,British,Adult,male,False
+TAYLOR,Master,Stanley Robert,saved,14.0,Second,Passenger,USA,Minor,male,False
+TAYLOR,Mrs.,Stanley Robert (Annie Sarah Johnson),lost,41.0,Second,Passenger,USA,Adult,female,False
+THOMAS,Mr.,Ernest,lost,33.0,Second,Passenger,British,Adult,male,False
+THOMAS,Mrs.,Ernest (Mary Hannah (Ann?)),lost,31.0,Second,Passenger,British,Adult,female,False
+THOMPSON,Mr.,Albert,lost,37.0,Second,Passenger,British,Adult,male,False
+THOMPSON,Mr.,Robert Joseph,lost,37.0,Second,Passenger,British,Adult,male,False
+THOMPSON,Miss,Muriel,lost,30.0,Second,Passenger,British,Adult,female,False
+THURSTON,Mr.,John,lost,32.0,Second,Passenger,British,Adult,male,False
+TIERNEY,Mrs.,James (Mary),lost,26.0,Second,Passenger,British,Adult,female,False
+TIERNEY,Miss,Nina,lost,5.0,Second,Passenger,British,Minor,female,False
+TIJOU,Mr.,Walter Edgar,saved,44.0,Second,Passenger,British,Adult,male,False
+TIJOU,Master,Howard Walter,lost,10.0,Second,Passenger,British,Minor,male,False
+TODD,Mr.,David,lost,28.0,Second,Passenger,British,Adult,male,False
+TREVERROW,Mrs.,Caroline (Caroline Richards),lost,62.0,Second,Passenger,British,Adult,female,False
+TULLOCH,Mr.,James,lost,32.0,Second,Passenger,British,Adult,male,False
+TULLOCH,Mrs.,James (Agnes Kerr),lost,21.0,Second,Passenger,British,Adult,female,False
+TULLOCH,Miss,Hannah,lost,11.0,Second,Passenger,British,Infant,female,False
+TURPIN,Mr.,Thomas Keith,saved,30.0,Second,Passenger,British,Adult,male,False
+TURPIN,Mrs.,Thomas Keith (Maud Adelaide Otway Hatchell),saved,31.0,Second,Passenger,British,Adult,female,False
+TWIGG,Mr.,Frederick Alexander,lost,32.0,Second,Passenger,British,Adult,male,False
+TYERS,Mr.,Frederick Charles,lost,32.0,Second,Passenger,British,Adult,male,False
+VANCE,Mr.,John,lost,30.0,Second,Passenger,USA,Adult,male,False
+VARCOE,Mr.,John Francis (Lavinia Woodgate),lost,70.0,Second,Passenger,British,Adult,male,False
+VARLEY,Miss,Alice Mercy,lost,50.0,Second,Passenger,British,Adult,female,False
+VENN,Mr.,Harold Stanley,lost,32.0,Second,Passenger,British,Adult,male,False
+VESCOVI,Dr.,Silvio B. de,saved,28.0,Second,Passenger,Italian,Adult,male,False
+WALKER,Mr.,John,lost,28.0,Second,Passenger,British,Adult,male,False
+WALKER,Mrs.,John (Gertrude Thursfield),lost,26.0,Second,Passenger,British,Adult,female,False
+WALKER,Miss,Mary Jane,lost,31.0,Second,Passenger,British,Adult,female,False
+WALLACE,Mr.,Cyril John George,saved,20.0,Second,Passenger,British,Adult,male,False
+WALLACE,Miss,Delia,lost,31.0,Second,Passenger,British,Adult,female,False
+WALLACE,Miss,Margaret,lost,31.0,Second,Passenger,British,Adult,female,False
+WALSH,Miss,Ellen,lost,31.0,Second,Passenger,British,Adult,female,False
+WARD,Mr.,James Langmuir,lost,32.0,Second,Passenger,British,Adult,male,False
+WARD,Mr.,Michael,lost,32.0,Second,Passenger,USA,Adult,male,False
+WARING,Mr.,Charles,lost,32.0,Second,Passenger,British,Adult,male,False
+WARNER,Mr.,Tertius Selwyn,lost,21.0,Second,Passenger,British,Adult,male,False
+WATERS,Miss,Katherine W.,lost,25.0,Second,Passenger,British,Adult,female,False
+WATERS,Miss,Margaret,lost,29.0,Second,Passenger,British,Adult,female,False
+WEBB,Miss,Minnie,saved,34.0,Second,Passenger,British,Adult,female,False
+WEBSTER,Mr.,Frederick G.,saved,28.0,Second,Passenger,British,Adult,male,False
+WEBSTER,Master,Frederick,lost,11.0,Second,Passenger,British,Infant,male,False
+WEBSTER,Master,Henry,lost,11.0,Second,Passenger,British,Infant,male,False
+WEBSTER,Master,William,saved,3.0,Second,Passenger,British,Minor,male,False
+WEBSTER,Mrs.,Frederick G. (Margaret),lost,24.0,Second,Passenger,British,Adult,female,False
+WEIR,Mr.,Cecil Hamilton,lost,31.0,Second,Passenger,British,Adult,male,False
+WHALEY,Mr.,Robert William,saved,33.0,Second,Passenger,British,Adult,male,False
+WHITCOMBE,Mr.,Hugh Martin Donald Gore,saved,25.0,Second,Passenger,British,Adult,male,False
+WHITEHEAD,Miss,Florence,saved,41.0,Second,Passenger,British,Adult,female,False
+WHYATT,Mrs.,Aaron Taylor (Martha Ann Bussey),saved,60.0,Second,Passenger,British,Adult,female,False
+WICKHAM,Mrs.,Nina,lost,50.0,Second,Passenger,British,Adult,female,False
+WICKINGS-SMITH,Miss,Nancy Eileen Fenn,saved,31.0,Second,Passenger,British,Infant,female,False
+WICKINGS-SMITH,Mr.,Cyril,saved,27.0,Second,Passenger,British,Adult,male,False
+WICKINGS-SMITH,Mr.,Basil Guilford (Cyril's brother),lost,29.0,Second,Passenger,British,Adult,male,False
+WICKINGS-SMITH,Mrs.,Cyril (Phyllis Bailey Fenn),saved,24.0,Second,Passenger,British,Adult,female,False
+WIGGINS,Mrs.,Arthur Vaughn (Sarah Helena Rogerson),saved,49.0,Second,Passenger,British,Adult,female,False
+WILD,Miss,Agnes,saved,21.0,Second,Passenger,British,Adult,female,False
+WILD,Miss,Evelyn Norbury,saved,25.0,Second,Passenger,British,Adult,female,False
+WILLIAMS,Mr.,Thomas J.,saved,32.0,Second,Passenger,British,Adult,male,False
+WILLIAMS,Mr.,Robert,saved,32.0,Second,Passenger,British,Adult,male,False
+WILLIAMS,Miss,Beatrice,saved,24.0,Second,Passenger,British,Adult,female,False
+WILLIAMS,Mrs.,Jane (Jane Jenkyn),lost,55.0,Second,Passenger,British,Adult,female,False
+WILSON,Mr.,John,saved,32.0,Second,Passenger,British,Adult,male,False
+WILSON,Mrs.,"Patrick (Minnie ""Inez"" Corbett)",saved,46.0,Second,Passenger,British,Adult,female,False
+WILSON,Miss,Sarah,lost,31.0,Second,Passenger,British,Adult,female,False
+WINTER,Miss,Thirza,saved,31.0,Second,Passenger,British,Adult,female,False
+WISE,Sister,Isabel Eloise,lost,59.0,Second,Passenger,British,Adult,female,False
+WOLFENDEN,Mrs.,John Charles (Dora Roden),saved,49.0,Second,Passenger,USA,Adult,female,False
+WOLFENDEN,Mr.,John Charles,lost,51.0,Second,Passenger,USA,Adult,male,False
+WOODCOCK,Miss,Sarah Emma,lost,31.0,Second,Passenger,British,Adult,female,False
+WOOLVEN,Mrs.,Edmond Victor (Helen Saunders),lost,31.0,Second,Passenger,British,Adult,female,False
+WORDEN,Mrs.,Charles E. (Jane Goodchild),lost,56.0,Second,Passenger,USA,Adult,female,False
+WORDSWORTH,Mr.,Osmund Bartle,saved,27.0,Second,Passenger,British,Adult,male,False
+WORDSWORTH,Miss,Ruth Mary,saved,37.0,Second,Passenger,British,Adult,female,False
+WRIGHT,Miss,Mary E.,lost,31.0,Second,Passenger,British,Adult,female,False
+WYLIE,Mrs.,Emma,lost,31.0,Second,Passenger,British,Adult,female,False
+YARDLEY,Mr.,Lewis Frank,lost,32.0,Second,Passenger,British,Adult,male,False
+YEATMAN,Mr.,Charles Aylmer Luttrell,lost,36.0,Second,Passenger,British,Adult,male,False
+YEATMAN,Mrs.,Charles Aylmer Luttrell (Cora Rose Gower),lost,33.0,Second,Passenger,British,Adult,female,False
+AGNEW,Mr.,Thomas W.,lost,27.0,Third,Passenger,British,Adult,male,False
+AGNEW,Mrs.,Thomas W. (?),lost,27.0,Third,Passenger,British,Adult,female,False
+ALEXAN,Mr.,Babajan,saved,30.0,Third,Passenger,Russian,Adult,male,False
+AMERAIOF,Mr.,Benjamin,lost,37.0,Third,Passenger,Persian,Adult,male,False
+ANDERSDOTTER,Mrs.,Carolina B.,lost,54.0,Third,Passenger,Swedish,Adult,female,False
+ANDREATOS,Mr.,Marinos,lost,39.0,Third,Passenger,Greek,Adult,male,False
+ANDRIJINE,Mr.,Anisyon,lost,22.0,Third,Passenger,Russian,Adult,male,False
+ANTILA,Master,Jan,saved,3.0,Third,Passenger,USA,Minor,male,False
+ANTILA,Master,Carl,saved,4.0,Third,Passenger,USA,Minor,male,False
+ANTILA,Mrs.,Aino,saved,25.0,Third,Passenger,Russian,Adult,female,False
+APRIN,Mr.,Joseph,lost,45.0,Third,Passenger,Russian,Adult,male,False
+ASHMAN,Mr.,Henry Clifford,saved,27.0,Third,Passenger,British,Adult,male,False
+BABA,Mr.,Frank,saved,30.0,Third,Passenger,Persian,Adult,male,False
+BABA,Mr.,John Jacob,saved,33.0,Third,Passenger,Persian,Adult,male,False
+BABA,Mr.,George,lost,39.0,Third,Passenger,Persian,Adult,male,False
+BABA,Mr.,Abraham,lost,45.0,Third,Passenger,Persian,Adult,male,False
+BABEICZ,Mr.,Jakim,lost,33.0,Third,Passenger,Russian,Adult,male,False
+BABICZUK,Mr.,Siemion,lost,39.0,Third,Passenger,Russian,Adult,male,False
+BACKA,Mr.,Matthew,saved,28.0,Third,Passenger,Russian,Adult,male,False
+BAILEY,Mr.,Frederick Richard,saved,40.0,Third,Passenger,British,Adult,male,False
+BALLANTYNE,Miss,Margaret,saved,29.0,Third,Passenger,British,Adult,female,False
+BANNERJI,Mr.,Induprakash,lost,30.0,Third,Passenger,British,Adult,male,False
+BARCLAY,Mr.,George,saved,30.0,Third,Passenger,British,Adult,male,False
+BARROW,Mr.,Donald George M.,saved,25.0,Third,Passenger,British,Adult,male,False
+BARROW,Mrs.,Donald George M. (May),lost,20.0,Third,Passenger,British,Adult,female,False
+BARTLEY,Mr.,George Noble,lost,38.0,Third,Passenger,British,Adult,male,False
+BARTLEY,Master,Gordon,lost,3.0,Third,Passenger,British,Infant,male,False
+BARTLEY,Master,Arthur,lost,4.0,Third,Passenger,British,Minor,male,False
+BARTLEY,Mrs.,George Noble (Ellen),lost,28.0,Third,Passenger,British,Adult,female,False
+BEAUCHAMP,Mr.,William,saved,36.0,Third,Passenger,British,Adult,male,False
+BENJAMIN,Miss,Queenie,saved,30.0,Third,Passenger,British,Adult,female,False
+BENNETT,Mr.,William,lost,39.0,Third,Passenger,British,Adult,male,False
+BEVAN,Mr.,Jack,lost,26.0,Third,Passenger,British,Adult,male,False
+BIALANS,Mr.,Stefan,saved,30.0,Third,Passenger,Russian,Adult,male,False
+BISHOP,Mr.,William,lost,44.0,Third,Passenger,British,Adult,male,False
+BISHOP,Mr.,Joseph,lost,50.0,Third,Passenger,British,Adult,male,False
+BISHOP,Mrs.,Joseph (Alice),lost,49.0,Third,Passenger,British,Adult,female,False
+BLACKBURN,Mr.,George A.,lost,42.0,Third,Passenger,British,Adult,male,False
+BLACKSHAW,Master,John J.,lost,1.0,Third,Passenger,British,Infant,male,False
+BLACKSHAW,Mrs.,Alice,lost,29.0,Third,Passenger,British,Adult,female,False
+BLANKMAN,Mr.,Judka,saved,37.0,Third,Passenger,Russian,Adult,male,False
+BODELL,Mr.,Thomas,lost,32.0,Third,Passenger,British,Adult,male,False
+BODELL,Master,"Thomas, Jr.",lost,3.0,Third,Passenger,British,Minor,male,False
+BODELL,Mrs.,Thomas (Florence Saunders),lost,36.0,Third,Passenger,British,Adult,female,False
+BORESKEVECS,Mr.,Folop,lost,28.0,Third,Passenger,Russian,Adult,male,False
+BOTTOMLEY,Mr.,Fred,saved,26.0,Third,Passenger,British,Adult,male,False
+BOYLE,Mr.,James,saved,28.0,Third,Passenger,British,Adult,male,False
+BOYLE,Miss,Nicholas,lost,24.0,Third,Passenger,British,Adult,female,False
+BOZENOF,Mr.,Dennis,saved,34.0,Third,Passenger,Russian,Adult,male,False
+BOZENOF,Mr.,Philate,saved,35.0,Third,Passenger,Russian,Adult,male,False
+BROWN,Mr.,William,saved,31.0,Third,Passenger,British,Adult,male,False
+BROWN,Miss,Evelyn,lost,28.0,Third,Passenger,British,Adult,female,False
+BROWN,Miss,Constance,lost,38.0,Third,Passenger,British,Adult,female,False
+BUDRIN,Mr.,Antoni,saved,50.0,Third,Passenger,Russian,Adult,male,False
+BURKE,Mr.,Ernest James,lost,48.0,Third,Passenger,British,Adult,male,False
+BUTLER,Mr.,William M.,lost,38.0,Third,Passenger,British,Adult,male,False
+BYRNE,Miss,Nellie M.,lost,45.0,Third,Passenger,British,Adult,female,False
+CANIGAN,Miss,Margaret,lost,28.0,Third,Passenger,British,Adult,female,False
+CARACITOS,Mr.,George,lost,38.0,Third,Passenger,Greek,Adult,male,False
+CARLSON,Mr.,C. J.,lost,57.0,Third,Passenger,Swedish,Adult,male,False
+CATTEW,Miss,Emily,lost,37.0,Third,Passenger,British,Adult,female,False
+CHARKOWSKI,Mr.,Porflri,lost,41.0,Third,Passenger,Russian,Adult,male,False
+CHWYSINK,Mr.,Pawel,lost,21.0,Third,Passenger,Russian,Adult,male,False
+CLIFT,Mr.,Horance,lost,23.0,Third,Passenger,British,Adult,male,False
+CONNOLLY,Mr.,Michael,lost,39.0,Third,Passenger,British,Adult,male,False
+COOK,Mr.,William George,saved,38.0,Third,Passenger,British,Adult,male,False
+COOPER,Master,Joseph E.,lost,3.0,Third,Passenger,USA,Infant,male,False
+COOPER,Mrs.,Nellie Elizabeth,lost,33.0,Third,Passenger,British,Adult,female,False
+COUGHLAN,Mr.,John J.,lost,40.0,Third,Passenger,British,Adult,male,False
+COUGHLAN,Master,Jeremiah Bernard,saved,11.0,Third,Passenger,USA,Infant,male,False
+COUGHLAN,Master,"John, Jr.",saved,3.0,Third,Passenger,USA,Minor,male,False
+COUGHLAN,Mrs.,John (Katherine O'Neil),saved,40.0,Third,Passenger,British,Adult,female,False
+COUGHLAN,Miss,Margaret,lost,2.0,Third,Passenger,USA,Minor,female,False
+COXON,Mr.,Geoffrey Thomley,lost,18.0,Third,Passenger,British,Adult,male,False
+CROSBIE,Miss,Agnes,saved,24.0,Third,Passenger,British,Adult,female,False
+CROSS,Mr.,Charles Ivor,lost,21.0,Third,Passenger,British,Adult,male,False
+CRURCHLEY,Mr.,William Henry,lost,47.0,Third,Passenger,British,Adult,male,False
+CUNNIFFE,Miss,Hannah,lost,30.0,Third,Passenger,British,Adult,female,False
+CURLEY,Miss,Alice,lost,22.0,Third,Passenger,British,Adult,female,False
+CZERTOWICZ,Mr.,Marcin,saved,48.0,Third,Passenger,Russian,Adult,male,False
+DAWSON,Mr.,Walter,saved,23.0,Third,Passenger,British,Adult,male,False
+DELANEY,Miss,Mary,saved,34.0,Third,Passenger,British,Adult,female,False
+DHENIN,Mr.,Thomas,saved,31.0,Third,Passenger,British,Adult,male,False
+DHENIN,Master,"Thomas, Jr.",lost,10.0,Third,Passenger,British,Minor,male,False
+DHENIN,Mrs.,Thomas (Evelyn Thomson),lost,33.0,Third,Passenger,British,Adult,female,False
+DHENIN,Miss,Isabella,lost,2.0,Third,Passenger,British,Minor,female,False
+DIAMANDIS,Mr.,Theodore,saved,41.0,Third,Passenger,Greek,Adult,male,False
+DICK,Miss,Annie,lost,24.0,Third,Passenger,British,Adult,female,False
+DIECKEY,Mr.,Ewstafey,lost,24.0,Third,Passenger,Russian,Adult,male,False
+DIXON,Mr.,Alfred,lost,29.0,Third,Passenger,British,Adult,male,False
+DOWSLEY,Dr.,David H.,lost,54.0,Third,Passenger,British,Adult,male,False
+DOYLE,Mr.,Michael,saved,31.0,Third,Passenger,British,Adult,male,False
+DOYLE,Miss,Anna,lost,24.0,Third,Passenger,British,Adult,female,False
+DRISCOLL,Mr.,Timothy J.,lost,45.0,Third,Passenger,British,Adult,male,False
+DUCKWORTH,Mrs.,Alfred (Elizabeth Ann Smith),saved,52.0,Third,Passenger,British,Adult,female,False
+DUNCAN,Mrs.,Kate Cassie,saved,43.0,Third,Passenger,British,Adult,female,False
+DUNN,Mr.,Thomas W.,lost,34.0,Third,Passenger,British,Adult,male,False
+DUPLEX,Miss,Kate M.,lost,34.0,Third,Passenger,British,Adult,female,False
+EDWARDS,Mr.,Isaac,lost,28.0,Third,Passenger,British,Adult,male,False
+ESHOO,Mr.,Benjamin,lost,35.0,Third,Passenger,British,Adult,male,False
+FARROW,Mr.,Robert,saved,32.0,Third,Passenger,British,Adult,male,False
+FAULDS,Mr.,Andrew,saved,28.0,Third,Passenger,British,Adult,male,False
+FAULDS,Mrs.,Andrew (Margaret Allen),saved,27.0,Third,Passenger,British,Adult,female,False
+FEELEY,Mr.,Joseph,lost,29.0,Third,Passenger,British,Adult,male,False
+FEELEY,Mrs.,Teresa (Teresa Clery),lost,34.0,Third,Passenger,British,Adult,female,False
+FERGUSON,Master,Edward,lost,15.0,Third,Passenger,USA,Infant,male,False
+FERGUSON,Mrs.,Samuel James (Mary Agnes),lost,23.0,Third,Passenger,USA,Adult,female,False
+FERRICK,Mr.,John,lost,26.0,Third,Passenger,British,Adult,male,False
+FERRICK,Miss,Margaret,lost,22.0,Third,Passenger,British,Adult,female,False
+FLAHERTY,Mr.,Thomas,lost,29.0,Third,Passenger,British,Adult,male,False
+FLYNN,Mr.,John,lost,37.0,Third,Passenger,British,Adult,male,False
+FRANKUM,Mr.,Joseph,saved,36.0,Third,Passenger,British,Adult,male,False
+FRANKUM,Master,Frederick George,lost,4.0,Third,Passenger,British,Minor,male,False
+FRANKUM,Master,Francis,saved,7.0,Third,Passenger,British,Minor,male,False
+FRANKUM,Mrs.,Joseph (Annie Mariah B.),lost,36.0,Third,Passenger,British,Adult,female,False
+FRANKUM,Miss,Winifred Annie,lost,10.0,Third,Passenger,British,Infant,female,False
+GALVIN,Mr.,Michael,lost,30.0,Third,Passenger,British,Adult,male,False
+GATELY,Mr.,John,saved,27.0,Third,Passenger,British,Adult,male,False
+GIBBONS,Mr.,Michael,lost,36.0,Third,Passenger,USA,Adult,male,False
+GILILEN,Mr.,Ellie,saved,36.0,Third,Passenger,Persian,Adult,male,False
+GLEASON,Miss,Katherine,lost,23.0,Third,Passenger,British,Adult,female,False
+GOODALL,Mr.,William,lost,30.0,Third,Passenger,British,Adult,male,False
+GOODALL,Master,Jack,lost,10.0,Third,Passenger,USA,Infant,male,False
+GOODALL,Master,Leonard,lost,7.0,Third,Passenger,British,Minor,male,False
+GOODALL,Mrs.,William (Beatrice),lost,33.0,Third,Passenger,British,Adult,female,False
+GOODE,Mr.,George,lost,23.0,Third,Passenger,British,Adult,male,False
+GOODWIN,Miss,Rose,saved,30.0,Third,Passenger,British,Adult,female,False
+GORDON,Mr.,George,saved,32.0,Third,Passenger,British,Adult,male,False
+GRAHAM,Mr.,Gordon,lost,26.0,Third,Passenger,British,Adult,male,False
+GRANAHAN,Mr.,Michael,saved,52.0,Third,Passenger,British,Adult,male,False
+GREENSHIELDS,Mr.,A. J.,lost,32.0,Third,Passenger,British,Adult,male,False
+GRIGORIAN,Mr.,Majlin,saved,37.0,Third,Passenger,Russian,Adult,male,False
+GRINSTED,Mr.,S. Cyril,saved,27.0,Third,Passenger,British,Adult,male,False
+GRIWACCZEWSKI,Mr.,Michael,lost,28.0,Third,Passenger,Russian,Adult,male,False
+GROVES,Mr.,George,lost,70.0,Third,Passenger,British,Adult,male,False
+GRYSZKIEWICZ,Mr.,Antoni,saved,26.0,Third,Passenger,Russian,Adult,male,False
+HANCOCK,Mr.,Thomas,lost,36.0,Third,Passenger,British,Adult,male,False
+HANLEY,Mr.,"Patrick ""Peter""",saved,32.0,Third,Passenger,British,Adult,male,False
+HANUS,Mr.,Charles,lost,37.0,Third,Passenger,British,Adult,male,False
+HANUS,Mrs.,Charles (Mary),lost,37.0,Third,Passenger,British,Adult,female,False
+HARKENS,Mr.,Alexander,lost,41.0,Third,Passenger,British,Adult,male,False
+HARRISON,Mr.,George Wraith,saved,24.0,Third,Passenger,British,Adult,male,False
+HARVEY,Mr.,William,lost,53.0,Third,Passenger,USA,Adult,male,False
+HEBDEN,Mr.,Robert,saved,35.0,Third,Passenger,British,Adult,male,False
+HEBDEN,Mrs.,Robert (Clara),lost,27.0,Third,Passenger,British,Adult,female,False
+HENRY,Mrs.,John (Catherine Ruane),saved,24.0,Third,Passenger,British,Adult,female,False
+HESKETH,Mr.,Alfred W.,saved,31.0,Third,Passenger,British,Adult,male,False
+HOGAN,Miss,Jane,saved,39.0,Third,Passenger,British,Adult,female,False
+HOOK,Mr.,George (father of Elsie and Frank),saved,47.0,Third,Passenger,British,Adult,male,False
+HOOK,Master,Frank (son of George),saved,11.0,Third,Passenger,British,Minor,male,False
+HOOK,Miss,Elsie (daughter of George),saved,12.0,Third,Passenger,British,Minor,female,False
+HOUSTON,Mr.,Frank,lost,27.0,Third,Passenger,British,Adult,male,False
+HOWARD,Mr.,William,lost,36.0,Third,Passenger,British,Adult,male,False
+HOWLEY,Mrs.,Edward (Rose Howley),saved,42.0,Third,Passenger,British,Adult,female,False
+HURLEY,Mr.,Charles Edwin,lost,33.0,Third,Passenger,USA,Adult,male,False
+INMAN,Mr.,John Edward,lost,26.0,Third,Passenger,British,Adult,male,False
+IRETON,Mr.,Edward,lost,36.0,Third,Passenger,British,Adult,male,False
+ISHERWOOD,Mr.,Fred,lost,29.0,Third,Passenger,British,Adult,male,False
+IVANNIK,Mr.,Peter,lost,34.0,Third,Passenger,Russian,Adult,male,False
+IWANUK,Mr.,Emilian,saved,27.0,Third,Passenger,Russian,Adult,male,False
+JACOBS,Mrs.,Abraham (Liba Bella Chirug),lost,67.0,Third,Passenger,British,Adult,female,False
+JAMES,Miss,Violet Isabel,saved,32.0,Third,Passenger,British,Adult,female,False
+JENKINS,Mr.,Alfred,lost,73.0,Third,Passenger,British,Adult,male,False
+JOHANNSEN,Mr.,Sven,lost,36.0,Third,Passenger,Swedish,Adult,male,False
+JOHNSON,Mr.,Herbert K.,saved,24.0,Third,Passenger,British,Adult,male,False
+JOHNSON,Mr.,John,lost,27.0,Third,Passenger,British,Adult,male,False
+JOHNSON,Mr.,Albert E.,lost,72.0,Third,Passenger,British,Adult,male,False
+JONES,Mr.,Evan,lost,65.0,Third,Passenger,USA,Adult,male,False
+JUNCZYK,Mr.,Egor,saved,24.0,Third,Passenger,Russian,Adult,male,False
+KAPERALIA,Mr.,Nikola,lost,33.0,Third,Passenger,Persian,Adult,male,False
+KASIARAN,Mr.,Mirja,lost,50.0,Third,Passenger,Russian,Adult,male,False
+KELLY,Miss,Annie,lost,19.0,Third,Passenger,British,Adult,female,False
+KELLY,Miss,Marie,lost,32.0,Third,Passenger,British,Adult,female,False
+KENNY,Miss,Agnes,saved,26.0,Third,Passenger,British,Adult,female,False
+KEVORKE,Mr.,Ahajan,lost,28.0,Third,Passenger,Russian,Adult,male,False
+KILKENNEY,Miss,Annie,lost,22.0,Third,Passenger,British,Adult,female,False
+KILKENNY,Miss,Delia Mary,saved,33.0,Third,Passenger,British,Adult,female,False
+KILLAWE,Miss,Winifred,saved,30.0,Third,Passenger,British,Adult,female,False
+KING,Mr.,Harry,lost,24.0,Third,Passenger,British,Adult,male,False
+KING,Mr.,George,lost,32.0,Third,Passenger,British,Adult,male,False
+KING,Miss,Sarah (Mrs. Michael Doherty),lost,24.0,Third,Passenger,British,Adult,female,False
+KOCZURKO,Mr.,Wilkenti,lost,59.0,Third,Passenger,Russian,Adult,male,False
+KOMARYSHYN,Mr.,Hryhory,saved,43.0,Third,Passenger,Russian,Adult,male,False
+KORNEJCZYK,Mr.,Andrej,lost,25.0,Third,Passenger,Russian,Adult,male,False
+KOWERETZ,Mr.,Naum D.,lost,29.0,Third,Passenger,Russian,Adult,male,False
+KOZLOWSKI,Mr.,Mr. Kost,lost,26.0,Third,Passenger,Russian,Adult,male,False
+KULICZ,Mr.,Stegan,lost,32.0,Third,Passenger,Russian,Adult,male,False
+LAMBERT,Master,William Patrick,lost,5.0,Third,Passenger,USA,Minor,male,False
+LAMBERT,Mrs.,John (Delia Gately),lost,25.0,Third,Passenger,British,Adult,female,False
+LEYLAND,Mr.,William,lost,44.0,Third,Passenger,British,Adult,male,False
+LICHACZOW,Mr.,Ignatii,lost,23.0,Third,Passenger,Russian,Adult,male,False
+LIGHT,Mr.,Herbert,saved,32.0,Third,Passenger,British,Adult,male,False
+LINDLEY,Mr.,Harry,lost,24.0,Third,Passenger,British,Adult,male,False
+LIZAWCZUK,Mr.,Alexaj,lost,26.0,Third,Passenger,Russian,Adult,male,False
+LOCKHART,Mr.,James,lost,30.0,Third,Passenger,British,Adult,male,False
+LOCKWOOD,Master,Clifford,lost,11.0,Third,Passenger,British,Minor,male,False
+LOCKWOOD,Mrs.,Dick (Florence Robshaw),lost,35.0,Third,Passenger,British,Adult,female,False
+LOCKWOOD,Miss,Lily (Lillian),lost,7.0,Third,Passenger,USA,Minor,female,False
+LOGAN,Master,Robert,lost,11.0,Third,Passenger,USA,Infant,male,False
+LOGAN,Mrs.,James (Ruth Cooper),saved,27.0,Third,Passenger,British,Adult,female,False
+LOGNUNIETZ,Mr.,Wasili,lost,23.0,Third,Passenger,Russian,Adult,male,False
+LONG,Mr.,Harry,lost,21.0,Third,Passenger,British,Adult,male,False
+LOSEVICZ,Mr.,Fadej,lost,32.0,Third,Passenger,Russian,Adult,male,False
+LUCKO,Mr.,Timofej,lost,20.0,Third,Passenger,Russian,Adult,male,False
+LUKER,Mr.,Francis John,saved,30.0,Third,Passenger,British,Adult,male,False
+LUKIANOWICZ,Mr.,Wawren,lost,39.0,Third,Passenger,Russian,Adult,male,False
+LYONS,Miss,Annie,lost,26.0,Third,Passenger,British,Adult,female,False
+MacKENZIE,Mr.,Robert Anderson,saved,40.0,Third,Passenger,British,Adult,male,False
+MALICZ,Mr.,Pawel L.,saved,34.0,Third,Passenger,Russian,Adult,male,False
+MARCHEWKA,Mr.,Josef,lost,50.0,Third,Passenger,Russian,Adult,male,False
+MARKS,Miss,Georgina,lost,24.0,Third,Passenger,British,Adult,female,False
+MARKS,Mrs.,G. (Elizabeth Brock),lost,50.0,Third,Passenger,British,Adult,female,False
+MARSH,Mr.,Thomas,lost,29.0,Third,Passenger,British,Adult,male,False
+MARSH,Master,"Thomas, Jr.",lost,11.0,Third,Passenger,British,Infant,male,False
+MARSH,Mrs.,Thomas (Annie),saved,26.0,Third,Passenger,British,Adult,female,False
+MARSHALL,Mrs.,Fannie E.,saved,35.0,Third,Passenger,British,Adult,female,False
+MARTIN,Mrs.,Albert (Laura Truman),saved,56.0,Third,Passenger,British,Adult,female,False
+MASON,Mr.,Joseph Howard,lost,31.0,Third,Passenger,British,Adult,male,False
+MATTHEWS,Mr.,Thomas,saved,27.0,Third,Passenger,British,Adult,male,False
+MAZURAK,Mr.,"Iwan ""John""",saved,22.0,Third,Passenger,Russian,Adult,male,False
+McAFEE,Mr.,Thomas,lost,28.0,Third,Passenger,British,Adult,male,False
+McANEMY,Mr.,John,lost,23.0,Third,Passenger,British,Adult,male,False
+McCALLUM,Mr.,Albert Alexander,lost,27.0,Third,Passenger,British,Adult,male,False
+McCLAMMOND,Mr.,Samuel,saved,32.0,Third,Passenger,British,Adult,male,False
+McCORMICK,Mr.,Thomas,saved,30.0,Third,Passenger,British,Adult,male,False
+McCREADY,Mr.,Robert G.,lost,28.0,Third,Passenger,British,Adult,male,False
+McDERMOTT,Mr.,Andrew,saved,22.0,Third,Passenger,British,Adult,male,False
+McKEON,Miss,Jane,lost,24.0,Third,Passenger,British,Adult,female,False
+McLOUGHLIN,Mr.,Patrick J.,saved,35.0,Third,Passenger,British,Adult,male,False
+McNULTY,Mr.,Stephen,lost,27.0,Third,Passenger,British,Adult,male,False
+MEANEY,Mr.,George Peter,lost,30.0,Third,Passenger,British,Adult,male,False
+MICHALKOWICZ,Mr.,Iwan,lost,26.0,Third,Passenger,Russian,Adult,male,False
+MOLLOY,Mr.,Robert J.,lost,32.0,Third,Passenger,British,Adult,male,False
+MOSES,Mrs.,George (Janet Lynn),saved,46.0,Third,Passenger,British,Adult,female,False
+MUIRHEAD,Mr.,William,saved,31.0,Third,Passenger,British,Adult,male,False
+MURASKO,Mr.,Boris,lost,24.0,Third,Passenger,Russian,Adult,male,False
+MURRAY,Master,Walter,lost,4.0,Third,Passenger,British,Minor,male,False
+MURRAY,Mrs.,James (Margaret Gray),lost,26.0,Third,Passenger,British,Adult,female,False
+MURRAY,Mrs.,Mary,lost,31.0,Third,Passenger,British,Adult,female,False
+NEILBORSKI,Mr.,Gregory,lost,22.0,Third,Passenger,Russian,Adult,male,False
+NEILSON,Miss,Gerda Theoline,saved,29.0,Third,Passenger,British,Adult,female,False
+NEILSON,Miss,Violet,saved,31.0,Third,Passenger,Norwegian,Adult,female,False
+NIKANDER,Mr.,Gunnar,lost,32.0,Third,Passenger,Russian,Adult,male,False
+NORMAN,Mr.,Jasper,lost,27.0,Third,Passenger,British,Adult,male,False
+O'CONNOR,Mr.,John,lost,23.0,Third,Passenger,British,Adult,male,False
+OGINSKI,Mr.,Danil,lost,27.0,Third,Passenger,Russian,Adult,male,False
+OHANNIA,Mr.,Aziz,lost,35.0,Third,Passenger,Persian,Adult,male,False
+O'KELLY,Mr.,John J.,lost,28.0,Third,Passenger,British,Adult,male,False
+OLESZKO,Mr.,John,lost,22.0,Third,Passenger,Russian,Adult,male,False
+OLIVAR,Mr.,Diego,lost,46.0,Third,Passenger,Mexican,Adult,male,False
+ORYDYNIEC,Mr.,Andrzej,lost,45.0,Third,Passenger,Russian,Adult,male,False
+OWENS,Mr.,Patrick,lost,29.0,Third,Passenger,British,Adult,male,False
+PALMER,Mr.,Charles,lost,21.0,Third,Passenger,British,Adult,male,False
+PARKES,Mr.,William Henry,saved,23.0,Third,Passenger,British,Adult,male,False
+PERKA,Mr.,Maxim Antanow,saved,27.0,Third,Passenger,Russian,Adult,male,False
+PETRENOK,Mr.,Andrej,lost,34.0,Third,Passenger,Russian,Adult,male,False
+PETRONSIAN,Mr.,Kahraman,saved,16.0,Third,Passenger,Russian,Minor,male,False
+PHILLIPS,Mr.,William,lost,40.0,Third,Passenger,British,Adult,male,False
+PICKARD,Mr.,Frederick J.,saved,30.0,Third,Passenger,British,Adult,male,False
+PODRUBLENY,Mr.,Aleksij,lost,38.0,Third,Passenger,Russian,Adult,male,False
+POLUBINSKI,Mr.,Mikentii,saved,44.0,Third,Passenger,Russian,Adult,male,False
+PRYOR,Mr.,John,lost,25.0,Third,Passenger,British,Adult,male,False
+PULIK,Mr.,Mychail,saved,34.0,Third,Passenger,Russian,Adult,male,False
+RAWEN,Miss,Annie,saved,29.0,Third,Passenger,British,Adult,female,False
+REID,Mr.,John H.,lost,50.0,Third,Passenger,British,Adult,male,False
+REID,Mrs.,Ellen,lost,26.0,Third,Passenger,British,Adult,female,False
+RILEY,Miss,Ethel,saved,4.0,Third,Passenger,British,Minor,female,False
+RILEY,Miss,Sutcliffe,saved,4.0,Third,Passenger,British,Minor,female,False
+RILEY,Mr.,Edward,saved,30.0,Third,Passenger,British,Adult,male,False
+RILEY,Mrs.,Edward (Annie Taylor),saved,29.0,Third,Passenger,British,Adult,female,False
+ROBINSON,Mr.,Allan William,lost,26.0,Third,Passenger,British,Adult,male,False
+ROBSHAW,Mrs.,George (Edith),lost,26.0,Third,Passenger,British,Adult,female,False
+SARGIS,Mr.,Pera,lost,28.0,Third,Passenger,Persian,Adult,male,False
+SCOTT,Master,"Arthur, Jr.",saved,8.0,Third,Passenger,British,Minor,male,False
+SCOTT,Mrs.,Arthur (Alice Ann Kay),lost,29.0,Third,Passenger,British,Adult,female,False
+SEFERIEN,Mr.,Levon,saved,29.0,Third,Passenger,Persian,Adult,male,False
+SEISIAN,Mr.,Karatioum,lost,35.0,Third,Passenger,Persian,Adult,male,False
+SELF,Mr.,James,lost,33.0,Third,Passenger,British,Adult,male,False
+SELF,Mrs.,James (Florence Carl),lost,30.0,Third,Passenger,British,Adult,female,False
+SERGIS,Mr.,George,saved,37.0,Third,Passenger,Persian,Adult,male,False
+SHACKNELL,Mr.,William George,saved,50.0,Third,Passenger,British,Adult,male,False
+SHARP,Mr.,Samuel S.,saved,53.0,Third,Passenger,British,Adult,male,False
+SHARP,Master,George,saved,15.0,Third,Passenger,British,Minor,male,False
+SHARP,Mrs.,Annie,saved,32.0,Third,Passenger,British,Adult,female,False
+SHARP,Mrs.,Samuel S. (Mary Jane),saved,53.0,Third,Passenger,British,Adult,female,False
+SHEEDY,Mr.,Patrick,lost,30.0,Third,Passenger,British,Adult,male,False
+SHEPPERSON,Mr.,Arthur George,saved,26.0,Third,Passenger,British,Adult,male,False
+SHIRRAS,Mr.,Robert Brown,lost,26.0,Third,Passenger,British,Adult,male,False
+SHKERDOFF,Mr.,Jacob,saved,19.0,Third,Passenger,Russian,Adult,male,False
+SHKERDOFF,Mr.,Archie,lost,21.0,Third,Passenger,Russian,Adult,male,False
+SIDWELL,Mr.,George,lost,48.0,Third,Passenger,British,Adult,male,False
+SIKIWICKI,Mr.,Andro,lost,25.0,Third,Passenger,Russian,Adult,male,False
+SIKORA,Mr.,Joseph,lost,32.0,Third,Passenger,Russian,Adult,male,False
+SIMPSON,Mr.,Edward,saved,50.0,Third,Passenger,British,Adult,male,False
+SKELTON,Mr.,Frederick,lost,30.0,Third,Passenger,British,Adult,male,False
+SMETHURST,Mr.,Harold,saved,27.0,Third,Passenger,British,Adult,male,False
+SMETHURST,Mrs.,Harold (Alice),saved,24.0,Third,Passenger,British,Adult,female,False
+SMITH,Mr.,George,saved,33.0,Third,Passenger,British,Adult,male,False
+SMITH,Miss,Agnes,lost,24.0,Third,Passenger,British,Adult,female,False
+SMITH,Mrs.,William (Minnie),lost,28.0,Third,Passenger,British,Adult,female,False
+SNOWDEN,Mr.,Fred A.,lost,30.0,Third,Passenger,British,Adult,male,False
+SNOWDEN,Mr.,Thomas,saved,30.0,Third,Passenger,British,Adult,male,False
+SOBOLOWSKI,Mr.,Mitrofan,saved,29.0,Third,Passenger,Russian,Adult,male,False
+SOLONINA,Mr.,Stefan,lost,37.0,Third,Passenger,Russian,Adult,male,False
+SPENDLEY,Mrs.,David March (Kate Bermet),saved,28.0,Third,Passenger,British,Adult,female,False
+STACEY,Mr.,Joseph Nelson,lost,22.0,Third,Passenger,British,Adult,male,False
+STACHULA,Mr.,Michael,lost,30.0,Third,Passenger,Russian,Adult,male,False
+STANDFAST,Mr.,Noel,lost,40.0,Third,Passenger,British,Adult,male,False
+STANKIEWICZ,Mr.,Anthony,lost,46.0,Third,Passenger,Russian,Adult,male,False
+STEELE,Mr.,George,saved,29.0,Third,Passenger,British,Adult,male,False
+STENSON,Miss,Delia,lost,40.0,Third,Passenger,British,Adult,female,False
+STEPHEN,Mr.,Thomas Ohan,saved,23.0,Third,Passenger,USA,Adult,male,False
+STEVENS,Mr.,George,saved,28.0,Third,Passenger,British,Adult,male,False
+STEVENSON,Mr.,Hugh,lost,31.0,Third,Passenger,British,Adult,male,False
+STOCKTON,Mr.,Alfred,saved,23.0,Third,Passenger,British,Adult,male,False
+STOLARENIC,Mr.,Vasili,lost,26.0,Third,Passenger,Russian,Adult,male,False
+STRULZ,Mr.,Theodor,lost,27.0,Third,Passenger,Russian,Adult,male,False
+STRYNECHUK,Mr.,Save,saved,26.0,Third,Passenger,Russian,Adult,male,False
+SWALLOW,Mr., Allan,lost,17.0,Third,Passenger,British,Minor,male,False
+TADUS,Mr.,Asset,lost,38.0,Third,Passenger,Persian,Adult,male,False
+TARACSEWICS,Mr.,Iwan,saved,42.0,Third,Passenger,Russian,Adult,male,False
+TAYLOR,Mrs.,Harold William (Lucy Haddock),saved,19.0,Third,Passenger,British,Adult,female,False
+TAYLOR,Mr.,Harold William,saved,21.0,Third,Passenger,British,Adult,male,False
+TAYLOR,Mr.,Arthur,lost,32.0,Third,Passenger,British,Adult,male,False
+THOMPSON,Mr.,Norman,lost,18.0,Third,Passenger,British,Adult,male,False
+THOMPSON,Mr.,Joseph,saved,40.0,Third,Passenger,British,Adult,male,False
+THOMPSON,Mrs.,Joseph (Sarah Ann),lost,40.0,Third,Passenger,British,Adult,female,False
+TOBIN,Mrs.,Nora,saved,25.0,Third,Passenger,British,Adult,female,False
+TOMASZEWICZ,Mr.,Iwan,saved,28.0,Third,Passenger,Russian,Adult,male,False
+TOMMS,Miss,Elizabeth,lost,31.0,Third,Passenger,British,Adult,female,False
+TOPPING,Mrs.,Albert (Margaret Shenty),lost,40.0,Third,Passenger,British,Adult,female,False
+TOPPING,Miss,Hilda,lost,10.0,Third,Passenger,British,Minor,female,False
+TOUHEY,Miss,Margaret,saved,25.0,Third,Passenger,British,Adult,female,False
+TRAVERS,Mrs.,Jane,lost,30.0,Third,Passenger,British,Adult,female,False
+TUCKER,Mr.,Albert,lost,25.0,Third,Passenger,British,Adult,male,False
+TWINING,Mr.,Edwin,lost,19.0,Third,Passenger,British,Adult,male,False
+TYLER,Mr.,Samuel,lost,28.0,Third,Passenger,British,Adult,male,False
+VEALS,Mr.,Albert Edward,saved,31.0,Third,Passenger,British,Adult,male,False
+VEALS,Mrs.,Albert Edward (Agnes Maud Bailey),saved,27.0,Third,Passenger,British,Adult,female,False
+WAARANEN,Miss,Ellen Marie,lost,22.0,Third,Passenger,Russian,Adult,female,False
+WARD,Mr.,Joseph,lost,41.0,Third,Passenger,British,Adult,male,False
+WARD,Mr.,George,saved,48.0,Third,Passenger,British,Adult,male,False
+WARD,Mrs.,George (Ellen),saved,43.0,Third,Passenger,British,Adult,female,False
+WARDLE,Mrs.,Frank (Cissie),lost,22.0,Third,Passenger,British,Adult,female,False
+WATSON,Mrs.,Kate,lost,31.0,Third,Passenger,British,Adult,female,False
+WEBB,Mr.,William,lost,40.0,Third,Passenger,British,Adult,male,False
+WEBB,Mrs.,William (Sarah),lost,32.0,Third,Passenger,British,Adult,female,False
+WEBB,Mrs.,Elizabeth,lost,69.0,Third,Passenger,British,Adult,female,False
+WELSH,Mr.,John,saved,34.0,Third,Passenger,British,Adult,male,False
+WILKES,Miss,Alice Kate,saved,30.0,Third,Passenger,British,Adult,female,False
+WILLIAMS,Mr.,David,lost,27.0,Third,Passenger,British,Adult,male,False
+WILLIAMS,Mr.,James,lost,38.0,Third,Passenger,British,Adult,male,False
+WILLIAMS,Mr.,Thomas,lost,45.0,Third,Passenger,British,Adult,male,False
+WILLIAMS,Master,David,lost,3.0,Third,Passenger,British,Infant,male,False
+WILLIAMS,Master,George Albert,lost,6.0,Third,Passenger,British,Minor,male,False
+WILLIAMS,Master,John Edward,saved,10.0,Third,Passenger,British,Minor,male,False
+WILLIAMS,Mrs.,Harry John (Elizabeth Annie Millman),lost,37.0,Third,Passenger,British,Adult,female,False
+WILLIAMS,Miss,Florence,lost,4.0,Third,Passenger,British,Minor,female,False
+WILLIAMS,Miss,Ethel,lost,5.0,Third,Passenger,British,Minor,female,False
+WILLIAMS,Miss,Edith,saved,9.0,Third,Passenger,British,Minor,female,False
+WILSON,Master,Frank,lost,4.0,Third,Passenger,British,Minor,male,False
+WILSON,Mrs.,William (Emily),lost,31.0,Third,Passenger,British,Adult,female,False
+WILSON,Miss,Dorothy,lost,2.0,Third,Passenger,British,Minor,female,False
+WOODWORD,Mr.,Robert,saved,22.0,Third,Passenger,British,Adult,male,False
+WORRELL,Mr.,Fred A.,lost,45.0,Third,Passenger,British,Adult,male,False
+YOHAMA,Mr.,Envia,lost,40.0,Third,Passenger,Persian,Adult,male,False
+YOHANAN,Mr.,Alvaretz,saved,32.0,Third,Passenger,Persian,Adult,male,False
+YORK,Mr.,William,lost,32.0,Third,Passenger,British,Adult,male,False
+YOUNG,Mrs.,Charles (Elizabeth Grossart),lost,27.0,Third,Passenger,British,Adult,female,False
+ZALIACHANOFF,Mr.,Khaeho,lost,37.0,Third,Passenger,Russian,Adult,male,False
+DOMINGUES,Mr.,Manuel,lost,32.0,Third,Passenger,British,Adult,male,False
+GENANSELM,Mr.,A.,lost,32.0,Third,Passenger,British,Adult,male,False
+SLIGHT,Mr.,Harold James,lost,32.0,Third,Passenger,British,Adult,male,False
+ADAMSON,Mr.,Thomas,saved,32.0,Victualling,Crew,British,Adult,male,False
+AINDOW,Mr.,Charles,lost,32.0,Victualling,Crew,British,Adult,male,False
+ALLAN,Mr.,Ashley,lost,32.0,Victualling,Crew,British,Adult,male,False
+ALLEN,Mr.,Norman Frederick,lost,32.0,Victualling,Crew,British,Adult,male,False
+ALLPORT,Mr.,Harry Ride George,saved,34.0,Victualling,Crew,British,Adult,male,False
+ALMOND,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+ANDERSON,Mr.,James,saved,32.0,Victualling,Crew,British,Adult,male,False
+ANDERSON,Mr.,William,saved,32.0,Victualling,Crew,British,Adult,male,False
+ARCHER,Mr.,Joseph,saved,32.0,Victualling,Crew,British,Adult,male,False
+ASHCROFT,Mr.,Gordon Ernest,lost,32.0,Victualling,Crew,British,Adult,male,False
+BAIN,Mr.,Duncan Campbell,lost,32.0,Victualling,Crew,British,Adult,male,False
+BALDWIN,Mr.,Thomas,saved,28.0,Victualling,Crew,British,Adult,male,False
+BALDWIN,Mr.,Edgar,saved,32.0,Victualling,Crew,British,Adult,male,False
+BANNER,Mr.,A.,lost,32.0,Victualling,Crew,British,Adult,male,False
+BARNES,Mr.,William,saved,44.0,Victualling,Crew,British,Adult,male,False
+BATES,Master,George,lost,17.0,Victualling,Crew,British,Minor,male,False
+BECKETT,Mr.,Henry,saved,38.0,Victualling,Crew,British,Adult,male,False
+BEESLEY,Mr.,George William Alfred,lost,32.0,Victualling,Crew,British,Adult,male,False
+BETRAND,Mr.,Maurice (Laparge),lost,32.0,Victualling,Crew,British,Adult,male,False
+BIRD,Miss,Marian May,saved,40.0,Victualling,Crew,British,Adult,female,False
+BIRD,Mr.,Walter,lost,32.0,Victualling,Crew,British,Adult,male,False
+BLEND,Mr.,John Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+BLYTHYN,Mr.,Robert William,lost,32.0,Victualling,Crew,British,Adult,male,False
+BOND,Mr.,Edward,saved,32.0,Victualling,Crew,British,Adult,male,False
+BOSTOCK,Mr.,Joseph James,lost,32.0,Victualling,Crew,British,Adult,male,False
+BOYD,Mr.,Fullerton Rimmer,saved,37.0,Victualling,Crew,British,Adult,male,False
+BROOKE,Mr.,George,lost,32.0,Victualling,Crew,British,Adult,male,False
+BROWN,Mr.,James H.,saved,29.0,Victualling,Crew,British,Adult,male,False
+BROWNE,Mr.,E. Bennett,lost,32.0,Victualling,Crew,British,Adult,male,False
+BURDEN,Mr.,Arthur Howell,lost,32.0,Victualling,Crew,British,Adult,male,False
+BURROWS,Mr.,Francis,lost,32.0,Victualling,Crew,British,Adult,male,False
+BURROWS,Master,William,saved,15.0,Victualling,Crew,British,Minor,male,False
+CALDICOTT,Mr.,Samuel,saved,32.0,Victualling,Crew,British,Adult,male,False
+CARTWRIGHT,Mr.,Harry,lost,32.0,Victualling,Crew,British,Adult,male,False
+CASEY,Mr.,Martin,lost,32.0,Victualling,Crew,British,Adult,male,False
+CASSELS,Miss,Nora Isabel,lost,44.0,Victualling,Crew,British,Adult,female,False
+CHAMBERLAIN,Mr.,Richard,lost,32.0,Victualling,Crew,British,Adult,male,False
+CHARLTON,Mr.,George J.,saved,53.0,Victualling,Crew,British,Adult,male,False
+CHISHOLM,Mr.,Robert Daniel Fletcher,saved,33.0,Victualling,Crew,British,Adult,male,False
+CHRISTIAN,Mr.,K.,lost,32.0,Victualling,Crew,British,Adult,male,False
+CHRISTIAN,Mr.,William Edward,lost,32.0,Victualling,Crew,British,Adult,male,False
+CLARK,Master,Robert James,saved,15.0,Victualling,Crew,British,Minor,male,False
+CLARKE,Mr.,James,saved,32.0,Victualling,Crew,British,Adult,male,False
+CLEGG,Mr.,Arthur,lost,32.0,Victualling,Crew,British,Adult,male,False
+COLLINS,Mr.,James,saved,32.0,Victualling,Crew,British,Adult,male,False
+COMERFORD,Mr.,Thomas,saved,31.0,Victualling,Crew,British,Adult,male,False
+CONNERTIN,Mr.,Thomas,lost,32.0,Victualling,Crew,British,Adult,male,False
+CONWAY,Mr.,Richard,lost,32.0,Victualling,Crew,British,Adult,male,False
+COOPER,Mr.,Frederick,saved,32.0,Victualling,Crew,British,Adult,male,False
+COWAN,Mr.,Alex,saved,32.0,Victualling,Crew,British,Adult,male,False
+CRAIGIE,Mrs.,Margaret,saved,40.0,Victualling,Crew,British,Adult,female,False
+CRANSTON,Mr., George,lost,32.0,Victualling,Crew,British,Adult,male,False
+CRAWFORD,Mr.,Thomas,saved,32.0,Victualling,Crew,British,Adult,male,False
+CRITCHLEY,Mr.,David,lost,32.0,Victualling,Crew,British,Adult,male,False
+CUMMINGS,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+CURRIE,Mr.,George,saved,32.0,Victualling,Crew,British,Adult,male,False
+DANSON,Mr.,Richard,saved,45.0,Victualling,Crew,British,Adult,male,False
+DARCY,Mr.,John,saved,32.0,Victualling,Crew,British,Adult,male,False
+DAVIES,Mr.,Charles,saved,32.0,Victualling,Crew,British,Adult,male,False
+DAVIES,Mr.,Fred,lost,32.0,Victualling,Crew,British,Adult,male,False
+DAVIES,Mr.,Kenneth,lost,32.0,Victualling,Crew,British,Adult,male,False
+DAWES,Mr.,Thomas George,lost,32.0,Victualling,Crew,British,Adult,male,False
+DEINER,Mr.,Frederick,saved,32.0,Victualling,Crew,British,Adult,male,False
+DENTON,Mr.,Jonathan S.,saved,47.0,Victualling,Crew,British,Adult,male,False
+DEWHURST,Mrs.,Elizabeth Ross Morris,saved,32.0,Victualling,Crew,British,Adult,female,False
+DEWRANCE,Mr.,Sydney,lost,32.0,Victualling,Crew,British,Adult,male,False
+DICKINSON,Mr.,John Faulkner,lost,32.0,Victualling,Crew,British,Adult,male,False
+DIMMOND,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+DINGLEY,Mr.,H. J.,lost,32.0,Victualling,Crew,British,Adult,male,False
+DODWELL,Miss,Eleanor,lost,26.0,Victualling,Crew,British,Adult,female,False
+DRAPER,Mr.,Percy,saved,30.0,Victualling,Crew,British,Adult,male,False
+DRISCOLL,Mr.,Cornelius,lost,20.0,Victualling,Crew,British,Adult,male,False
+DUNCAN,Mr.,Joseph,saved,32.0,Victualling,Crew,British,Adult,male,False
+DUNCAN,Miss,Christina Campbell,lost,36.0,Victualling,Crew,British,Adult,female,False
+EASTWOOD,Mr.,William Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+EDGAR,Mr.,William Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+EDWARDS,Mr.,Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+EDWARDS,Mr.,Joseph,lost,32.0,Victualling,Crew,British,Adult,male,False
+ENDERSON,Mrs.,Anna,lost,45.0,Victualling,Crew,Norwegian,Adult,female,False
+FERRIS,Mr.,John,saved,32.0,Victualling,Crew,British,Adult,male,False
+FINUCANE,Mr.,Noel,saved,24.0,Victualling,Crew,British,Adult,male,False
+FLETCHER,Mr.,George,saved,32.0,Victualling,Crew,British,Adult,male,False
+FLETCHER,Mr.,William S.,saved,32.0,Victualling,Crew,British,Adult,male,False
+"FODEN (Foderic, Toder)",Mr.,Robert Ernest,saved,32.0,Victualling,Crew,British,Adult,male,False
+FORD,Mr.,Arthur Hugh,lost,32.0,Victualling,Crew,British,Adult,male,False
+FOSTER,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+FOULKES,Mrs.,Margaret Elizabeth (Margaret Elizabeth Hughes),lost,42.0,Victualling,Crew,British,Adult,female,False
+FRANCOM,Mr.,James,saved,32.0,Victualling,Crew,British,Adult,male,False
+FREEMAN,Mr.,Matthew,saved,32.0,Victualling,Crew,British,Adult,male,False
+GADD,Mr.,Lott,saved,45.0,Victualling,Crew,British,Adult,male,False
+GARDNER,Mr.,William George,lost,45.0,Victualling,Crew,British,Adult,male,False
+GAUL,Mr.,Bart,saved,32.0,Victualling,Crew,British,Adult,male,False
+GERAGHTY,Mr.,Martin,lost,38.0,Victualling,Crew,British,Adult,male,False
+GERMAN,Mr.,Samuel Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+GIFTENBURG,Mr.,Anton,lost,32.0,Victualling,Crew,Dutch,Adult,male,False
+GILROY,Mr.,Charles Stuart,lost,22.0,Victualling,Crew,British,Adult,male,False
+GLANCY,Mr.,James Wilson,lost,32.0,Victualling,Crew,British,Adult,male,False
+GLOVER,Mr.,Edwin,saved,32.0,Victualling,Crew,British,Adult,male,False
+GLOVER,Mr.,George Alfred,lost,32.0,Victualling,Crew,British,Adult,male,False
+GODLEY,Mr.,Thomas G.,saved,32.0,Victualling,Crew,British,Adult,male,False
+GORST,Mr.,Frederick William,lost,32.0,Victualling,Crew,British,Adult,male,False
+GOUDER,Mr.,Charles Francis Vincent (Gontes Cloules),saved,26.0,Victualling,Crew,British,Adult,male,False
+GOWAN,Mr.,G.,lost,32.0,Victualling,Crew,British,Adult,male,False
+GRAINGER,Mr.,Robert,saved,32.0,Victualling,Crew,British,Adult,male,False
+GRANT,Mr.,James,saved,26.0,Victualling,Crew,British,Adult,male,False
+GRIENER,Mr.,Oscar,saved,32.0,Victualling,Crew,British,Adult,male,False
+GRIFFITH,Mr.,George,saved,32.0,Victualling,Crew,British,Adult,male,False
+GRIFFITHS,Mr.,John Humphrey,saved,38.0,Victualling,Crew,British,Adult,male,False
+GRISDALE,Mr.,Harry,saved,26.0,Victualling,Crew,British,Adult,male,False
+HAGEN,Mr.,Francis J.,saved,30.0,Victualling,Crew,British,Adult,male,False
+HALE,Miss,"Sarah Rachel Orr ""Sadie""",lost,24.0,Victualling,Crew,British,Adult,female,False
+HALL,Mr.,Edwin,saved,32.0,Victualling,Crew,British,Adult,male,False
+HALLAM,Mr.,Ernest,saved,38.0,Victualling,Crew,British,Adult,male,False
+HANDLIN,Mr.,David Cowell,lost,32.0,Victualling,Crew,British,Adult,male,False
+HANNAH,Mr.,Thomas,lost,32.0,Victualling,Crew,British,Adult,male,False
+HARKNESS,Mr.,William Herbert,saved,29.0,Victualling,Crew,British,Adult,male,False
+HARRIES,Mr.,George Edward,lost,32.0,Victualling,Crew,British,Adult,male,False
+HARRIS,Mr.,John Lewis,lost,32.0,Victualling,Crew,British,Adult,male,False
+HARROD,Mr.,Alfred,lost,32.0,Victualling,Crew,British,Adult,male,False
+HAYBYRNE,Mr.,James Benedict,lost,32.0,Victualling,Crew,British,Adult,male,False
+HEAP,Mr.,Harry,lost,32.0,Victualling,Crew,British,Adult,male,False
+HENDERSON,Mr.,John,saved,31.0,Victualling,Crew,British,Adult,male,False
+HENDRY,Mr.,William,saved,32.0,Victualling,Crew,British,Adult,male,False
+HIGGINS,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+HILTON,Mr.,George Percival,lost,32.0,Victualling,Crew,British,Adult,male,False
+HINE,Mr.,John Benjamin,lost,24.0,Victualling,Crew,British,Adult,male,False
+HOLDEN,Mr.,James William,lost,32.0,Victualling,Crew,British,Adult,male,False
+HOLMAN,Mr.,Frank Bowden,saved,30.0,Victualling,Crew,British,Adult,male,False
+HOLTON,Master,Benjamin R. H.,saved,16.0,Victualling,Crew,British,Minor,male,False
+HORRIGAN,Master,Cornelius,saved,16.0,Victualling,Crew,British,Minor,male,False
+HOTCHKISS,Mr.,Charles,saved,32.0,Victualling,Crew,British,Adult,male,False
+HOUGHTON,Mr.,Thomas Johnson,lost,32.0,Victualling,Crew,British,Adult,male,False
+HOWDLE,Mrs.,Jane Ellen (Jane Ellen Hughes),lost,33.0,Victualling,Crew,British,Adult,female,False
+HUGHES,Mr.,Edward,saved,32.0,Victualling,Crew,British,Adult,male,False
+HUGHES,Mr.,Thomas Owen ,lost,32.0,Victualling,Crew,British,Adult,male,False
+HUGHES,Mr.,William,lost,32.0,Victualling,Crew,British,Adult,male,False
+HUGHES,Master,William Wilson,lost,32.0,Victualling,Crew,British,Minor,male,False
+HUGHES,Miss,Ellen,saved,31.0,Victualling,Crew,British,Adult,female,False
+HULL,Mrs.,Margaret,saved,31.0,Victualling,Crew,British,Adult,female,False
+HUTHER,Mr.,Edwin Arthur,lost,32.0,Victualling,Crew,British,Adult,male,False
+IPSEN,Mr.,Owen Alfred,saved,32.0,Victualling,Crew,British,Adult,male,False
+IRVINE,Miss,Catherine,lost,30.0,Victualling,Crew,British,Adult,female,False
+IVERSON,Mr.,Ambrose,lost,32.0,Victualling,Crew,British,Adult,male,False
+JAMES,Mr.,Oswald,lost,32.0,Victualling,Crew,British,Adult,male,False
+JESSOP,Mr.,Robert Nelson,lost,32.0,Victualling,Crew,British,Adult,male,False
+JOHNSON,Mr.,James Andrew Santie,lost,32.0,Victualling,Crew,British,Adult,male,False
+JONES,Mr.,John Frederick Valentine,saved,54.0,Victualling,Crew,British,Adult,male,False
+JONES,Mr.,Alfred,lost,32.0,Victualling,Crew,British,Adult,male,False
+JONES,Mr.,Charles (Cann Cooper Lann),lost,32.0,Victualling,Crew,British,Adult,male,False
+JONES,Mr.,William,lost,32.0,Victualling,Crew,British,Adult,male,False
+JONES,Miss,Mary Elizabeth,lost,43.0,Victualling,Crew,British,Adult,female,False
+JORGENSON,Mrs.,Karen,lost,35.0,Victualling,Crew,Danish,Adult,female,False
+JOYNSON,Mr.,Edgar H.,saved,19.0,Victualling,Crew,British,Adult,male,False
+KELLY,Mr.,Alfred Aloysius,lost,32.0,Victualling,Crew,British,Adult,male,False
+KENNEDY,Mr.,John,saved,32.0,Victualling,Crew,British,Adult,male,False
+KENRICK,Mr.,Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+KENT,Mr.,John George,lost,32.0,Victualling,Crew,British,Adult,male,False
+KEWLEY,Mr.,Ernest Alexander,lost,38.0,Victualling,Crew,British,Adult,male,False
+KIDD,Mr.,Frank,saved,40.0,Victualling,Crew,British,Adult,male,False
+KINSHOTT,Mr.,William Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+KNIGHT,Mr.,Charles,saved,65.0,Victualling,Crew,British,Adult,male,False
+KNILL,Mr.,George,saved,32.0,Victualling,Crew,British,Adult,male,False
+KUPFENAGEL,Mr.,Alfred Felix C.,saved,32.0,Victualling,Crew,British,Adult,male,False
+LAKE,Mr.,William,lost,32.0,Victualling,Crew,British,Adult,male,False
+LAMONT,Mr.,Charles,saved,28.0,Victualling,Crew,British,Adult,male,False
+LAPPHANE,Mr.,Charles,lost,19.0,Victualling,Crew,British,Adult,male,False
+LAWSON,Mr.,Percy,saved,32.0,Victualling,Crew,British,Adult,male,False
+Le TOUZEL,Mr.,"Le TOUZEL, Mr. Sydney Gybbon",saved,32.0,Victualling,Crew,British,Adult,male,False
+LEACH,Mr., John Neil,lost,25.0,Victualling,Crew,British,Adult,male,False
+LEACH,Mr.,John F.,saved,35.0,Victualling,Crew,British,Adult,male,False
+LEDGER,Mr.,James,lost,32.0,Victualling,Crew,British,Adult,male,False
+LEDSON,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+LEE,Mr.,Richard ,saved,21.0,Victualling,Crew,British,Adult,male,False
+LEITCH,Mrs.,M.,saved,31.0,Victualling,Crew,British,Adult,female,False
+LEITH,Mr.,Robert,saved,32.0,Victualling,Crew,British,Adult,male,False
+LEWIS,Mr.,Fred,lost,32.0,Victualling,Crew,British,Adult,male,False
+LIMBERG,Mr.,Ferdinand,lost,32.0,Victualling,Crew,Dutch,Adult,male,False
+LIVERMORE,Mr.,Vernon,saved,32.0,Victualling,Crew,British,Adult,male,False
+MACHELL,Miss,Elizabeth,saved,31.0,Victualling,Crew,British,Adult,female,False
+MacKENZIE,Mr.,Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+MacKENZIE (McKENZIE?),Mr.,Kenneth ,lost,22.0,Victualling,Crew,British,Adult,male,False
+MacPHERSON,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+MARSHALL,Mr.,James,lost,32.0,Victualling,Crew,British,Adult,male,False
+MATTHEWS,Mr.,Henry,saved,32.0,Victualling,Crew,British,Adult,male,False
+MAYLOR,Mr.,George,saved,32.0,Victualling,Crew,British,Adult,male,False
+McALTEER,Mr.,Matthew,lost,32.0,Victualling,Crew,British,Adult,male,False
+McARTHUR,Mr.,William George,lost,32.0,Victualling,Crew,British,Adult,male,False
+McCLELLAND,Mr.,David,saved,32.0,Victualling,Crew,British,Adult,male,False
+McCLEOD,Mr.,William,lost,32.0,Victualling,Crew,British,Adult,male,False
+McCONKEY,Mr.,Christopher Evans,lost,42.0,Victualling,Crew,British,Adult,male,False
+McCORMACK,Mr.,Donald,saved,32.0,Victualling,Crew,British,Adult,male,False
+McCORMACK,Miss,Margarita Christina ,lost,34.0,Victualling,Crew,British,Adult,female,False
+McCUBBIN,Mr.,James Alexander,lost,62.0,Victualling,Crew,British,Adult,male,False
+McDONALD,Mr.,Charles,saved,32.0,Victualling,Crew,British,Adult,male,False
+McFARLANE,Mr.,Malcolm John,lost,32.0,Victualling,Crew,British,Adult,male,False
+McGREGOR,Miss,Agnes,lost,43.0,Victualling,Crew,British,Adult,female,False
+McIVER,Mr.,John,saved,32.0,Victualling,Crew,British,Adult,male,False
+McKENZIE,Mr.,Henry,saved,32.0,Victualling,Crew,British,Adult,male,False
+McLAUGLIN,Mr.,Joseph,lost,32.0,Victualling,Crew,British,Adult,male,False
+McSANE,Mr.,Patrick,saved,32.0,Victualling,Crew,British,Adult,male,False
+MILLS,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+MITCHELL,Mr.,George,saved,32.0,Victualling,Crew,British,Adult,male,False
+MITCHELL,Mr.,William,saved,32.0,Victualling,Crew,British,Adult,male,False
+MOFFATT,Mr.,John Herbertson Bernstone Hyman,lost,32.0,Victualling,Crew,British,Adult,male,False
+MORECROFT,Mrs.,Herbert (Fannie Jane Chamberlain),saved,43.0,Victualling,Crew,British,Adult,female,False
+MORROW,Miss,Harding,lost,42.0,Victualling,Crew,British,Adult,female,False
+MORSE,Mr.,Robert,saved,40.0,Victualling,Crew,British,Adult,male,False
+MOSS,Mr.,John Barrow,lost,32.0,Victualling,Crew,British,Adult,male,False
+MUDGE,Mr.,John,saved,32.0,Victualling,Crew,British,Adult,male,False
+MURPHY,Mr.,John Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+NEEMS,Mr.,William Francis,lost,37.0,Victualling,Crew,British,Adult,male,False
+NEWBOLD,Mr.,Hubert H.,saved,32.0,Victualling,Crew,British,Adult,male,False
+NEWPORT,Mr.,William,saved,32.0,Victualling,Crew,British,Adult,male,False
+NICE,Mr.,Reginald Bertie S. ,lost,32.0,Victualling,Crew,British,Adult,male,False
+NIEMANN,Mr.,Robert,saved,32.0,Victualling,Crew,British,Adult,male,False
+NIXON,Mr.,Harold,saved,32.0,Victualling,Crew,British,Adult,male,False
+NUSSBAUM,Mr.,Samuel,lost,32.0,Victualling,Crew,Swiss,Adult,male,False
+ORWIN,Mr.,Nicholas,lost,32.0,Victualling,Crew,British,Adult,male,False
+OSTERMAN,Mr.,Jacob,saved,32.0,Victualling,Crew,British,Adult,male,False
+OTTINO,Mr.,John,saved,32.0,Victualling,Crew,British,Adult,male,False
+OWEN,Mr.,Thomas,saved,32.0,Victualling,Crew,British,Adult,male,False
+PARRY,Mr.,Frank,saved,45.0,Victualling,Crew,British,Adult,male,False
+PEDERSON,Mr.,Johan Adolph ,saved,32.0,Victualling,Crew,British,Adult,male,False
+PENKEYMAN,Mr.,Samuel J.,lost,32.0,Victualling,Crew,British,Adult,male,False
+PENNY,Mr.,Algernon Percy,saved,33.0,Victualling,Crew,British,Adult,male,False
+PERRY,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+PHILLIPS,Miss,Mary,saved,33.0,Victualling,Crew,British,Adult,female,False
+PINKERTON,Mr.,Robert,lost,32.0,Victualling,Crew,British,Adult,male,False
+POTTER,Mr.,Benjamin,lost,32.0,Victualling,Crew,British,Adult,male,False
+PRATT,Mr.,Richard,saved,32.0,Victualling,Crew,British,Adult,male,False
+PRICE,Mr.,C.,lost,32.0,Victualling,Crew,British,Adult,male,False
+PRINGLE,Mr.,Thomas,saved,32.0,Victualling,Crew,British,Adult,male,False
+PROWSE,Mr.,Thomas,lost,32.0,Victualling,Crew,British,Adult,male,False
+QUINN,Mr.,Alfred,saved,32.0,Victualling,Crew,British,Adult,male,False
+RANDALL,Mr.,Charles,saved,53.0,Victualling,Crew,British,Adult,male,False
+REDMOND,Mr.,James,saved,32.0,Victualling,Crew,British,Adult,male,False
+REID,Mr.,Alfred,lost,32.0,Victualling,Crew,British,Adult,male,False
+RICHARDSON,Miss,Annie,lost,37.0,Victualling,Crew,British,Adult,female,False
+RISTON,Mr.,Issac,lost,32.0,Victualling,Crew,British,Adult,male,False
+ROACH,Mr.,John,saved,32.0,Victualling,Crew,British,Adult,male,False
+ROBERTS,Mr.,John,lost,19.0,Victualling,Crew,British,Adult,male,False
+ROBERTS,Miss,Annie Jane,lost,35.0,Victualling,Crew,British,Adult,female,False
+RONNAN,Mr.,George,lost,16.0,Victualling,Crew,British,Minor,male,False
+ROSE,Mr.,William,saved,32.0,Victualling,Crew,British,Adult,male,False
+ROSS,Mr.,Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+ROURKE,Mr.,Stanley,saved,21.0,Victualling,Crew,British,Adult,male,False
+ROWBOTHAM,Mr.,Harold E. ,saved,32.0,Victualling,Crew,British,Adult,male,False
+RUFFELS,Mr.,William Samuel,lost,32.0,Victualling,Crew,British,Adult,male,False
+RUSHTON,Mr.,George,saved,32.0,Victualling,Crew,British,Adult,male,False
+RUSSELL,Mr.,Frederick,saved,32.0,Victualling,Crew,British,Adult,male,False
+RYLANDS,Mr.,William Deakin,lost,32.0,Victualling,Crew,British,Adult,male,False
+SAULTRY,Mr.,William,lost,32.0,Victualling,Crew,British,Adult,male,False
+SCANTLEBURY,Mr.,Samuel,saved,32.0,Victualling,Crew,British,Adult,male,False
+SEPHTON,Mr.,William,saved,32.0,Victualling,Crew,British,Adult,male,False
+SETTLE,Mr.,Vincent,saved,55.0,Victualling,Crew,British,Adult,male,False
+SEURRE,Mr.,Etienne Pierre,lost,32.0,Victualling,Crew,French,Adult,male,False
+SHANN,Mr.,Sydney James,lost,32.0,Victualling,Crew,British,Adult,male,False
+SHARP,Master,Philip Archibald,lost,32.0,Victualling,Crew,British,Minor,male,False
+SHAVLEY,Mr.,Gerald,saved,32.0,Victualling,Crew,British,Adult,male,False
+SHEIL,Mr.,Michael S.,saved,32.0,Victualling,Crew,British,Adult,male,False
+SHEVLAND,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+SIMPSON,Mr.,Malcolm,saved,34.0,Victualling,Crew,British,Adult,male,False
+SKAY,Master,Edward,saved,16.0,Victualling,Crew,British,Minor,male,False
+SLOANE,Mr.,Leonard Hanson,lost,32.0,Victualling,Crew,British,Adult,male,False
+SMITH,Mr.,Oliver Barrow,lost,32.0,Victualling,Crew,British,Adult,male,False
+SMITH,Mr.,William,saved,32.0,Victualling,Crew,British,Adult,male,False
+SPENDLEY,Mr.,David March,lost,32.0,Victualling,Crew,British,Adult,male,False
+STANLEY,Mr.,David H.,saved,32.0,Victualling,Crew,British,Adult,male,False
+STANSFIELD,Mr.,Leslie,lost,32.0,Victualling,Crew,British,Adult,male,False
+STARK,Mr.,Robert Lucas,lost,32.0,Victualling,Crew,British,Adult,male,False
+STEINBERG,Master,Arthur Valentine,lost,32.0,Victualling,Crew,British,Minor,male,False
+STEWART,Mr.,Thomas Edgar,lost,23.0,Victualling,Crew,British,Adult,male,False
+STRINGER,Mr.,Harry,lost,26.0,Victualling,Crew,British,Adult,male,False
+SUTTAN,Mr.,Nugent Moore,lost,32.0,Victualling,Crew,British,Adult,male,False
+SUTTON,Mr.,Frank,saved,32.0,Victualling,Crew,British,Adult,male,False
+SWIFT,Mr.,Edward,lost,32.0,Victualling,Crew,British,Adult,male,False
+THOMAS,Mr.,William Stanford,lost,44.0,Victualling,Crew,British,Adult,male,False
+THOMAS,Mr.,George Henry,lost,32.0,Victualling,Crew,British,Adult,male,False
+THOMAS,Mr.,John,saved,32.0,Victualling,Crew,British,Adult,male,False
+THORN,Mr.,Alfred Richard,lost,32.0,Victualling,Crew,British,Adult,male,False
+THORNLEY,Mr.,George,saved,32.0,Victualling,Crew,British,Adult,male,False
+ULGAR,Mr.,Jean,lost,32.0,Victualling,Crew,Spanish,Adult,male,False
+Van HOECK,Mr.,Julius E. ,saved,27.0,Victualling,Crew,Dutch,Adult,male,False
+VARNEY,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+VERDIN,Mr.,Francis,lost,32.0,Victualling,Crew,British,Adult,male,False
+WALLACE,Mr.,James,saved,32.0,Victualling,Crew,British,Adult,male,False
+WEIGH,Mr.,Edward ,saved,32.0,Victualling,Crew,British,Adult,male,False
+WEIR,Mrs.,Margaret,lost,51.0,Victualling,Crew,British,Adult,female,False
+WHALLEY,Mr.,Leslie,saved,32.0,Victualling,Crew,British,Adult,male,False
+WIGGINS,Mr.,William,saved,23.0,Victualling,Crew,British,Adult,male,False
+WILKINSON,Mr.,Mr. James,lost,32.0,Victualling,Crew,British,Adult,male,False
+WILLIAMS,Mr.,John,lost,32.0,Victualling,Crew,British,Adult,male,False
+WILLIAMS,Mr.,Mr. Harold,lost,32.0,Victualling,Crew,British,Adult,male,False
+WILLIAMS,Mr.,Robert,lost,32.0,Victualling,Crew,British,Adult,male,False
+WILLIAMS,Mr.,Robert Neptune,lost,32.0,Victualling,Crew,British,Adult,male,False
+WILLIAMS,Mr.,William H.,saved,32.0,Victualling,Crew,British,Adult,male,False
+WILMIN,Mr.,William,saved,32.0,Victualling,Crew,British,Adult,male,False
+WILSON,Mr.,Robert,lost,32.0,Victualling,Crew,British,Adult,male,False
+WISEMAN,Mr.,James,lost,32.0,Victualling,Crew,British,Adult,male,False
+WOOD,Mr.,Walter,saved,31.0,Victualling,Crew,British,Adult,male,False
+WOOD,Mr.,Henry Edward,lost,35.0,Victualling,Crew,British,Adult,male,False
+WOOD,Mr.,Alfred,saved,32.0,Victualling,Crew,British,Adult,male,False
+WOOD,Mr.,Wallace Edkin,lost,32.0,Victualling,Crew,British,Adult,male,False
+WRIGHT,Master,Harold Joseph,lost,32.0,Victualling,Crew,British,Minor,male,False
+WYNNE,Master,George,saved,16.0,Victualling,Crew,British,Minor,male,False
+WYNNE,Mr.,Joseph Dominic,lost,37.0,Victualling,Crew,British,Adult,male,False
