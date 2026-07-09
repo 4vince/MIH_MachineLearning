@@ -189,8 +189,10 @@ def standardize_output(df, config):
     out.columns = out.columns.str.lower()
 
     # renamed target -> survived (bool)
+    # Convert to int first in case the column is category dtype (comparing
+    # category('bool') to int silently fails in pandas -- True != 1 inside a category)
     target_lower = config["target_column"].lower()
-    out["survived"] = out[target_lower] == config["survived_value"]
+    out["survived"] = out[target_lower].astype(int) == config["survived_value"]
 
     # renamed class
     class_col = config["class_column"].lower()
