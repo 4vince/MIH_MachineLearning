@@ -1,14 +1,3 @@
-"""
-clean_titanic_data.py
-
-Full, reusable data-cleaning pipeline. Walks through the 5 anomaly types
-in a fixed order, reports every change made, and writes a validated
-cleaned CSV to disk. Never overwrites the raw input file.
-
-Usage:
-    python clean_titanic_data.py                                   # uses defaults below
-    python clean_titanic_data.py Titanic-Dataset.csv titanic_cleaned.csv
-"""
 
 import sys
 import pandas as pd
@@ -35,6 +24,16 @@ CONFIG = {
     "required_no_nulls": [
         "Survived", "Pclass", "Sex", "Age", "Fare", "Embarked",
     ],
+
+    # ------------------------------------------------------------------ #
+    # Output standardisation — same schema across every dataset
+    # ------------------------------------------------------------------ #
+    "dataset_name": "Titanic",
+    "survived_value": 1,                     # value in target_column that means "survived"
+    "class_column": "Pclass",
+    "class_map": {1: "First", 2: "Second", 3: "Third"},
+    "fill_missing": {"adult_minor": "N/A"},  # fare already exists in Titanic
+    "extra_output_cols": ["sibsp", "parch", "embarked"],
 }
 
 
@@ -178,11 +177,48 @@ def standardize_formats(df, config):
 
 
 # ---------------------------------------------------------------------------
-# STEP 6: VALIDATE
+# STEP 6: STANDARDIZE OUTPUT
+# ---------------------------------------------------------------------------
+def standardize_output(df, config):
+    print("\n" + "=" * 70)
+    print("6. STANDARDIZE OUTPUT")
+    print("=" * 70)
+
+    out = df.copy()
+    # lowercase all column names for consistent access
+    out.columns = out.columns.str.lower()
+
+    # renamed target -> survived (bool)
+    target_lower = config["target_column"].lower()
+    out["survived"] = out[target_lower] == config["survived_value"]
+
+    # renamed class
+    class_col = config["class_column"].lower()
+    class_map = {str(k): v for k, v in config.get("class_map", {}).items()}
+    out["class"] = out[class_col].astype(str).map(class_map).fillna(out[class_col].astype(str))
+
+    # add missing columns with NaN
+    for col, fill in config.get("fill_missing", {}).items():
+        out[col] = fill
+
+    # keep only standard columns + dataset marker
+    out["dataset"] = config["dataset_name"]
+    std_cols = ["survived", "sex", "age", "class", "fare", "adult_minor", "dataset", "age_was_imputed"]
+    extra = config.get("extra_output_cols", [])
+    keep = [c for c in std_cols + extra if c in out.columns]
+    out = out[keep]
+
+    print(f"Output columns: {list(out.columns)}")
+    print(f"Output shape: {out.shape}")
+    return out
+
+
+# ---------------------------------------------------------------------------
+# STEP 7: VALIDATE
 # ---------------------------------------------------------------------------
 def validate(df, config):
     print("\n" + "=" * 70)
-    print("6. VALIDATION")
+    print("7. VALIDATION")
     print("=" * 70)
 
     problems = []
@@ -206,12 +242,15 @@ def validate(df, config):
 # PIPELINE
 # ---------------------------------------------------------------------------
 def clean(df, config):
+    if "Unnamed: 0" in df.columns:
+        df = df.drop(columns=["Unnamed: 0"])
     df = handle_missing_values(df, config)
     df = handle_duplicates(df, config)
     df = fix_data_types(df, config)
     df = flag_outliers(df)
     df = standardize_formats(df, config)
     validate(df, config)
+    df = standardize_output(df, config)
     return df
 
 
