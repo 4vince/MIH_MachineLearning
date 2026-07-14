@@ -1,0 +1,1 @@
+{"scenario":"Lusitania","train_rows":1562,"test_rows":391,"features":["age","sex_male","adult_minor_Infant","adult_minor_Minor","passenger_crew_Passenger","class"],"n_features":6,"train_survival_rate":0.3918053777,"test_survival_rate":0.3913043478}

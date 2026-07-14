@@ -1,0 +1,1 @@
+{"scenario":"Titanic","train_rows":711,"test_rows":178,"features":["age","fare","sibsp","parch","sex_male","embarked_Q","embarked_S","class"],"n_features":8,"train_survival_rate":0.382559775,"test_survival_rate":0.3820224719}
