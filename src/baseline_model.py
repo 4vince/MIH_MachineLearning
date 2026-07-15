@@ -30,9 +30,10 @@ import shap
 warnings.filterwarnings("ignore")
 
 # ── Paths ──────────────────────────────────────────────────────────────────
+ROOT = Path(__file__).parent.parent
 HERE = Path(__file__).parent
-PROCESSED_DIR = HERE / "processed"
-RESULTS_DIR = HERE / "results"
+PROCESSED_DIR = ROOT / "processed"
+RESULTS_DIR = ROOT / "results"
 
 RANDOM_STATE = 42
 

@@ -36,9 +36,10 @@ from sklearn.preprocessing import (
 warnings.filterwarnings("ignore")
 
 # ── Paths ──────────────────────────────────────────────────────────────────
+ROOT = Path(__file__).parent.parent
 HERE = Path(__file__).parent
-DATA_DIR = HERE
-PROCESSED_DIR = HERE / "processed"
+DATA_DIR = ROOT / "data" / "cleaned"
+PROCESSED_DIR = ROOT / "processed"
 TITANIC_CLEANED = DATA_DIR / "titanic_cleaned.csv"
 LUSITANIA_CLEANED = DATA_DIR / "lusitania_cleaned.csv"
 

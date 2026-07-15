@@ -66,14 +66,14 @@ The finding (OR = 2.56) means the survival advantage of being female **increases
 
 ```bash
 # Feature engineering
-python feature_pipeline.py --scenario pooled
+python src/feature_pipeline.py --scenario pooled
 
 # Model training + evaluation
-python model_strategy.py
+python src/model_strategy.py
 
 # Full evaluation plots
-python evaluation.py
+python src/evaluation.py
 
 # Streamlit app
-python -m streamlit run app.py
+python -m streamlit run app/app.py
 ```

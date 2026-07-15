@@ -1,43 +1,40 @@
 
 import sys
+from pathlib import Path
 import pandas as pd
 
 
+# ---------------------------------------------------------------------------
+# CONFIG -- the only section that should change per-dataset
+# ---------------------------------------------------------------------------
 CONFIG = {
-    "drop_columns_high_missing": [
-        "Position", "Status", "City", "Lifeboat", "Rescue Vessel",
-    ],
-    "drop_rows_missing": ["Personal name", "Citizenship"],
+    "drop_columns_high_missing": ["Cabin"],
+    "drop_rows_missing": ["Embarked"],
     "impute_group_median": {
-        "Age": ["Sex"],
+        "Age": ["Pclass", "Sex"],   # column -> group-by columns
     },
-    "categorical_columns": [
-        "Fate", "Title", "Department/Class", "Passenger/Crew",
-        "Citizenship", "Adult/Minor", "Sex",
-    ],
-    "id_column": None,
-    "target_column": "Fate",
+    "categorical_columns": ["Survived", "Pclass", "Sex", "Embarked"],
+    "id_column": "PassengerId",
+    "target_column": "Survived",
+    # per-column casing rule, since one blanket rule (e.g. always lowercase)
+    # is wrong -- Sex is conventionally lowercase, Embarked is uppercase
     "text_columns_to_standardize": {
         "Sex": "lower",
-        "Fate": "lower",
+        "Embarked": "upper",
     },
     "required_no_nulls": [
-        "Fate", "Sex", "Age", "Adult/Minor",
+        "Survived", "Pclass", "Sex", "Age", "Fare", "Embarked",
     ],
 
     # ------------------------------------------------------------------ #
     # Output standardisation — same schema across every dataset
     # ------------------------------------------------------------------ #
-    "dataset_name": "Lusitania",
-    "survived_value": "saved",               # value in target_column that means "survived"
-    "class_column": "Department/Class",
-    "class_map": {},
-    "fill_missing": {"fare": None},
-    "column_rename": {
-        "adult/minor": "adult_minor",
-        "passenger/crew": "passenger_crew",
-    },
-    "extra_output_cols": ["passenger_crew"],
+    "dataset_name": "Titanic",
+    "survived_value": 1,                     # value in target_column that means "survived"
+    "class_column": "Pclass",
+    "class_map": {1: "First", 2: "Second", 3: "Third"},
+    "fill_missing": {"adult_minor": "N/A"},  # fare already exists in Titanic
+    "extra_output_cols": ["sibsp", "parch", "embarked"],
 }
 
 
@@ -153,6 +150,9 @@ def flag_outliers(df, numeric_cols=None):
         print(f"\n{col}: min={desc['min']:.2f} max={desc['max']:.2f} skew={skew:.2f} "
               f"IQR bounds=({lower:.2f}, {upper:.2f}) -> {n_outliers} potential outliers")
 
+    # No rows dropped here on purpose. Investigate individually --
+    # e.g. Fare==0 (crew/line-pass tickets) and Fare==512 (a shared ticket
+    # split across 3 passengers) both turned out to be legitimate, not errors.
     return df
 
 
@@ -186,19 +186,17 @@ def standardize_output(df, config):
     print("=" * 70)
 
     out = df.copy()
+    # lowercase all column names for consistent access
     out.columns = out.columns.str.lower()
 
-    # apply column renames so source-specific names map to standard names
-    col_rename = config.get("column_rename", {})
-    out.rename(columns=col_rename, inplace=True)
-
     # renamed target -> survived (bool)
+    # Convert to int first in case the column is category dtype (comparing
+    # category('bool') to int silently fails in pandas -- True != 1 inside a category)
     target_lower = config["target_column"].lower()
-    out["survived"] = out[target_lower] == config["survived_value"]
+    out["survived"] = out[target_lower].astype(int) == config["survived_value"]
 
     # renamed class
     class_col = config["class_column"].lower()
-    class_col = col_rename.get(class_col, class_col)
     class_map = {str(k): v for k, v in config.get("class_map", {}).items()}
     out["class"] = out[class_col].astype(str).map(class_map).fillna(out[class_col].astype(str))
 
@@ -259,7 +257,10 @@ def clean(df, config):
     return df
 
 
-def main(input_path="LusitaniaManifest.csv", output_path="lusitania_cleaned.csv"):
+def main(
+    input_path=str(Path(__file__).parent.parent / "data" / "raw" / "Titanic-Dataset.csv"),
+    output_path=str(Path(__file__).parent.parent / "data" / "cleaned" / "titanic_cleaned.csv"),
+):
     raw = pd.read_csv(input_path)
     print(f"Loaded {input_path} -> {raw.shape}")
 

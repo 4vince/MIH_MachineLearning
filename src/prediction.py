@@ -12,7 +12,7 @@ import pandas as pd
 import joblib
 from pathlib import Path
 
-MODEL_PATH = Path(__file__).parent / "results" / "final_model.joblib"
+MODEL_PATH = Path(__file__).parent.parent / "results" / "final_model.joblib"
 _model = None
 
 

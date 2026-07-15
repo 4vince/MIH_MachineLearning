@@ -74,104 +74,67 @@ and tests that finding from the raw passenger-level data.
 
 ```
 .
-├── Titanic-Dataset.csv              # Raw Titanic dataset
-├── LusitaniaManifest.csv            # Raw Lusitania manifest
-├── MIH_ML.ipynb                     # Interactive notebook for exploration
+├── data/
+│   ├── raw/
+│   │   ├── Titanic-Dataset.csv            # Raw Titanic dataset
+│   │   └── LusitaniaManifest.csv          # Raw Lusitania manifest
+│   └── cleaned/
+│       ├── titanic_cleaned.csv            # Cleaned Titanic output
+│       └── lusitania_cleaned.csv          # Cleaned Lusitania output
 │
-├── clean_titanic_data.py            # Clean and standardize Titanic data
-├── clean_lusitania_data.py          # Clean and standardize Lusitania data
-├── titanic_cleaned.csv              # Cleaned Titanic output
-├── lusitania_cleaned.csv            # Cleaned Lusitania output
+├── src/                                   # Source code
+│   ├── clean_titanic_data.py              # Clean and standardize Titanic data
+│   ├── clean_lusitania_data.py            # Clean and standardize Lusitania data
+│   ├── feature_pipeline.py                # Encode, scale, split → processed/
+│   ├── model_strategy.py                  # Logistic Regression + Random Forest + SHAP
+│   ├── evaluation.py                      # Confusion matrices, ROC, residuals, calibration
+│   ├── baseline_model.py                  # Initial baseline (before interaction term)
+│   └── prediction.py                      # Reusable prediction interface
 │
-├── feature_pipeline.py              # Encode, scale, split — produces processed/
-├── processed/                       # Train/test splits (parquet + npy)
+├── app/
+│   ├── app.py                             # Streamlit app for exploration
+│   └── requirements.txt                   # Dependencies
 │
-├── model_strategy.py                # Logistic Regression + Random Forest + SHAP
-├── evaluation.py                    # Confusion matrices, ROC, residuals, calibration
-├── baseline_model.py                # Initial baseline (before interaction term)
+├── processed/                             # Train/test splits (parquet + npy)
 │
-├── prediction.py                    # Reusable prediction interface
-├── app.py                           # Streamlit app for exploration
-├── requirements.txt                 # Dependencies
+├── results/                               # Model outputs
+│   ├── final_model.joblib                 # Trained Random Forest
+│   ├── logistic_coefficients.csv          # LR coefficients with p-values
+│   ├── shap_importance.csv                # RF feature importance
+│   ├── evaluation_metrics.csv             # Full metric report
+│   └── plots/                             # Confusion matrices, ROC, residuals, calibration
 │
-├── results/                         # Model outputs
-│   ├── final_model.joblib           # Trained Random Forest
-│   ├── logistic_coefficients.csv    # LR coefficients with p-values
-│   ├── shap_importance.csv          # RF feature importance
-│   ├── evaluation_metrics.csv       # Full metric report
-│   └── plots/                       # Confusion matrices, ROC, residuals, calibration
+├── docs/
+│   ├── BASELINE.md                        # Baseline model documentation
+│   └── MODEL_COMPARISON.md                # Baseline vs final model comparison
 │
-├── MODEL_COMPARISON.md              # Baseline vs final model comparison
+├── MIH_ML.ipynb                           # Interactive notebook for exploration
 └── README.md
 ```
-
-## Dataset contents
-
-### Titanic (`Titanic-Dataset.csv`) — 891 rows, 12 raw columns
-
-| Column | Type | Missing | Description |
-|---|---|---|---|
-| `PassengerId` | int | 0 | Row identifier, not predictive — dropped before modeling |
-| `Survived` | int (0/1) | 0 | **Target variable** |
-| `Pclass` | int (1/2/3) | 0 | Ticket class — proxy for socio-economic status |
-| `Name` | text | 0 | Full name, formatted `Surname, Title. Firstname`; title can be extracted as a feature |
-| `Sex` | text | 0 | `male` / `female` |
-| `Age` | float | 177 (20%) | Missing disproportionately in 3rd class (28%) vs. 2nd class (6%) — not random, handled with group-based imputation |
-| `SibSp` | int | 0 | Number of siblings/spouses aboard |
-| `Parch` | int | 0 | Number of parents/children aboard |
-| `Ticket` | text | 0 | Ticket number — often shared across multiple passengers (e.g. families), so `Fare` is per-ticket, not strictly per-person |
-| `Fare` | float | 0 | Ticket price; includes legitimate `0` values (crew/line passes) and shared-ticket high values |
-| `Cabin` | text | 687 (77%) | Cabin number — dropped, too sparse and mostly a unique identifier (147 unique values across only 204 known rows) |
-| `Embarked` | text (S/C/Q) | 2 | Port of boarding: Southampton, Cherbourg, or Queenstown |
-
-### Lusitania (`LusitaniaManifest.csv`) — 1,961 rows, 15 raw columns
-
-| Column | Type | Missing | Description |
-|---|---|---|---|
-| `Family name` | text | 0 | Surname — not predictive, dropped |
-| `Title` | text | 0 | Honorific (Mr./Mrs./etc.) — not used, low priority |
-| `Personal name` | text | 3 | First name(s) — not predictive, dropped |
-| `Fate` | text (Saved/Lost) | 0 | **Target variable**, recoded to `survived` (1/0) to match Titanic |
-| `Age` | float | 662 (34%) | Heavier missingness than Titanic — `Adult/Minor` used as a zero-missing fallback |
-| `Department/Class` | text | 0 | Mixed field: passenger classes (`Saloon`, `Second`, `Third`) *and* crew departments (`Band`, `Deck`, `Engineering`, `Victualling`); recoded to `pclass` (1/2/3) after filtering to passengers only |
-| `Passenger/Crew` | text | 0 | Used to filter the dataset down to passengers only, matching Titanic's passenger-only scope (1,265 passengers vs. 693 crew + 3 stowaways) |
-| `Citizenship` | text | 2 | No Titanic equivalent — dropped |
-| `Position` | text | 1,270 (65%) | Crew job title only — dropped, too sparse and not comparable to any Titanic field |
-| `Status` | text | 1,170 (60%) | Unclear meaning, high missingness — dropped |
-| `City` | text | 682 (35%) | Residence city, no Titanic equivalent — dropped |
-| `Lifeboat` | text | 1,867 (95%) | Only populated for some survivors — kept aside as a validation check on `Fate`, not used as a model feature |
-| `Rescue Vessel` | text | 1,810 (92%) | Same issue as `Lifeboat` — dropped |
-| `Adult/Minor` | text | 0 | Zero-missing age category, used as a fallback where `Age` is missing |
-| `Sex` | text | 0 | `Male` / `Female`, lowercased to match Titanic's `sex` formatting |
-
-## Key variables
-
-| Column | Meaning | Hypothesis it tests |
-|---|---|---|
-| `survived` | 1 = survived, 0 = did not | Target variable |
-| `sex` | Passenger sex | "Women and children first" norm |
-| `pclass` | Ticket class (1/2/3, Lusitania's Saloon/Second/Third recoded to match) | Socio-economic access to lifeboats |
-| `age` | Passenger age | Age-based prioritization |
-| `disaster` | Titanic or Lusitania | Which disaster the row belongs to |
-| `time_to_sink_min` | Minutes from incident to sinking (160 vs. 18) | Moderator: does evacuation speed change which norms hold? |
-
-
-## Status
-
-- [x] Load, clean, and filter Titanic dataset
-- [x] Load, clean, and filter Lusitania dataset (passengers isolated from crew)
-- [x] Pool both datasets into a shared schema with `time_to_sink_min` and `sex_x_time`
-- [x] Impute missing age within the pooled dataset
-- [x] Fit logistic regression with `sex_female × time_to_sink_min` interaction term
-- [x] Cross-check with Random Forest + SHAP
-- [x] Hyperparameter tuning (RF: n=300, depth=None, leaf=10)
-- [x] Write up findings: which patterns are structural vs. context-bound
-- [x] Streamlit app for exploration
 
 ## Running the app
 
 ```bash
-python -m streamlit run app.py
+python -m streamlit run app/app.py
+```
+
+## Running the scripts
+
+All scripts should be run from the **project root** directory:
+
+```bash
+# Step 1: Clean raw data
+python src/clean_titanic_data.py
+python src/clean_lusitania_data.py
+
+# Step 2: Run feature pipeline (produces processed/)
+python src/feature_pipeline.py
+
+# Step 3: Train models
+python src/model_strategy.py
+
+# Step 4: Generate evaluation plots
+python src/evaluation.py
 ```
 
 ## Important caveat

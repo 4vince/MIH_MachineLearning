@@ -26,9 +26,10 @@ matplotlib.use("Agg")
 warnings.filterwarnings("ignore")
 
 # ── Paths ──────────────────────────────────────────────────────────────────
+ROOT = Path(__file__).parent.parent
 HERE = Path(__file__).parent
-PROCESSED_DIR = HERE / "processed"
-RESULTS_DIR = HERE / "results"
+PROCESSED_DIR = ROOT / "processed"
+RESULTS_DIR = ROOT / "results"
 PLOTS_DIR = RESULTS_DIR / "plots"
 
 RANDOM_STATE = 42

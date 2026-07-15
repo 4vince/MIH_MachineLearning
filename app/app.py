@@ -9,6 +9,9 @@ NOT a predictor for real individuals in future disasters.
 """
 
 import streamlit as st
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 from prediction import predict_survival
 
 st.set_page_config(page_title="Maritime Survival Explorer", layout="centered")
