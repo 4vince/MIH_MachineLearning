@@ -119,12 +119,23 @@ def interpret_interaction(coef_df):
   p-value:                  {p_val:.4f}
   Significant at alpha=0.05: {sig}
 
-  Interpretation:
-  - OR > 1: The survival advantage of being female INCREASES with
-    slower sinking (more time -> stronger "women and children first")
-  - OR < 1: The survival advantage of being female DECREASES with
-    slower sinking (less time -> more chaotic evacuation)
-  - OR ~ 1: Evacuation speed does NOT moderate the sex effect
+  What this means for evacuation design:
+  - OR > 1: Women's survival advantage grows with more evacuation time.
+    This suggests "women and children first" is a TIME-DEPENDENT norm --
+    it reasserts itself when people have time to coordinate, but erodes
+    under extreme time pressure. Design implication: evacuation systems
+    that buy more time (e.g., faster muster, more lifeboats) may
+    indirectly protect vulnerable groups by allowing social norms to
+    reassert themselves.
+
+  - OR < 1: Women's survival advantage shrinks with more time.
+    This would suggest the norm weakens when people can deliberate --
+    possibly due to competing self-interest. Design implication: speed
+    matters less than clear protocol.
+
+  - OR ~ 1: Evacuation speed does NOT moderate the sex effect.
+    This would suggest "women and children first" is either always
+    enforced or never enforced, regardless of time pressure.
 """)
 
 

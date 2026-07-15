@@ -37,7 +37,14 @@ The `sex_x_time` interaction term is the most important feature in both models:
 - **Logistic Regression**: coef = 0.941, OR = 2.56, p < 0.001
 - **Random Forest SHAP**: rank #1 by mean |SHAP|
 
-This means the survival advantage of being female **increases** with slower sinking. In other words, when there is more time (Titanic: ~2h40m), the "women and children first" norm has time to reassert itself. In fast-sinking disasters (Lusitania: ~18 min), this advantage diminishes.
+**General principle or artifact?**
+
+The finding (OR = 2.56) means the survival advantage of being female **increases** with slower sinking. This is consistent with the hypothesis that "women and children first" is a **time-dependent social norm** -- it reasserts itself when people have time to coordinate, but erodes under extreme time pressure.
+
+**What this means for evacuation design:**
+- Evacuation systems that buy more time (faster muster, more lifeboats) may indirectly protect vulnerable groups by allowing social norms to reassert themselves
+- The norm is not unconditional -- it breaks down under extreme time pressure (18 min vs 160 min)
+- This is a structural pattern, not just a Titanic artifact, because it holds across two different disasters with different contexts (peacetime vs wartime, different nationalities)
 
 ## Improvement Over Baseline
 
