@@ -47,6 +47,29 @@ and tests that finding from the raw passenger-level data.
    design) versus context-bound (artifacts of 1912–1915 social norms or
    ship layout).
 
+## Why these two models?
+
+**Logistic Regression (primary):**
+- Coefficients are directly interpretable: "being female multiplies
+  survival odds by X, holding class and age constant"
+- Explicit interaction terms (`sex_female × time_to_sink_min`) let us
+  directly test the moderation hypothesis from the Frey/Savage/Torgler
+  research
+- Provides p-values and confidence intervals — useful for saying a variable
+  *matters*, not just that it correlates
+- Standard tool in the academic literature on this topic (the PNAS paper
+  used regression-based approaches, not black-box ML)
+
+**Random Forest + SHAP (secondary/validation):**
+- Feature importance rankings act as a sanity check on what logistic
+  regression found
+- SHAP values explain individual predictions ("this passenger's low
+  survival probability was driven mostly by Pclass=3, then Age")
+- Catches nonlinear effects or unexpected interactions that logistic
+  regression might miss
+- If both models agree on which variables matter most, that's strong
+  evidence the finding is real, not a modeling artifact
+
 ## Repository structure
 
 ```
