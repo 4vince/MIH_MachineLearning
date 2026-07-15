@@ -61,3 +61,19 @@ The finding (OR = 2.56) means the survival advantage of being female **increases
 - `results/logistic_coefficients.csv` — LR coefficient table with p-values
 - `results/shap_importance.csv` — RF feature importance
 - `results/shap_comparison.png` — LR vs RF feature comparison plot
+
+## Running
+
+```bash
+# Feature engineering
+python feature_pipeline.py --scenario pooled
+
+# Model training + evaluation
+python model_strategy.py
+
+# Full evaluation plots
+python evaluation.py
+
+# Streamlit app
+python -m streamlit run app.py
+```

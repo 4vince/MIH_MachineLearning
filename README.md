@@ -51,9 +51,34 @@ and tests that finding from the raw passenger-level data.
 
 ```
 .
-├── Titanic-Dataset.csv          # Raw Titanic dataset (passengers only)
-├── LusitaniaManifest.csv        # Raw Lusitania manifest (passengers + crew)
-├── MIH_ML.ipynb                 # Interactive notebook for demonstation
+├── Titanic-Dataset.csv              # Raw Titanic dataset
+├── LusitaniaManifest.csv            # Raw Lusitania manifest
+├── MIH_ML.ipynb                     # Interactive notebook for exploration
+│
+├── clean_titanic_data.py            # Clean and standardize Titanic data
+├── clean_lusitania_data.py          # Clean and standardize Lusitania data
+├── titanic_cleaned.csv              # Cleaned Titanic output
+├── lusitania_cleaned.csv            # Cleaned Lusitania output
+│
+├── feature_pipeline.py              # Encode, scale, split — produces processed/
+├── processed/                       # Train/test splits (parquet + npy)
+│
+├── model_strategy.py                # Logistic Regression + Random Forest + SHAP
+├── evaluation.py                    # Confusion matrices, ROC, residuals, calibration
+├── baseline_model.py                # Initial baseline (before interaction term)
+│
+├── prediction.py                    # Reusable prediction interface
+├── app.py                           # Streamlit app for exploration
+├── requirements.txt                 # Dependencies
+│
+├── results/                         # Model outputs
+│   ├── final_model.joblib           # Trained Random Forest
+│   ├── logistic_coefficients.csv    # LR coefficients with p-values
+│   ├── shap_importance.csv          # RF feature importance
+│   ├── evaluation_metrics.csv       # Full metric report
+│   └── plots/                       # Confusion matrices, ROC, residuals, calibration
+│
+├── MODEL_COMPARISON.md              # Baseline vs final model comparison
 └── README.md
 ```
 
@@ -112,11 +137,19 @@ and tests that finding from the raw passenger-level data.
 
 - [x] Load, clean, and filter Titanic dataset
 - [x] Load, clean, and filter Lusitania dataset (passengers isolated from crew)
-- [ ] Pool both datasets into a shared schema
+- [x] Pool both datasets into a shared schema with `time_to_sink_min` and `sex_x_time`
 - [x] Impute missing age within the pooled dataset
-- [ ] Fit logistic regression with `sex_female × time_to_sink_min` interaction term
-- [ ] Cross-check with Random Forest + SHAP
-- [ ] Write up findings: which patterns are structural vs. context-bound
+- [x] Fit logistic regression with `sex_female × time_to_sink_min` interaction term
+- [x] Cross-check with Random Forest + SHAP
+- [x] Hyperparameter tuning (RF: n=300, depth=None, leaf=10)
+- [x] Write up findings: which patterns are structural vs. context-bound
+- [x] Streamlit app for exploration
+
+## Running the app
+
+```bash
+python -m streamlit run app.py
+```
 
 ## Important caveat
 
