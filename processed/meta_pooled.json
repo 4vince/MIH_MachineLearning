@@ -1,1 +1,1 @@
-{"scenario":"Pooled","train_rows":2273,"test_rows":569,"features":["age","sex_male","class"],"n_features":3,"train_survival_rate":0.3889133304,"test_survival_rate":0.388400703}
+{"scenario":"Pooled","train_rows":1721,"test_rows":431,"features":["age","time_to_sink_min","sex_x_time","sex_male","class"],"n_features":5,"train_survival_rate":0.3794305636,"test_survival_rate":0.3781902552}

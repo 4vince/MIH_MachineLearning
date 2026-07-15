@@ -50,7 +50,7 @@ TARGET = "survived"
 
 # ── Feature roles per dataset ──────────────────────────────────────────────
 # Columns common to both after cleaning
-COMMON_NUMERIC = ["age"]
+COMMON_NUMERIC = ["age", "time_to_sink_min"]
 COMMON_CATEGORICAL = ["sex", "class"]
 COMMON_CATEGORICAL_ORDINAL = ["class"]  # for ordinal encoding (First > Second > Third)
 
@@ -300,7 +300,22 @@ def main() -> None:
     cols_to_concat = common_features + [TARGET]
     titanic_common = titanic[cols_to_concat].copy()
     lusitania_common = lusitania[[c for c in cols_to_concat if c in lusitania.columns]].copy()
+
+    # Filter Lusitania to passengers only (exclude crew)
+    if "passenger_crew" in lusitania.columns:
+        lusitania_common = lusitania_common.loc[
+            lusitania.loc[lusitania_common.index, "passenger_crew"] == "Passenger"
+        ].copy()
+
+    # Add disaster context
+    titanic_common["time_to_sink_min"] = 160.0   # Titanic: ~2h40m
+    lusitania_common["time_to_sink_min"] = 18.0   # Lusitania: ~18 min
+
     pooled = pd.concat([titanic_common, lusitania_common], ignore_index=True)
+
+    # Interaction term: sex_female × time_to_sink_min
+    # sex is still raw ('male'/'female') at this point
+    pooled["sex_x_time"] = (pooled["sex"] == "female").astype(float) * pooled["time_to_sink_min"]
 
     scenarios = []
 
@@ -319,8 +334,11 @@ def main() -> None:
         )
 
     if args.scenario in ("pooled", "all"):
+        # time_to_sink_min is added after common_features is computed,
+        # so include it explicitly in the numeric columns
+        pooled_numeric = ["age", "time_to_sink_min", "sex_x_time"]
         scenarios.append(
-            ("Pooled", pooled, common_numeric, common_onehot, common_ordinal)
+            ("Pooled", pooled, pooled_numeric, common_onehot, common_ordinal)
         )
 
     # ── Run ────────────────────────────────────────────────────────────────
